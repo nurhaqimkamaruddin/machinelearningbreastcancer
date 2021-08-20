@@ -1,0 +1,1905 @@
+chemotherapy,age_at_diagnosis,pam50_claudin_low_subtype,cohort,er_status,her2_status_measured_by_snp6,her2_status,hormone_therapy,inferred_menopausal_state,lymph_nodes_examined_positive,nottingham_prognostic_index,oncotree_code,overall_survival_months,overall_survival,pr_status,radio_therapy,tumor_size,death_from_cancer
+0,75.65,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,10,6.044,IDC,140.5,1,Negative,1,22,Living
+0,43.19,LumA,1,Positive,NEUTRAL,Negative,1,Pre,0,4.02,IDC,84.63333333,1,Positive,1,10,Living
+1,48.87,LumB,1,Positive,NEUTRAL,Negative,1,Pre,1,4.03,IDC,163.7,0,Positive,0,15,Died of Disease
+1,47.68,LumB,1,Positive,NEUTRAL,Negative,1,Pre,3,4.05,MDLC,164.9333333,1,Positive,1,25,Living
+1,76.97,LumB,1,Positive,NEUTRAL,Negative,1,Post,8,6.08,MDLC,41.36666667,0,Positive,1,40,Died of Disease
+0,78.77,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,4.062,IDC,7.8,0,Positive,1,31,Died of Disease
+1,56.45,LumB,1,Positive,LOSS,Negative,1,Post,1,4.02,IDC,164.3333333,1,Positive,1,10,Living
+0,89.08,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,1,4.058,MDLC,99.53333333,0,Negative,1,29,Died of Other Causes
+0,86.41,LumB,1,Positive,GAIN,Negative,1,Post,1,5.032,IDC,36.56666667,0,Negative,1,16,Died of Other Causes
+0,84.22,Her2,1,Positive,LOSS,Negative,0,Post,0,3.056,ILC,36.26666667,0,Negative,0,28,Died of Disease
+0,85.49,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,3.044,IDC,132.0333333,0,Positive,1,22,Died of Disease
+0,70.91,LumB,1,Positive,GAIN,Negative,1,Post,0,2.042,IDC,163.5333333,1,Positive,1,21,Living
+1,45.27,claudinlow,1,Negative,NEUTRAL,Negative,0,Pre,3,5.038,IDC,164.9,1,Positive,1,19,Living
+0,83.02,LumA,1,Positive,GAIN,Positive,1,Post,24,6.072,IDC,14.13333333,0,Positive,1,36,Died of Other Causes
+1,51.46,claudinlow,1,Positive,GAIN,Positive,1,Post,1,4.05,IDC,103.8333333,1,Positive,1,25,Living
+1,44.64,Normal,1,Positive,NEUTRAL,Negative,1,Pre,3,4.066,MDLC,75.33333333,1,Positive,1,33,Living
+0,70.02,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,3.046,IDC,161.0666667,1,Negative,1,23,Living
+0,66.91,LumB,1,Positive,GAIN,Negative,1,Post,0,4.072,IDC,160.3,1,Positive,1,36,Living
+0,62.62,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,3.058,MDLC,62.86666667,1,Positive,0,29,Living
+1,45.43,LumB,1,Positive,NEUTRAL,Negative,1,Pre,0,4.046,IDC,140.8666667,1,Positive,1,23,Living
+1,52.14,Basal,1,Negative,NEUTRAL,Negative,0,Post,0,4.034,IDC,153.9666667,1,Negative,1,17,Living
+0,69.13,LumB,1,Positive,GAIN,Negative,1,Post,0,3.036,IDC,108.9333333,1,Positive,0,18,Living
+0,61.49,LumB,1,Positive,NEUTRAL,Negative,1,Post,1,4.032,IDC,157.4333333,1,Positive,1,16,Living
+0,51.01,LumA,1,Positive,LOSS,Negative,1,Post,1,3.024,IDC,103.1333333,1,Positive,1,12,Living
+1,50.42,Her2,1,Negative,NEUTRAL,Negative,0,Post,4,6.08,IDC,28.5,0,Negative,1,40,Died of Disease
+0,49.61,claudinlow,1,Positive,NEUTRAL,Negative,1,Pre,0,3.048,IDC,69.5,1,Positive,1,24,Living
+0,64.85,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,3.026,ILC,86.06666667,0,Positive,1,13,Died of Disease
+0,43.55,LumB,1,Positive,NEUTRAL,Negative,1,Pre,1,5.028,MDLC,153.2,1,Positive,1,14,Living
+0,80.5,LumB,1,Positive,NEUTRAL,Negative,1,Post,1,4.11,IDC,49.76666667,0,Positive,1,55,Died of Other Causes
+0,78.19,LumA,1,Positive,NEUTRAL,Negative,1,Post,3,5.06,IDC,98.7,1,Positive,1,30,Living
+1,68.68,Basal,1,Negative,NEUTRAL,Negative,0,Post,0,4.078,IDC,8.066666667,0,Negative,1,39,Died of Disease
+0,46.89,Normal,1,Positive,NEUTRAL,Negative,1,Pre,0,3.068,ILC,148.0333333,1,Positive,1,34,Living
+1,51.38,LumB,1,Positive,NEUTRAL,Negative,1,Post,16,5.08,ILC,140.7666667,0,Positive,1,40,Died of Disease
+1,49.87,LumA,1,Positive,NEUTRAL,Negative,1,Pre,5,4.14,IDC,85.33333333,1,Positive,1,70,Living
+0,65.59,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,4.036,IDC,158.0333333,1,Positive,0,18,Living
+1,43.15,claudinlow,1,Positive,NEUTRAL,Negative,1,Pre,0,4.036,IDC,42.7,0,Negative,1,18,Died of Disease
+0,82.53,Basal,1,Positive,GAIN,Negative,0,Post,0,4.09,IDC,112.4,0,Positive,0,45,Died of Other Causes
+0,54.23,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,2.054,IDC,127.1,1,Positive,0,27,Living
+0,83.89,LumA,1,Positive,NEUTRAL,Negative,1,Post,14,6.3,ILC,39.16666667,0,Negative,1,150,Died of Disease
+1,36.96,Her2,1,Negative,GAIN,Positive,1,Pre,3,5.034,IDC,43.16666667,1,Negative,1,17,Living
+0,48.59,LumA,1,Positive,NEUTRAL,Negative,1,Pre,0,3.06,IDC,13.4,1,Positive,0,30,Living
+1,39.84,Basal,1,Negative,NEUTRAL,Negative,0,Pre,0,4.05,IDC,66.73333333,0,Negative,1,25,Died of Disease
+1,42.55,Normal,1,Positive,NEUTRAL,Negative,1,Pre,1,4.12,ILC,122.2666667,1,Positive,1,60,Living
+0,60.07,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,4.046,MDLC,2.4,1,Negative,1,23,Living
+0,82.73,LumB,1,Positive,GAIN,Negative,1,Post,1,4.046,IDC,95.86666667,0,Negative,1,23,Died of Disease
+0,72.1,LumB,1,Positive,GAIN,Positive,1,Post,1,5.052,IDC,29.06666667,0,Negative,1,26,Died of Disease
+0,78.73,LumA,1,Positive,NEUTRAL,Negative,1,Post,6,5.06,IDC,152.2,1,Negative,1,30,Living
+0,58.95,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,3.04,IDC,138.9,1,Positive,1,20,Living
+0,76.89,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,4.05,IDC,114.2333333,0,Positive,0,25,Died of Other Causes
+1,43.46,LumA,1,Positive,NEUTRAL,Negative,1,Pre,2,4.1,MDLC,118.2,1,Positive,1,50,Living
+0,73.98,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,2.018,MDLC,1.266666667,1,Positive,0,9,Living
+0,61.95,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,3.07,IDC,127.6333333,1,Positive,1,35,Living
+1,52.11,Normal,1,Negative,NEUTRAL,Negative,1,Post,1,4.026,IDC,132.0666667,1,Negative,1,13,Living
+0,57.4,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,0,3.028,IDC,137.8,1,Positive,1,14,Living
+1,63.53,Her2,1,Negative,GAIN,Positive,0,Post,4,6.048,IDC,38.56666667,0,Negative,1,24,Died of Other Causes
+0,56.75,LumA,1,Positive,GAIN,Positive,1,Post,0,2.034,IDC,153.5666667,1,Negative,0,17,Living
+1,69.16,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,4.078,IDC,66.63333333,0,Negative,1,39,Died of Disease
+1,58.89,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,3.16,MDLC,151,1,Negative,1,80,Living
+0,73.11,LumB,1,Positive,NEUTRAL,Negative,1,Post,3,5.044,IDC,12.93333333,0,Negative,1,22,Died of Disease
+0,74.09,LumB,1,Positive,NEUTRAL,Negative,1,Post,1,5.07,IDC,116.6333333,1,Positive,1,35,Living
+0,72.3,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,3.026,IDC,88.2,1,Positive,0,13,Living
+0,51.33,LumA,1,Positive,LOSS,Negative,1,Post,0,3.036,IDC,150.5666667,1,Positive,0,18,Living
+0,47.62,LumA,1,Positive,NEUTRAL,Negative,1,Pre,1,4.06,ILC,109.2,1,Positive,1,30,Living
+0,74.07,LumB,1,Positive,NEUTRAL,Negative,1,Post,1,4.054,IDC,147.9333333,1,Negative,1,27,Living
+0,57.99,LumA,1,Positive,LOSS,Negative,0,Post,0,3.032,MDLC,12.4,1,Positive,0,16,Living
+0,85.39,LumA,1,Positive,NEUTRAL,Negative,1,Post,2,5.044,IDC,54.33333333,0,Negative,1,22,Died of Other Causes
+0,79.73,LumB,1,Positive,NEUTRAL,Negative,1,Post,6,6.052,IDC,152.0666667,0,Positive,1,26,Died of Disease
+0,62.4,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,3.04,ILC,147.6666667,1,Positive,1,20,Living
+0,81,LumB,1,Positive,LOSS,Negative,1,Post,2,5.044,IDC,122.1666667,0,Negative,1,22,Died of Other Causes
+0,79.28,LumA,1,Positive,NEUTRAL,Negative,1,Post,9,5.076,ILC,51.76666667,0,Positive,1,38,Died of Disease
+0,53.16,Her2,1,Negative,GAIN,Positive,0,Post,0,4.038,IDC,1.766666667,1,Negative,0,19,Living
+0,77.13,Basal,1,Negative,LOSS,Negative,0,Post,0,4.078,IDC,51.7,0,Negative,1,39,Died of Other Causes
+0,70.22,Basal,1,Positive,NEUTRAL,Negative,1,Post,0,3.04,IDC,111.2,1,Negative,0,20,Living
+0,67.7,LumB,1,Positive,NEUTRAL,Negative,1,Post,6,6.1,IDC,49.23333333,0,Positive,1,50,Died of Disease
+0,63.77,Her2,1,Negative,GAIN,Positive,0,Post,0,4.024,IDC,63.03333333,1,Negative,0,12,Living
+0,62.46,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,3.024,IDC,114.7666667,1,Negative,0,12,Living
+0,62.72,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,0,2.018,IDC,59.8,1,Negative,1,9,Living
+0,71.5,claudinlow,1,Negative,NEUTRAL,Negative,0,Post,0,4.06,IDC,114.7666667,1,Negative,1,30,Living
+0,57.56,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,4.028,MDLC,55.76666667,1,Positive,1,14,Living
+0,84.73,Basal,1,Negative,NEUTRAL,Negative,0,Post,1,5.054,IDC,98.1,0,Negative,0,27,Died of Other Causes
+1,37.87,claudinlow,1,Negative,NEUTRAL,Negative,0,Pre,0,4.032,IDC,10.83333333,1,Negative,1,16,Living
+1,53.75,LumA,1,Positive,GAIN,Positive,1,Post,22,6.104,IDC,47.63333333,0,Negative,1,52,Died of Disease
+1,44.98,LumA,1,Positive,NEUTRAL,Negative,1,Pre,3,5.048,IDC,104.4,1,Positive,1,24,Living
+0,76.4,LumB,1,Positive,NEUTRAL,Negative,1,Post,2,5.076,IDC,43.1,0,Positive,1,38,Died of Disease
+0,60.26,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,0,4.034,IDC,122.7666667,1,Negative,1,17,Living
+0,83.35,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,3.052,IDC,93.36666667,0,Negative,1,26,Died of Other Causes
+0,64.57,Normal,1,Positive,NEUTRAL,Negative,1,Post,0,4.054,MDLC,5.433333333,1,Negative,1,27,Living
+1,48.11,LumA,1,Positive,NEUTRAL,Negative,1,Pre,1,4.04,IDC,138.1,1,Positive,1,20,Living
+0,83.99,LumB,1,Positive,LOSS,Negative,1,Post,4,6.088,IDC,3.766666667,1,Positive,1,44,Living
+1,59.18,claudinlow,1,Negative,NEUTRAL,Negative,0,Post,0,4.048,IDC,78.76666667,1,Negative,1,24,Living
+0,69.51,LumA,1,Positive,LOSS,Negative,1,Post,0,2.04,IDC,72.36666667,1,Negative,0,20,Living
+1,38.78,LumA,1,Positive,NEUTRAL,Negative,1,Pre,7,6.072,IDC,113.4333333,1,Positive,1,36,Living
+0,85.94,LumA,1,Positive,NEUTRAL,Negative,1,Post,2,4.088,MDLC,45.6,0,Positive,1,44,Died of Other Causes
+0,74.63,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,4.042,IDC,104.4666667,0,Positive,1,21,Died of Disease
+1,56.39,claudinlow,1,Negative,GAIN,Negative,0,Post,7,6.068,IDC,17.93333333,0,Negative,1,34,Died of Disease
+0,51.69,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,3.036,IDC,62.33333333,1,Positive,1,18,Living
+0,68.45,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,4.042,IDC,85.96666667,1,Positive,1,21,Living
+0,68.41,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,3.05,IMMC,109.0333333,1,Positive,0,25,Living
+1,82.65,Her2,1,Negative,NEUTRAL,Negative,0,Post,2,4.09,ILC,31.3,0,Negative,1,45,Died of Disease
+1,57.79,Normal,1,Positive,NEUTRAL,Negative,1,Post,6,6.096,IDC,9.066666667,0,Negative,1,48,Died of Disease
+0,81.02,Basal,1,Negative,NEUTRAL,Negative,0,Post,0,4.05,IDC,15.3,0,Negative,1,25,Died of Other Causes
+0,62.55,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,0,2.026,MDLC,144.6333333,1,Negative,1,13,Living
+0,51.54,LumB,1,Positive,GAIN,Negative,0,Post,7,6.038,IDC,19,1,Positive,0,19,Living
+1,56.45,LumA,1,Positive,NEUTRAL,Negative,1,Post,6,5.042,IDC,91.6,1,Positive,1,21,Living
+0,75.18,LumB,1,Positive,GAIN,Negative,1,Post,21,6.056,IDC,146,1,Negative,1,28,Living
+1,50.48,LumB,1,Positive,NEUTRAL,Negative,1,Post,2,5.048,IDC,70.73333333,1,Positive,1,24,Living
+1,43.37,LumB,1,Positive,NEUTRAL,Negative,1,Pre,4,6.036,IDC,144.7666667,1,Positive,1,18,Living
+0,57.56,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,5.038,MDLC,144.4,1,Positive,1,19,Living
+0,69.86,Basal,1,Negative,NEUTRAL,Negative,0,Post,0,4.076,IDC,130.8666667,0,Negative,1,38,Died of Disease
+1,49.5,Basal,1,Negative,GAIN,Positive,0,Pre,0,4.04,IDC,125.7,1,Negative,1,20,Living
+1,46,LumA,1,Positive,NEUTRAL,Negative,1,Pre,1,5.06,IDC,128.3666667,1,Positive,1,30,Living
+1,86.24,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,5.05,IDC,58.76666667,0,Positive,1,25,Died of Other Causes
+0,79.38,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,2.02,IDC,24.3,0,Negative,1,10,Died of Disease
+0,53.56,Normal,1,Positive,NEUTRAL,Negative,1,Post,0,3.052,ILC,144.4666667,1,Negative,1,26,Living
+1,55.02,claudinlow,1,Negative,NEUTRAL,Negative,0,Post,2,5.07,IDC,141.1666667,1,Negative,1,35,Living
+0,48.13,LumA,1,Positive,GAIN,Negative,1,Pre,2,4.056,MDLC,173.6333333,1,Positive,0,28,Living
+0,67.17,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,0,3.006,IDC,82.36666667,1,Negative,0,3,Living
+0,42.95,claudinlow,1,Negative,NEUTRAL,Negative,0,Pre,13,6.08,IDC,44.8,0,Negative,0,40,Died of Disease
+1,41.41,Basal,1,Negative,NEUTRAL,Negative,0,Pre,0,4.054,IDC,146.9,1,Negative,1,27,Living
+0,75.63,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,3.08,MDLC,122.2,1,Positive,1,40,Living
+1,43.39,LumB,1,Positive,NEUTRAL,Negative,1,Pre,2,5.04,IDC,131.0666667,1,Positive,1,20,Living
+0,37.24,claudinlow,1,Negative,GAIN,Negative,0,Pre,6,6.04,IDC,39.83333333,0,Negative,0,20,Died of Disease
+0,77.72,Her2,1,Negative,GAIN,Negative,0,Post,7,6.04,IDC,20.2,0,Negative,0,20,Died of Disease
+1,50.31,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,0,2.04,ILC,212.7,1,Positive,1,20,Living
+1,50.45,LumA,1,Positive,GAIN,Negative,1,Post,12,6.04,IDC,81.33333333,0,Negative,1,20,Died of Disease
+0,44.01,LumA,1,Positive,NEUTRAL,Negative,1,Pre,0,4.05,IDC,176.7666667,1,Positive,0,25,Living
+0,59.15,LumB,1,Positive,GAIN,Positive,1,Post,0,3.038,IDC,212.2,1,Negative,0,19,Living
+0,58.21,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,3.04,IDC,57.63333333,1,Positive,1,20,Living
+0,52.95,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,3.048,IDC,111.8666667,1,Positive,0,24,Living
+0,63.35,Normal,1,Positive,NEUTRAL,Negative,0,Post,1,3.034,ILC,10.83333333,0,Positive,0,17,Died of Disease
+0,45.5,LumA,1,Positive,NEUTRAL,Negative,1,Pre,0,3.038,MDLC,71.5,1,Positive,1,19,Living
+0,41.98,Her2,1,Negative,GAIN,Positive,0,Pre,0,1.07,IDC,200.3333333,1,Negative,0,35,Living
+0,71.57,LumA,1,Positive,GAIN,Negative,0,Post,0,1.06,IMMC,19.6,1,Negative,0,30,Living
+0,44.73,LumA,1,Positive,NEUTRAL,Negative,0,Pre,0,3.028,IDC,207.6333333,1,Positive,0,14,Living
+0,77.77,LumA,1,Positive,GAIN,Negative,1,Post,0,3.034,IDC,72.43333333,0,Positive,0,17,Died of Other Causes
+0,56.27,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,3.052,MDLC,94.23333333,0,Positive,1,26,Died of Other Causes
+1,52.55,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,4.04,IDC,142.5666667,0,Positive,1,20,Died of Disease
+1,43.63,LumA,1,Positive,GAIN,Positive,1,Pre,0,4.054,IDC,205.0333333,1,Positive,1,27,Living
+1,52.19,claudinlow,1,Negative,NEUTRAL,Negative,0,Post,4,6.07,IDC,193.1666667,1,Negative,1,35,Living
+0,77.85,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,2.092,MDLC,85.56666667,0,Positive,1,46,Died of Disease
+0,55.09,claudinlow,1,Positive,NEUTRAL,Negative,0,Post,0,4.058,IDC,73.13333333,0,Negative,0,29,Died of Disease
+0,51.25,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,3.036,IDC,199.1,1,Positive,0,18,Living
+1,53.72,LumB,1,Positive,NEUTRAL,Negative,1,Post,1,4.044,IDC,149.7666667,1,Positive,1,22,Living
+0,67.83,Normal,1,Positive,NEUTRAL,Negative,1,Post,0,2.022,IDC,149.7333333,1,Positive,0,11,Living
+0,54.76,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,1.028,ILC,164.7,1,Negative,0,14,Living
+0,66.75,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,4.03,IDC,185.6,1,Positive,1,15,Living
+1,45.76,LumA,1,Positive,NEUTRAL,Negative,1,Pre,0,4.042,IDC,71,1,Positive,1,21,Living
+0,53.45,Her2,1,Negative,GAIN,Negative,0,Post,0,4.022,IDC,188.3333333,1,Negative,1,11,Living
+0,69.19,Normal,1,Positive,NEUTRAL,Negative,1,Post,0,3.024,IDC,152.3,1,Positive,0,12,Living
+0,53.1,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,2.034,IDC,200.7,1,Positive,0,17,Living
+1,57.61,LumA,1,Positive,GAIN,Negative,1,Post,0,3.05,IDC,91.73333333,0,Negative,1,25,Died of Disease
+0,62.7,LumA,1,Positive,GAIN,Negative,1,Post,0,4.022,IDC,86.13333333,1,Positive,1,11,Living
+1,38.99,Basal,1,Negative,GAIN,Negative,0,Pre,9,6,IDC,11.86666667,0,Negative,0,,Died of Disease
+0,78.26,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,1.024,IDC,169.8333333,0,Positive,1,12,Died of Other Causes
+0,63.93,LumB,1,Positive,NEUTRAL,Negative,1,Post,6,4.052,IDC,90.23333333,0,Positive,1,26,Died of Disease
+0,55.44,Her2,1,Positive,NEUTRAL,Negative,1,Post,0,4.052,IDC,182.2666667,0,Negative,0,26,Died of Other Causes
+0,76.49,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,1.054,MDLC,176.0333333,0,Positive,0,27,Died of Other Causes
+0,83.93,Her2,1,Positive,NEUTRAL,Negative,0,Post,1,5.062,IDC,43.1,0,Negative,0,31,Died of Disease
+0,46.44,claudinlow,1,Negative,NEUTRAL,Negative,1,Pre,1,4.042,IDC,189.1333333,1,Negative,1,21,Living
+0,84.88,LumA,1,Positive,GAIN,Negative,1,Post,0,1.06,MDLC,90.66666667,0,Positive,1,30,Died of Other Causes
+0,66.54,LumB,1,Positive,NEUTRAL,Negative,0,Post,0,4.038,IDC,28.5,0,Positive,0,19,Died of Disease
+1,45.39,claudinlow,1,Negative,NEUTRAL,Negative,0,Pre,2,5.052,IDC,22.23333333,1,Negative,1,26,Living
+0,29.98,LumB,1,Positive,NEUTRAL,Negative,0,Pre,0,4.028,IDC,337.0333333,1,Positive,0,14,Living
+0,55.36,LumB,1,Positive,NEUTRAL,Negative,0,Post,8,6.056,IDC,122,0,Negative,0,28,Died of Disease
+0,68.66,LumA,1,Positive,NEUTRAL,Negative,1,Post,3,4.05,IDC,186.5333333,1,Negative,1,25,Living
+0,61.94,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,0,2.018,IDC,186.1,1,Negative,1,9,Living
+1,34.3,Basal,1,Negative,NEUTRAL,Negative,0,Pre,3,5.106,IDC,5.833333333,0,Negative,0,53,Died of Disease
+0,69.52,claudinlow,1,Positive,LOSS,Negative,1,Post,0,2.042,ILC,192.2666667,0,Positive,1,21,Died of Other Causes
+0,47.64,Normal,1,Positive,NEUTRAL,Negative,1,Pre,0,3.042,IDC,172.9,0,Positive,1,21,Died of Disease
+1,51.81,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,8,6.036,MDLC,194.2333333,1,Positive,1,18,Living
+0,51.42,claudinlow,1,Negative,NEUTRAL,Negative,0,Post,0,1,IDC,0,1,Negative,0,,Living
+0,48.07,claudinlow,1,Positive,NEUTRAL,Negative,0,Pre,14,5.056,IDC,3.366666667,1,Positive,0,28,Living
+0,62.92,claudinlow,1,Positive,NEUTRAL,Negative,0,Post,0,4.046,IDC,192.6,1,Negative,0,23,Living
+0,77.54,LumB,1,Positive,NEUTRAL,Negative,0,Post,1,4.038,IDC,94.73333333,0,Negative,0,19,Died of Other Causes
+1,55.22,Normal,1,Positive,GAIN,Positive,1,Post,25,5.06,IDC,63.8,0,Negative,0,30,Died of Disease
+0,75.91,claudinlow,1,Negative,NEUTRAL,Negative,1,Post,0,4.04,IDC,71.6,0,Negative,1,20,Died of Other Causes
+0,49.92,LumA,1,Positive,NEUTRAL,Negative,0,Pre,0,2.05,IDC,199.5333333,1,Positive,0,25,Living
+1,51.19,LumB,1,Positive,GAIN,Positive,1,Post,1,5.052,IDC,39.2,0,Positive,0,26,Died of Disease
+0,80.34,Her2,1,Negative,NEUTRAL,Negative,0,Post,1,5.11,IDC,49.43333333,0,Negative,0,55,Died of Other Causes
+0,51.62,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,0,2.026,IDC,64.36666667,1,Negative,0,13,Living
+1,46.17,Normal,1,Negative,GAIN,Negative,1,Pre,0,3.028,IDC,72.9,1,Negative,1,14,Living
+0,47.13,LumA,1,Positive,LOSS,Negative,1,Pre,1,3.018,IDC,164.5,1,Positive,0,9,Living
+0,82.46,LumA,1,Positive,NEUTRAL,Negative,1,Post,2,5.046,IDC,122.7,0,Positive,1,23,Died of Other Causes
+0,81.53,LumA,1,Positive,NEUTRAL,Negative,1,Post,5,6.058,ILC,84.2,0,Negative,1,29,Died of Disease
+0,47.71,claudinlow,1,Negative,NEUTRAL,Negative,1,Pre,0,4.022,IDC,60.13333333,1,Negative,0,11,Living
+0,84.85,LumB,1,Positive,NEUTRAL,Negative,1,Post,1,5.028,IDC,111.5333333,0,Positive,1,14,Died of Disease
+1,60.62,Normal,1,Positive,NEUTRAL,Negative,1,Post,6,6.07,IDC,63.5,0,Positive,0,35,Died of Disease
+0,82.53,LumA,1,Positive,NEUTRAL,Negative,1,Post,2,5.07,IDC,42.96666667,0,Positive,1,35,Died of Disease
+1,41.63,claudinlow,1,Positive,GAIN,Positive,1,Pre,6,6.02,IDC,177.3333333,1,Negative,1,10,Living
+0,51.21,LumA,1,Positive,NEUTRAL,Negative,0,Post,0,2.038,BREAST,183.2666667,1,Negative,0,19,Living
+0,89.43,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,3.042,IDC,42.33333333,0,Positive,0,21,Died of Other Causes
+0,67.38,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,4.032,IDC,185.1666667,1,Positive,1,16,Living
+0,77.94,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,2.094,IDC,151.1666667,0,Negative,0,47,Died of Other Causes
+0,70.49,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,3.066,ILC,169.6,0,Positive,0,33,Died of Disease
+0,55.52,LumB,1,Positive,NEUTRAL,Negative,1,Post,1,5.046,IDC,184.7666667,1,Positive,0,23,Living
+0,73.48,Her2,1,Negative,GAIN,Positive,0,Post,5,6.1,IDC,4.433333333,0,Negative,0,50,Died of Disease
+1,56.32,LumA,1,Positive,GAIN,Negative,1,Post,3,4.1,IDC,186.2,1,Negative,1,50,Living
+0,50.82,Basal,1,Negative,NEUTRAL,Negative,0,Post,0,4.06,IDC,182.9,1,Negative,1,30,Living
+0,76.68,LumA,1,Positive,NEUTRAL,Negative,0,Post,0,4.078,IDC,151.6666667,0,Positive,0,39,Died of Other Causes
+0,58.01,Normal,1,Negative,NEUTRAL,Negative,0,Post,0,1.036,BREAST,168.7,1,Negative,0,18,Living
+0,92.14,LumB,1,Positive,GAIN,Negative,1,Post,10,5.064,MDLC,40.7,0,Negative,1,32,Died of Disease
+0,50.98,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,2.034,MDLC,63.73333333,1,Positive,1,17,Living
+1,46.86,LumA,1,Positive,NEUTRAL,Negative,1,Pre,2,5.06,IDC,174.6333333,1,Positive,0,30,Living
+0,86.28,LumA,1,Positive,NEUTRAL,Negative,1,Post,2,4.05,IDC,50.53333333,0,Negative,1,25,Died of Other Causes
+1,47.64,LumA,1,Positive,GAIN,Negative,1,Pre,6,6.064,IDC,144.9666667,0,Positive,1,32,Died of Disease
+0,79.34,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,4.09,IDC,177.5333333,1,Positive,1,45,Living
+0,69.62,LumB,1,Positive,NEUTRAL,Negative,1,Post,2,5.068,,125.6,0,Positive,1,34,Died of Disease
+0,74.76,LumB,1,Positive,NEUTRAL,Negative,1,Post,1,5.044,IDC,170.6333333,0,Positive,1,22,Died of Disease
+0,90.43,LumB,1,Positive,NEUTRAL,Negative,0,Post,0,3.048,IMMC,26.73333333,0,Positive,0,24,Died of Other Causes
+0,79.97,Basal,1,Negative,NEUTRAL,Negative,1,Post,3,5.032,IDC,164.7333333,1,Negative,1,16,Living
+0,67.01,LumA,1,Positive,NEUTRAL,Negative,1,Post,3,4.052,,173.9,0,Positive,1,26,Died of Disease
+0,54.96,Normal,1,Positive,NEUTRAL,Negative,0,Post,0,3.058,ILC,125.3333333,0,Positive,0,29,Died of Disease
+0,70.51,Normal,1,Positive,NEUTRAL,Negative,1,Post,3,4.06,IDC,91.13333333,0,Positive,0,30,Died of Disease
+0,59.75,Normal,1,Positive,NEUTRAL,Negative,1,Post,2,4.058,ILC,152.9333333,1,Positive,1,29,Living
+1,37.3,LumA,1,Positive,NEUTRAL,Negative,1,Pre,1,4.056,IDC,72.66666667,1,Positive,0,28,Living
+0,32.61,Her2,1,Negative,GAIN,Positive,0,Pre,5,6.032,IDC,20.43333333,0,Negative,0,16,Died of Disease
+0,81.88,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,2.044,IDC,122.7,0,Positive,1,22,Died of Other Causes
+0,72.26,LumB,1,Positive,LOSS,Negative,1,Post,1,5.06,IDC,146.0333333,0,Negative,0,30,Died of Other Causes
+0,49.05,Basal,1,Negative,NEUTRAL,Negative,0,Pre,0,5.16,IDC,46.06666667,0,Negative,0,80,Died of Disease
+1,61.32,claudinlow,1,Negative,NEUTRAL,Negative,1,Post,0,4.026,IDC,55.2,0,Negative,1,13,Died of Disease
+0,86.26,LumA,1,Positive,NEUTRAL,Negative,1,Post,6,5.08,IDC,41.83333333,0,Negative,1,40,Died of Other Causes
+0,73.01,claudinlow,1,Negative,NEUTRAL,Negative,0,Post,3,5.034,IDC,11.6,0,Negative,0,17,Died of Disease
+0,58.16,LumA,1,Positive,NEUTRAL,Negative,0,Post,0,3.032,IDC,213.5,1,Positive,0,16,Living
+1,57.87,LumA,1,Positive,GAIN,Negative,1,Post,2,5.052,IDC,32.86666667,1,Positive,1,26,Living
+0,44.21,LumA,1,Positive,NEUTRAL,Negative,0,Pre,0,3.044,IDC,21.6,1,Positive,1,22,Living
+0,83.58,LumB,1,Positive,NEUTRAL,Negative,1,Post,2,3.1,IDC,132.5666667,0,Positive,1,50,Died of Disease
+0,40.5,Her2,1,Negative,GAIN,Positive,0,Pre,41,6.048,IDC,15.06666667,0,Negative,0,24,Died of Other Causes
+1,52.79,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,4.036,IDC,47.03333333,0,Positive,1,18,Died of Disease
+0,73.24,LumB,1,Positive,NEUTRAL,Negative,0,Post,7,5.134,MDLC,89.9,0,Negative,0,67,Died of Disease
+1,48.67,LumA,1,Positive,NEUTRAL,Negative,1,Pre,6,5.1,IDC,176.6,1,Negative,1,50,Living
+0,76.84,claudinlow,1,Positive,GAIN,Positive,1,Post,0,3.03,IMMC,87.23333333,0,Negative,1,15,Died of Disease
+0,51.74,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,3.044,MDLC,64.23333333,1,Positive,0,22,Living
+0,70.98,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,0,3.018,MDLC,142.4333333,1,Negative,1,9,Living
+1,74.79,LumB,1,Positive,NEUTRAL,Negative,1,Post,10,6.062,IDC,61.9,0,Positive,1,31,Died of Disease
+1,65.47,LumB,1,Positive,GAIN,Negative,1,Post,7,6.054,ILC,144.3333333,1,Negative,1,27,Living
+1,64.01,LumB,1,Positive,NEUTRAL,Negative,1,Post,16,6.094,IDC,93.5,0,Negative,1,47,Died of Other Causes
+0,78.41,LumB,1,Positive,GAIN,Positive,1,Post,6,6.044,IDC,131.1333333,1,Negative,1,22,Living
+1,39.86,Basal,1,Negative,NEUTRAL,Negative,1,Pre,0,4.036,IDC,62.76666667,0,Negative,1,18,Died of Disease
+0,63.31,LumB,1,Positive,GAIN,Positive,1,Post,2,5.048,IDC,27,0,Positive,1,24,Died of Disease
+0,34.68,LumB,1,Positive,LOSS,Negative,1,Pre,15,6.05,IDC,1.433333333,1,Negative,0,25,Living
+0,72.69,Normal,1,Positive,NEUTRAL,Negative,0,Post,1,5.046,IDC,143.1666667,1,Positive,1,23,Living
+0,63.25,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,3.024,IDC,134.3666667,1,Positive,1,12,Living
+1,57.15,Her2,1,Negative,GAIN,Positive,0,Post,2,5.056,IDC,97.3,0,Negative,1,28,Died of Disease
+1,48.22,LumA,1,Positive,NEUTRAL,Negative,1,Pre,1,4.058,IDC,135.6666667,1,Negative,1,29,Living
+0,83.9,LumB,1,Positive,NEUTRAL,Negative,1,Post,1,5.05,IDC,69.33333333,0,Positive,1,25,Died of Other Causes
+1,33.65,Her2,1,Positive,GAIN,Positive,1,Pre,0,4.042,IDC,130.2,1,Negative,1,21,Living
+1,59.05,LumA,1,Positive,NEUTRAL,Negative,1,Post,2,4.044,IDC,136.4666667,1,Negative,1,22,Living
+0,65.02,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,4.038,IDC,85.73333333,0,Negative,0,19,Died of Disease
+0,74.58,LumB,1,Positive,LOSS,Negative,1,Post,13,6.086,IDC,61.1,0,Positive,1,43,Died of Disease
+1,66.58,LumB,1,Positive,NEUTRAL,Negative,1,Post,11,6.062,IDC,36.43333333,0,Negative,1,31,Died of Disease
+0,66.83,LumA,1,Positive,LOSS,Negative,1,Post,8,6.03,IDC,138.1333333,1,Positive,1,15,Living
+1,46.63,Normal,1,Positive,GAIN,Positive,1,Pre,3,5.056,IDC,97.56666667,1,Negative,1,28,Living
+1,46.87,LumB,1,Positive,GAIN,Positive,1,Pre,19,6.1,IDC,96.96666667,1,Positive,1,50,Living
+1,61.23,claudinlow,1,Negative,GAIN,Positive,0,Post,15,6.1,IDC,142.4666667,1,Negative,1,50,Living
+1,56.28,Normal,1,Positive,NEUTRAL,Negative,1,Post,2,5.06,IDC,38.13333333,0,Positive,0,30,Died of Disease
+1,68.74,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,16,6.106,IDC,20.83333333,0,Positive,1,53,Died of Disease
+0,56.48,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,3.04,MDLC,64.23333333,1,Positive,1,20,Living
+0,80.38,Her2,1,Negative,GAIN,Positive,0,Post,2,5.1,IDC,29,0,Negative,1,50,Died of Disease
+1,56.45,Basal,1,Negative,NEUTRAL,Negative,0,Post,0,4.054,IDC,60.66666667,1,Negative,1,27,Living
+0,58.56,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,2.022,IDC,57.23333333,1,Positive,1,11,Living
+0,56.41,LumB,1,Positive,NEUTRAL,Negative,1,Post,19,6.084,IDC,43.2,0,Negative,1,42,Died of Disease
+1,68.47,Her2,1,Negative,NEUTRAL,Negative,0,Post,11,6.09,IDC,137.1,0,Negative,1,45,Died of Other Causes
+1,55.28,claudinlow,1,Negative,NEUTRAL,Negative,0,Post,0,4.032,IDC,22.46666667,0,Negative,0,16,Died of Disease
+1,48.58,claudinlow,1,Negative,NEUTRAL,Negative,0,Pre,0,4.04,IDC,26.26666667,0,Negative,1,20,Died of Disease
+0,73.06,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,0,2.022,IDC,99.73333333,1,Positive,1,11,Living
+0,60.71,LumA,1,Positive,LOSS,Negative,1,Post,1,5.03,IDC,63.5,1,Positive,1,15,Living
+1,69.32,LumB,1,Positive,NEUTRAL,Negative,1,Post,17,6.36,IDC,96.9,0,Negative,1,180,Died of Disease
+0,57.41,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,3.04,ILC,63,1,Positive,1,20,Living
+1,54.6,LumA,1,Positive,LOSS,Negative,1,Post,1,4.036,MDLC,139.1666667,1,Negative,1,18,Living
+0,54.06,LumB,1,Positive,NEUTRAL,Negative,1,Post,1,5.038,IDC,136.1666667,1,Negative,1,19,Living
+1,56.58,LumA,1,Positive,NEUTRAL,Negative,1,Post,5,6.094,IDC,140.0666667,1,Positive,1,47,Living
+0,72.16,claudinlow,1,Negative,LOSS,Negative,0,Post,0,4.042,IDC,76.63333333,1,Negative,1,21,Living
+0,54.22,Her2,1,Positive,NEUTRAL,Negative,1,Post,1,4.08,IDC,6.266666667,0,Positive,1,40,Died of Disease
+0,58.72,Her2,1,Positive,NEUTRAL,Negative,1,Post,1,5.062,IDC,102.0666667,1,Negative,1,31,Living
+0,77.92,LumA,1,Positive,NEUTRAL,Negative,1,Post,3,4.042,IDC,104.3,0,Positive,1,21,Died of Other Causes
+1,34.92,claudinlow,1,Negative,NEUTRAL,Negative,0,Pre,0,4.032,IDC,76.73333333,1,Negative,1,16,Living
+0,73.53,Her2,1,Positive,GAIN,Positive,1,Post,0,4.048,IDC,93,0,Positive,0,24,Died of Other Causes
+0,66.72,LumA,1,Positive,NEUTRAL,Negative,1,Post,7,5.032,IDC,33.8,0,Positive,1,16,Died of Other Causes
+1,44.02,claudinlow,1,Negative,NEUTRAL,Negative,0,Pre,22,6.12,IDC,9.833333333,0,Negative,1,60,Died of Disease
+0,83.17,LumA,1,Positive,NEUTRAL,Negative,1,Post,6,5.044,IDC,24.4,0,Positive,1,22,Died of Other Causes
+1,50.48,Normal,1,Positive,NEUTRAL,Negative,1,Post,2,4.084,IDC,131.1,1,Positive,1,42,Living
+0,81.89,LumA,1,Positive,NEUTRAL,Negative,1,Post,15,5.042,ILC,116.1,1,Negative,1,21,Living
+0,85.21,LumA,1,Positive,NEUTRAL,Negative,1,Post,4,6.04,IDC,55.93333333,1,Negative,1,20,Living
+0,78.86,LumB,1,Positive,GAIN,Negative,1,Post,4,6.08,ILC,74.46666667,0,Positive,1,40,Died of Other Causes
+0,63.61,LumA,1,Positive,NEUTRAL,Negative,1,Post,2,4.114,ILC,85.13333333,1,Negative,1,57,Living
+1,69.79,LumB,1,Positive,GAIN,Positive,1,Post,2,5.04,IDC,45.5,0,Negative,0,20,Died of Disease
+0,88.29,Her2,1,Negative,NEUTRAL,Negative,0,Post,0,4.026,IDC,75.5,0,Negative,1,13,Died of Other Causes
+0,82.17,LumB,1,Positive,LOSS,Negative,1,Post,3,4.03,MDLC,90.56666667,1,Positive,1,15,Living
+1,57.41,Her2,1,Negative,GAIN,Positive,0,Post,1,5.05,IDC,135.1666667,1,Negative,1,25,Living
+0,50.32,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,3.03,IMMC,112.1333333,1,Positive,0,15,Living
+1,56.73,LumB,1,Positive,NEUTRAL,Negative,1,Post,1,5.052,IDC,100.8333333,1,Negative,1,26,Living
+0,71.58,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,1,4.034,IDC,103.4666667,0,Negative,0,17,Died of Disease
+0,61.67,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,0,3.052,IDC,45.03333333,1,Positive,1,26,Living
+0,49.87,LumB,1,Positive,NEUTRAL,Negative,1,Pre,18,5.066,ILC,55.46666667,0,Positive,1,33,Died of Disease
+1,40.07,LumA,1,Positive,NEUTRAL,Negative,1,Pre,1,4.046,IDC,132.5333333,1,Positive,1,23,Living
+1,56.96,claudinlow,1,Negative,NEUTRAL,Negative,0,Post,0,4.048,IDC,72.26666667,1,Negative,0,24,Living
+1,54.38,LumA,1,Positive,NEUTRAL,Negative,1,Post,2,3.07,IDC,112.5666667,1,Positive,1,35,Living
+0,63.2,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,2.032,IDC,50.06666667,1,Negative,0,16,Living
+0,54.43,LumB,1,Positive,GAIN,Negative,1,Post,0,4.046,IDC,62.8,1,Negative,1,23,Living
+1,61.11,Her2,1,Negative,LOSS,Negative,1,Post,6,6.2,IDC,43.13333333,0,Negative,1,100,Died of Disease
+0,90.02,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,3.04,IMMC,46.83333333,0,Positive,1,20,Died of Other Causes
+0,56.84,LumB,1,Positive,LOSS,Negative,1,Post,0,3.036,IDC,99.33333333,1,Positive,1,18,Living
+1,49.28,Normal,1,Positive,NEUTRAL,Negative,1,Pre,2,4.1,IDC,134.5,1,Positive,1,50,Living
+0,85.09,LumB,1,Positive,GAIN,Negative,1,Post,2,5.068,IDC,35.6,0,Negative,1,34,Died of Other Causes
+0,81.44,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,0,3.044,ILC,114,0,Positive,1,22,Died of Disease
+0,60.5,claudinlow,1,Negative,GAIN,Positive,1,Post,0,4.032,IDC,132.7666667,1,Negative,1,16,Living
+0,60.48,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,3.042,IDC,120.5666667,0,Positive,1,21,Died of Disease
+1,58.98,Basal,1,Negative,LOSS,Negative,0,Post,17,6.026,IDC,39.3,0,Negative,1,13,Died of Disease
+0,87.18,LumB,1,Positive,GAIN,Positive,1,Post,2,5.052,IDC,28.6,0,Negative,0,26,Died of Disease
+1,33.97,LumA,1,Positive,NEUTRAL,Negative,1,Pre,4,5.14,IDC,43.86666667,1,Negative,1,70,Living
+1,58.35,Her2,1,Negative,GAIN,Positive,0,Post,0,4.026,IDC,105.6,0,Negative,0,13,Died of Disease
+1,60.95,LumA,1,Positive,NEUTRAL,Negative,1,Post,4,6.052,IDC,129.6,0,Negative,1,26,Died of Other Causes
+1,67.94,LumB,1,Positive,GAIN,Negative,1,Post,3,5.078,IDC,131.2666667,1,Positive,1,39,Living
+0,61.78,claudinlow,1,Negative,LOSS,Negative,1,Post,0,2.03,ILC,88.23333333,1,Negative,1,15,Living
+0,76.49,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,3.034,IMMC,107.4666667,1,Positive,1,17,Living
+0,59.34,LumB,1,Positive,NEUTRAL,Negative,0,Post,0,1.022,ILC,27.4,1,Positive,1,11,Living
+1,54.29,LumB,1,Positive,NEUTRAL,Negative,1,Post,3,5.16,IDC,111.1,0,Positive,1,80,Died of Disease
+0,54.15,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,4.04,IDC,130.7,1,Positive,1,20,Living
+1,54.62,claudinlow,1,Positive,NEUTRAL,Negative,0,Post,0,4.05,IDC,130.4333333,1,Negative,1,25,Living
+0,74.02,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,3,4.046,IDC,132.3,1,Positive,1,23,Living
+1,33.83,Her2,1,Negative,GAIN,Positive,1,Pre,0,4.044,IDC,132.7666667,1,Negative,1,22,Living
+0,51.86,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,4.026,IDC,94.56666667,1,Negative,1,13,Living
+1,54.22,Basal,1,Negative,NEUTRAL,Negative,0,Post,0,4.038,IDC,36.4,0,Negative,1,19,Died of Disease
+1,39.53,Normal,1,Negative,GAIN,Positive,0,Pre,1,5.032,IDC,24.86666667,0,Negative,1,16,Died of Disease
+1,49.61,LumB,1,Positive,NEUTRAL,Negative,1,Pre,2,5.042,IDC,74.46666667,0,Positive,1,21,Died of Disease
+1,38.72,Her2,1,Positive,GAIN,Positive,1,Pre,3,5.044,IDC,82.63333333,1,Positive,1,22,Living
+1,60.78,LumA,1,Positive,NEUTRAL,Negative,1,Post,7,6.1,MDLC,36.76666667,0,Negative,1,50,Died of Disease
+1,57.57,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,4.064,IDC,89.96666667,1,Positive,1,32,Living
+0,57.36,Normal,1,Positive,NEUTRAL,Negative,0,Post,0,3.03,IDC,86.9,1,Positive,1,15,Living
+0,50.64,Basal,1,Positive,NEUTRAL,Negative,1,Post,0,2.05,MDLC,112.9333333,1,Positive,1,25,Living
+1,41.46,claudinlow,1,Negative,GAIN,Negative,1,Pre,0,4.02,IDC,90.56666667,1,Negative,0,10,Living
+0,81.9,LumA,1,Positive,NEUTRAL,Negative,1,Post,10,5.06,IDC,101.9666667,1,Positive,1,30,Living
+0,43.4,LumA,1,Positive,NEUTRAL,Negative,1,Pre,0,3.06,ILC,125.8,1,Positive,1,30,Living
+0,85.21,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,4.056,MDLC,81.13333333,0,Positive,1,28,Died of Other Causes
+1,77.22,claudinlow,1,Negative,NEUTRAL,Negative,0,Post,21,6.08,IDC,36.63333333,0,Negative,1,40,Died of Disease
+1,63.19,claudinlow,1,Negative,NEUTRAL,Negative,1,Post,7,6.038,IDC,71.8,0,Negative,1,19,Died of Disease
+1,60,Normal,1,Positive,NEUTRAL,Negative,1,Post,4,4.052,IDC,130.9,1,Positive,1,26,Living
+0,57.27,LumA,1,Positive,GAIN,Negative,1,Post,0,3.058,IDC,73.7,1,Positive,1,29,Living
+1,36.56,Basal,1,Negative,NEUTRAL,Negative,0,Pre,0,4.044,IDC,67.46666667,1,Negative,1,22,Living
+1,48.93,LumA,1,Positive,GAIN,Negative,1,Pre,0,4.042,IDC,71.5,1,Positive,1,21,Living
+1,56.41,claudinlow,1,Negative,NEUTRAL,Negative,1,Post,5,6.06,IDC,82.1,1,Negative,1,30,Living
+0,60.77,LumA,1,Positive,GAIN,Negative,1,Post,0,3.046,IDC,101.2333333,1,Positive,1,23,Living
+0,68.16,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,4.042,IDC,130.4666667,1,Positive,1,21,Living
+0,56.38,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,3.024,IDC,60.7,1,Positive,1,12,Living
+1,60.74,Her2,1,Negative,NEUTRAL,Negative,0,Post,1,5.042,IDC,45.8,0,Positive,1,21,Died of Disease
+0,58.71,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,4.036,IDC,23.8,1,Positive,1,18,Living
+0,42.68,Normal,1,Positive,GAIN,Negative,1,Pre,0,3.022,IDC,114.3333333,1,Negative,0,11,Living
+0,41.48,Basal,1,Positive,NEUTRAL,Negative,1,Pre,0,4.022,IDC,115.3,1,Positive,1,11,Living
+0,71.84,Normal,1,Positive,NEUTRAL,Negative,1,Post,1,5.12,IDC,128.4,1,Positive,1,60,Living
+0,59.84,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,3.062,IDC,61.7,1,Positive,1,31,Living
+0,56.74,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,2.048,IDC,121.5333333,1,Positive,1,24,Living
+0,73.39,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,4.064,IDC,117.0333333,1,Positive,1,32,Living
+1,42.89,LumB,1,Positive,NEUTRAL,Negative,1,Pre,1,4.04,,13.4,1,Positive,1,20,Living
+1,62.81,Basal,1,Negative,NEUTRAL,Negative,0,Post,0,4.03,IDC,114.4666667,1,Negative,1,15,Living
+0,47.92,LumA,1,Positive,LOSS,Negative,1,Pre,0,3.034,IDC,61.9,1,Positive,1,17,Living
+1,61.99,claudinlow,1,Positive,LOSS,Negative,1,Post,23,6.13,IDC,110.9666667,1,Negative,1,65,Living
+0,52.2,LumA,1,Positive,NEUTRAL,Negative,1,Post,3,4.06,ILC,212.2,1,Positive,1,30,Living
+0,54.08,Her2,1,Negative,GAIN,Positive,0,Post,0,2,,2.5,1,Negative,0,,Living
+1,40.65,Normal,1,Positive,NEUTRAL,Negative,1,Pre,0,4.02,IDC,80.83333333,1,Negative,0,10,Living
+1,48.47,Basal,1,Negative,NEUTRAL,Negative,0,Pre,0,4.05,IDC,65.86666667,1,Negative,1,25,Living
+0,72.18,LumB,1,Positive,NEUTRAL,Negative,0,Post,0,4.03,IDC,139.6333333,0,Positive,0,15,Died of Other Causes
+0,73.22,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,2,4.038,IDC,109.8333333,0,Positive,1,19,Died of Other Causes
+1,53.64,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,5.052,IDC,193.9666667,1,Negative,1,26,Living
+1,67.46,LumA,1,Positive,NEUTRAL,Negative,1,Post,7,5.05,IDC,48.53333333,0,Positive,0,25,Died of Disease
+1,60.12,Normal,1,Positive,LOSS,Negative,1,Post,0,4.032,IDC,163.8666667,1,Positive,1,16,Living
+1,59.07,LumB,1,Positive,NEUTRAL,Negative,1,Post,3,5.07,IDC,143.1333333,0,Positive,1,35,Died of Disease
+1,51.56,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,2,5.034,IDC,124.1,1,Positive,1,17,Living
+0,46.66,LumA,1,Positive,NEUTRAL,Negative,1,Pre,0,3.024,IDC,199.1333333,1,Positive,1,12,Living
+0,67.88,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,4.04,IDC,147.3666667,0,Negative,1,20,Died of Other Causes
+1,59.8,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,1,3.028,IDC,113.5666667,1,Negative,1,14,Living
+1,61.89,LumA,1,Positive,NEUTRAL,Negative,1,Post,26,6.074,IDC,24.1,0,Positive,1,37,Died of Disease
+0,66.11,claudinlow,1,Negative,NEUTRAL,Negative,1,Post,0,2.024,MDLC,194.5333333,1,Negative,1,12,Living
+1,38.86,LumA,1,Positive,NEUTRAL,Negative,1,Pre,0,4.038,IDC,174.2666667,1,Negative,1,19,Living
+1,39.3,Normal,1,Positive,NEUTRAL,Negative,1,Pre,5,6.046,IDC,48.6,0,Positive,1,23,Died of Disease
+1,74.46,LumB,1,Positive,NEUTRAL,Negative,1,Post,1,5.104,IDC,79.33333333,0,Positive,1,52,Died of Other Causes
+0,83.92,Normal,1,Positive,NEUTRAL,Negative,1,Post,6,6.052,IDC,41.16666667,0,Negative,1,26,Died of Other Causes
+0,60.12,LumB,1,Positive,NEUTRAL,Negative,0,Post,1,4.03,IDC,132.3333333,0,Negative,0,15,Died of Disease
+0,76.32,Normal,1,Positive,NEUTRAL,Negative,1,Post,0,3.064,IDC,51.96666667,0,Positive,1,32,Died of Disease
+1,61.53,Her2,1,Positive,GAIN,Positive,1,Post,8,6.058,IDC,68.06666667,0,Negative,1,29,Died of Disease
+0,86.99,LumA,1,Positive,GAIN,Positive,1,Post,14,5.04,IDC,85.73333333,0,Negative,1,20,Died of Other Causes
+0,82.35,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,2.032,IDC,111.1666667,0,Positive,0,16,Died of Other Causes
+0,69.88,claudinlow,1,Negative,GAIN,Negative,0,Post,0,4.056,IDC,97.83333333,0,Negative,0,28,Died of Other Causes
+1,47.71,LumA,1,Positive,NEUTRAL,Negative,1,Pre,0,4.05,IDC,161.7666667,1,Positive,0,25,Living
+0,61.28,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,4.034,IDC,181.4666667,1,Positive,0,17,Living
+1,74.96,LumB,1,Positive,NEUTRAL,Negative,1,Post,14,6.046,IDC,59.5,0,Positive,1,23,Died of Disease
+0,68.99,LumB,1,Positive,GAIN,Negative,1,Post,0,4.04,IDC,272.2,1,Positive,1,20,Living
+0,61.79,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,2.04,IDC,149.8666667,1,Positive,1,20,Living
+0,76.22,claudinlow,1,Positive,LOSS,Negative,1,Post,0,3.13,IDC,163.2,0,Positive,1,65,Died of Other Causes
+0,71.21,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,5.042,IDC,119.8,1,Positive,1,21,Living
+1,48.1,LumA,1,Positive,GAIN,Negative,1,Pre,4,5.11,IDC,128.5666667,1,Positive,1,55,Living
+0,68.47,LumB,1,Positive,NEUTRAL,Negative,1,Post,5,6.042,IDC,31,0,Positive,1,21,Died of Disease
+0,51.42,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,3.02,IMMC,65.4,1,Negative,1,10,Living
+1,59.64,Normal,1,Positive,NEUTRAL,Negative,1,Post,6,5.084,ILC,110.1,1,Positive,1,42,Living
+0,70.53,LumB,1,Positive,GAIN,Negative,1,Post,1,4.058,IDC,92.76666667,0,Negative,1,29,Died of Other Causes
+1,33.8,LumA,1,Positive,GAIN,Negative,1,Pre,2,5.08,IDC,79.36666667,0,Positive,1,40,Died of Disease
+0,96.29,Basal,1,Negative,NEUTRAL,Negative,0,Post,14,6.052,IDC,7.866666667,0,Negative,1,26,Died of Disease
+0,84.76,Basal,1,Negative,NEUTRAL,Negative,0,Post,0,4.06,ILC,15.53333333,0,Negative,0,30,Died of Other Causes
+0,75.67,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,3.044,MDLC,62.63333333,1,Positive,0,22,Living
+0,41.31,LumB,1,Positive,NEUTRAL,Negative,1,Pre,0,4.04,IDC,118.2,1,Positive,0,20,Living
+0,76.72,LumB,1,Positive,NEUTRAL,Negative,1,Post,1,5.056,IDC,115.7,0,Negative,1,28,Died of Disease
+0,77.99,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,4.13,ILC,77.23333333,0,Negative,1,65,Died of Other Causes
+1,50.41,LumA,1,Positive,GAIN,Negative,1,Post,1,4.048,MDLC,91.26666667,1,Positive,1,24,Living
+0,76.35,Normal,1,Negative,NEUTRAL,Negative,0,Post,0,3.044,IDC,119.7333333,1,Negative,0,22,Living
+0,59.96,LumB,1,Positive,GAIN,Positive,1,Post,25,5.07,MDLC,125.8,1,Negative,1,35,Living
+1,60.27,LumB,1,Positive,GAIN,Negative,1,Post,15,6.06,IDC,72.46666667,0,Positive,1,30,Died of Other Causes
+0,84,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,4.034,IDC,119.4666667,0,Negative,0,17,Died of Disease
+1,62.34,Her2,1,Negative,GAIN,Positive,0,Post,13,5.18,ILC,34.66666667,0,Negative,1,90,Died of Disease
+0,77.96,LumB,1,Positive,LOSS,Negative,1,Post,1,5.09,IDC,44.23333333,1,Negative,1,45,Living
+0,77.48,LumA,1,Positive,LOSS,Negative,1,Post,0,3.032,MDLC,107.1,0,Positive,1,16,Died of Other Causes
+1,64.55,Normal,1,Positive,NEUTRAL,Negative,1,Post,2,4.034,IDC,113.2,0,Positive,1,17,Died of Other Causes
+0,77.48,LumB,1,Positive,NEUTRAL,Negative,1,Post,9,5.048,IDC,89.36666667,0,Positive,1,24,Died of Disease
+1,46.85,LumA,1,Positive,NEUTRAL,Negative,1,Pre,1,4.048,IDC,123.2666667,1,Negative,1,24,Living
+0,70.5,LumA,1,Positive,NEUTRAL,Negative,1,Post,9,6.054,MDLC,111,1,Negative,1,27,Living
+1,32.99,LumB,1,Positive,NEUTRAL,Negative,1,Pre,8,6.05,IDC,29.66666667,0,Negative,1,25,Died of Disease
+0,79.52,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,4.042,IDC,121.9666667,1,Positive,0,21,Living
+0,58.08,LumA,1,Positive,GAIN,Negative,1,Post,0,3.036,ILC,114.6,1,Positive,0,18,Living
+0,83.19,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,3.036,MDLC,27.46666667,0,Negative,0,18,Died of Disease
+1,53.1,LumA,1,Positive,GAIN,Negative,1,Post,2,5.06,IDC,87.83333333,1,Positive,1,30,Living
+0,76.81,claudinlow,1,Negative,NEUTRAL,Negative,0,Post,5,6.05,IDC,63.96666667,0,Negative,1,25,Died of Other Causes
+1,51.15,LumA,1,Positive,NEUTRAL,Negative,1,Post,2,4.028,IDC,98.7,0,Negative,0,14,Died of Disease
+0,71.3,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,2,4.036,IDC,76.7,1,Negative,1,18,Living
+0,75.65,LumB,1,Positive,GAIN,Negative,1,Post,0,4.048,IDC,104.5333333,1,Positive,0,24,Living
+1,60.2,claudinlow,1,Negative,NEUTRAL,Negative,0,Post,0,3.12,BREAST,48.8,1,Negative,1,60,Living
+1,48.99,LumA,1,Positive,NEUTRAL,Negative,1,Pre,1,5.038,IDC,119.3333333,1,Positive,0,19,Living
+0,38.75,Normal,1,Negative,GAIN,Positive,0,Pre,3,4.006,IDC,34.76666667,1,Negative,0,3,Living
+0,75.98,LumB,1,Positive,NEUTRAL,Negative,1,Post,3,5.076,IDC,29.03333333,0,Negative,1,38,Died of Other Causes
+0,72.14,claudinlow,1,Negative,NEUTRAL,Negative,1,Post,0,2.08,IMMC,92.96666667,0,Negative,0,40,Died of Other Causes
+0,63.86,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,3.034,IDC,101.9,1,Positive,0,17,Living
+1,38.9,Normal,1,Positive,NEUTRAL,Negative,1,Pre,1,5.05,IDC,94.23333333,1,Negative,1,25,Living
+1,62.97,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,1,5.028,BREAST,112.8,1,Negative,1,14,Living
+0,70.04,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,4.06,ILC,33.56666667,1,Positive,1,30,Living
+0,66.52,Normal,1,Positive,NEUTRAL,Negative,1,Post,0,3.024,IDC,111.0666667,1,Positive,1,12,Living
+0,64.28,LumA,1,Positive,LOSS,Negative,1,Post,1,4.032,IDC,64.03333333,1,Negative,0,16,Living
+0,61.11,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,4.04,IDC,35.53333333,0,Negative,1,20,Died of Disease
+0,54.1,claudinlow,1,Negative,NEUTRAL,Negative,0,Post,0,5.04,IDC,0.766666667,1,Negative,0,20,Living
+0,63.98,Normal,1,Positive,NEUTRAL,Negative,1,Post,0,3.02,IDC,105.9666667,1,Negative,1,10,Living
+1,38.35,LumB,1,Positive,GAIN,Positive,1,Pre,0,4.04,IDC,86.8,1,Positive,1,20,Living
+1,84.41,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,4.05,IDC,47.43333333,0,Positive,1,25,Died of Disease
+0,51.92,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,3.04,IDC,56.5,1,Negative,1,20,Living
+0,55.99,claudinlow,1,Negative,NEUTRAL,Negative,0,Post,0,4.01,ILC,17.76666667,1,Negative,0,5,Living
+0,26.36,LumA,1,Positive,NEUTRAL,Negative,1,Pre,0,4.024,IDC,32.63333333,0,Positive,1,12,Died of Disease
+0,75.71,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,4.062,IDC,80.66666667,1,Positive,1,31,Living
+0,66.95,Normal,1,Positive,NEUTRAL,Negative,1,Post,1,4.064,MDLC,103.7666667,0,Negative,1,32,Died of Other Causes
+1,50.39,Basal,1,Negative,NEUTRAL,Negative,0,Post,0,4.036,IDC,75.4,1,Negative,1,18,Living
+0,66.09,Normal,1,Positive,NEUTRAL,Negative,1,Post,0,3.026,IDC,61.33333333,1,Positive,1,13,Living
+0,56.34,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,1,4.028,IDC,102.5666667,1,Negative,1,14,Living
+0,79.12,LumA,1,Positive,NEUTRAL,Negative,0,Post,0,2.04,IDC,84.2,0,Positive,1,20,Died of Other Causes
+0,73.46,Her2,1,Negative,GAIN,Positive,1,Post,12,6.12,IDC,19.73333333,0,Negative,1,60,Died of Other Causes
+0,71.06,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,5,5.06,IDC,93.3,1,Positive,1,30,Living
+0,67.06,LumB,1,Positive,NEUTRAL,Negative,1,Post,6,5.066,MDLC,15.16666667,0,Negative,1,33,Died of Disease
+0,60.62,LumA,1,Positive,NEUTRAL,Negative,1,Post,4,4.016,IDC,61.43333333,1,Positive,1,8,Living
+0,79.48,LumA,1,Positive,NEUTRAL,Negative,1,Post,2,4.042,IDC,25.53333333,1,Negative,1,21,Living
+0,85.12,Her2,1,Positive,GAIN,Positive,1,Post,1,5.042,IDC,96.63333333,0,Positive,0,21,Died of Disease
+0,69.95,Her2,1,Negative,NEUTRAL,Negative,1,Post,2,5.056,ILC,24.8,0,Negative,1,28,Died of Disease
+0,82.5,LumA,1,Positive,NEUTRAL,Negative,1,Post,0,2.048,IDC,69.4,1,Positive,1,24,Living
+0,69.73,Normal,1,Positive,NEUTRAL,Negative,0,Post,0,1.12,BREAST,111.0666667,1,Positive,0,60,Living
+1,35.9,claudinlow,1,Negative,GAIN,Positive,0,Pre,0,4.2,IDC,19.03333333,0,Negative,1,100,Died of Disease
+0,58.65,claudinlow,1,Positive,NEUTRAL,Negative,1,Post,0,3.2,ILC,30.43333333,1,Negative,1,100,Living
+1,60.89,claudinlow,1,Negative,LOSS,Negative,1,Post,2,5.05,IDC,97.26666667,1,Negative,1,25,Living
+0,82.87,Normal,1,Negative,NEUTRAL,Negative,0,Post,0,3.09,BREAST,23.33333333,0,Negative,1,45,Died of Disease
+1,52.43,Her2,1,Negative,GAIN,Negative,1,Post,22,6.32,IDC,18.93333333,0,Negative,1,160,Died of Disease
+0,78.78,LumA,1,Positive,GAIN,Negative,1,Post,0,3.016,IDC,20,0,Positive,0,8,Died of Disease
+0,50.94,Normal,1,Positive,GAIN,Positive,1,Post,0,4.028,IDC,69.8,0,Positive,1,14,Died of Disease
+1,57.76,Her2,1,Negative,GAIN,Positive,0,Post,0,4.032,IDC,55.36666667,1,Negative,0,16,Living
+1,78.27,Basal,1,Negative,NEUTRAL,Negative,0,Post,10,6.168,IDC,11.06666667,0,Negative,1,84,Died of Disease
+1,61.31,LumA,1,Positive,NEUTRAL,Negative,1,Post,9,6.05,IDC,24.33333333,0,Positive,1,25,Died of Disease
+1,58.83,Basal,1,Negative,NEUTRAL,Negative,1,Post,0,4.058,IDC,112.4,0,Negative,1,29,Died of Other Causes
+0,82.34,Normal,1,Positive,NEUTRAL,Negative,1,Post,1,4.028,IDC,152.0666667,0,Positive,1,14,Died of Other Causes
+1,59.22,Basal,1,Negative,NEUTRAL,Negative,0,Post,0,4.078,IDC,16.6,0,Negative,1,39,Died of Disease
+0,79.41,LumB,1,Positive,NEUTRAL,Negative,0,Post,4,6.07,IDC,14.43333333,0,Positive,0,35,Died of Disease
+0,73.64,LumA,1,Positive,NEUTRAL,Negative,0,Post,0,2.06,IDC,1.233333333,1,Positive,0,30,Living
+0,73.39,LumB,1,Positive,NEUTRAL,Negative,1,Post,0,4.094,IDC,42.36666667,0,Positive,0,47,Died of Disease
+1,56.47,LumB,1,Positive,NEUTRAL,Negative,1,Post,15,6.046,IDC,93.66666667,0,Negative,1,23,Died of Disease
+0,83.68,LumA,1,Positive,NEUTRAL,Negative,1,Post,2,3.074,IDC,149.4,1,Negative,0,37,Living
+1,57.41,claudinlow,1,Negative,NEUTRAL,Negative,1,Post,3,5.056,IDC,175.6333333,1,Negative,1,28,Living
+0,79.61,LumB,1,Positive,GAIN,Positive,1,Post,1,5.038,IDC,43.1,0,Positive,1,19,Died of Other Causes
+0,41.32,Normal,1,Positive,NEUTRAL,Negative,0,Pre,1,4.092,IDC,30.96666667,0,Positive,0,46,Died of Other Causes
+1,50.62,LumA,1,Positive,NEUTRAL,Negative,1,Post,3,4.05,IDC,175.8,1,Positive,0,25,Living
+1,68.19,Basal,1,Negative,NEUTRAL,Negative,0,Post,3,5.066,IDC,136.1666667,1,Negative,1,33,Living
+0,83.01,LumA,1,Positive,NEUTRAL,Negative,1,Post,1,4.044,IDC,144.7,0,Positive,0,22,Died of Other Causes
+0,70.6,claudinlow,1,Negative,NEUTRAL,Negative,1,Post,0,4.056,MDLC,63.86666667,0,Negative,1,28,Died of Other Causes
+0,57.96,LumA,2,Negative,GAIN,Positive,0,Post,0,3.04,IDC,59.7,0,Negative,1,20,Died of Disease
+0,60.29,Her2,2,Negative,GAIN,Positive,1,Post,0,4.03,IDC,268.4333333,0,Negative,0,15,Died of Other Causes
+0,54.11,LumA,2,Positive,GAIN,Negative,0,Post,0,2.03,MDLC,47.9,0,Negative,0,15,Died of Other Causes
+0,62.59,claudinlow,2,Negative,NEUTRAL,Negative,1,Post,1,4.04,ILC,220.9,0,Negative,0,20,Died of Other Causes
+0,52.98,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,2.02,IDC,285.4333333,1,Positive,1,10,Living
+0,58.99,LumA,2,Positive,NEUTRAL,Negative,1,Post,1,3.05,MDLC,280.7,1,Positive,0,25,Living
+0,59.63,LumB,2,Positive,NEUTRAL,Negative,1,Post,0,4.04,IDC,163.4,1,Positive,0,20,Living
+1,43.72,LumA,2,Positive,NEUTRAL,Negative,0,Pre,10,4.03,MDLC,64.93333333,0,Positive,0,15,Died of Disease
+0,65.07,claudinlow,2,Positive,NEUTRAL,Negative,0,Post,0,3.036,MDLC,219.1666667,0,Positive,1,18,Died of Disease
+0,63.3,LumB,2,Positive,NEUTRAL,Negative,1,Post,0,4.036,IDC,89.1,0,Negative,1,18,Died of Disease
+0,66.22,LumB,2,Positive,GAIN,Negative,0,Post,0,3.032,IDC,89.1,0,Positive,1,16,Died of Disease
+0,53.53,LumA,2,Positive,NEUTRAL,Negative,1,Post,2,3.028,IDC,128.5333333,1,Positive,1,14,Living
+0,62.54,LumB,2,Positive,GAIN,Positive,1,Post,0,4.032,IDC,193.7,1,Positive,1,16,Living
+0,61.22,LumB,2,Positive,NEUTRAL,Negative,1,Post,1,5.03,IDC,279.1,1,Negative,1,15,Living
+1,36.52,Her2,2,Negative,GAIN,Positive,0,Pre,3,5.03,IDC,19.1,0,Negative,1,15,Died of Disease
+0,70.69,LumB,2,Positive,GAIN,Negative,1,Post,0,4.02,IDC,274.0333333,1,Positive,1,10,Living
+1,30.67,LumB,2,Positive,LOSS,Negative,0,Pre,3,5.07,IDC,45.16666667,0,Positive,1,35,Died of Disease
+0,34.2,claudinlow,2,Negative,NEUTRAL,Negative,0,Pre,0,3.006,IDC,52.96666667,0,Negative,1,3,Died of Disease
+0,69.45,Basal,2,Positive,NEUTRAL,Negative,1,Post,6,6.054,IDC,44.76666667,0,Negative,1,27,Died of Disease
+0,62.56,LumA,2,Positive,NEUTRAL,Negative,1,Post,0,3.048,IDC,73.7,0,Negative,0,24,Died of Disease
+0,68.76,LumB,2,Positive,NEUTRAL,Negative,1,Post,1,5.034,IDC,177.2666667,1,Negative,1,17,Living
+0,61.78,LumB,2,Positive,NEUTRAL,Negative,0,Post,0,3.03,IDC,163.7333333,1,Negative,1,15,Living
+0,66.36,LumB,2,Positive,NEUTRAL,Negative,1,Post,0,3.03,MDLC,133.2333333,0,Positive,0,15,Died of Disease
+0,48.07,LumA,2,Positive,NEUTRAL,Negative,0,Pre,0,3.03,IDC,201.4666667,1,Positive,0,15,Living
+0,54.59,LumA,2,Positive,NEUTRAL,Negative,1,Post,1,3.022,MDLC,234.4333333,0,Positive,1,11,Died of Other Causes
+1,47.94,Basal,2,Negative,NEUTRAL,Negative,0,Pre,1,4.04,MDLC,278.2666667,1,Negative,0,20,Living
+0,44.82,LumA,2,Positive,LOSS,Negative,0,Pre,0,2.018,IDC,251.6333333,1,Positive,1,9,Living
+0,60.59,claudinlow,2,Negative,NEUTRAL,Negative,0,Post,0,4.016,IDC,108.0666667,0,Negative,0,8,Died of Disease
+0,44.88,LumA,2,Positive,NEUTRAL,Negative,1,Pre,3,3.03,IDC,236.9333333,1,Positive,1,15,Living
+1,28.62,LumB,2,Positive,NEUTRAL,Negative,0,Pre,11,6.08,IDC,51.4,0,Positive,1,40,Died of Disease
+0,61.99,LumB,2,Positive,NEUTRAL,Negative,1,Post,4,6.07,IDC,133.7333333,1,Negative,1,35,Living
+1,49.94,LumB,2,Positive,GAIN,Negative,0,Pre,1,5.024,IDC,274.5,1,Negative,1,12,Living
+1,48.25,Her2,2,Negative,GAIN,Positive,0,Pre,3,5.03,IDC,24.9,0,Negative,1,15,Died of Disease
+0,45.57,Normal,2,Positive,NEUTRAL,Negative,1,Pre,0,3.06,ILC,275.6333333,1,Positive,1,30,Living
+0,46.85,LumA,2,Positive,NEUTRAL,Negative,1,Pre,1,4.06,MDLC,168.9666667,0,Positive,1,30,Died of Disease
+0,68.23,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,2.038,IDC,234.3333333,0,Positive,0,19,Died of Other Causes
+0,60.13,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,2.026,IDC,97.76666667,0,Positive,0,13,Died of Other Causes
+0,47.48,LumA,2,Positive,GAIN,Negative,0,Pre,0,2.06,MDLC,145.4333333,0,Negative,0,30,Died of Other Causes
+0,51.36,LumA,2,Positive,NEUTRAL,Negative,1,Post,0,3.07,MDLC,81.93333333,0,Positive,0,35,Died of Disease
+1,30.95,Basal,2,Negative,GAIN,Negative,0,Pre,1,5.074,IDC,274.4,1,Negative,1,37,Living
+0,66.11,Normal,2,Negative,NEUTRAL,Negative,1,Post,0,3.07,ILC,203.5333333,0,Negative,0,35,Died of Disease
+1,38.16,claudinlow,2,Negative,GAIN,Positive,0,Pre,4,6.09,IDC,35,0,Negative,0,45,Died of Disease
+0,63.1,LumB,2,Positive,NEUTRAL,Negative,1,Post,2,4.03,IDC,118.0333333,0,Positive,1,15,Died of Disease
+0,70.32,LumB,2,Positive,NEUTRAL,Negative,1,Post,0,3.052,IMMC,275.6,1,Positive,0,26,Living
+0,57.48,claudinlow,2,Positive,NEUTRAL,Negative,1,Post,1,4.03,IDC,270.1333333,0,Negative,1,15,Died of Disease
+0,65.79,claudinlow,2,Positive,GAIN,Negative,1,Post,0,4.034,IDC,227.8666667,0,Positive,1,17,Died of Other Causes
+0,53.11,LumB,2,Positive,NEUTRAL,Negative,1,Post,1,5.042,IDC,271.3333333,1,Positive,1,21,Living
+0,59.9,LumB,2,Positive,NEUTRAL,Negative,0,Post,0,3.03,ILC,160,1,Positive,1,15,Living
+0,60.32,LumA,2,Positive,NEUTRAL,Negative,1,Post,5,5.09,ILC,274.3666667,1,Positive,0,45,Living
+0,56.79,Basal,2,Negative,LOSS,Negative,1,Post,0,4.032,IDC,44.83333333,0,Negative,1,16,Died of Disease
+0,54.4,LumB,2,Positive,LOSS,Negative,1,Post,0,4.034,MDLC,150.7333333,0,Positive,1,17,Died of Other Causes
+0,66.06,LumB,2,Positive,LOSS,Negative,1,Post,7,5.07,IDC,131.6666667,0,Positive,0,35,Died of Other Causes
+0,62.76,NC,2,Positive,NEUTRAL,Negative,1,Post,1,4.034,IDC,181.2333333,0,Positive,0,17,Died of Disease
+0,36.8,LumA,2,Positive,NEUTRAL,Negative,0,Pre,0,3.04,IDC,275.2333333,1,Positive,1,20,Living
+0,64.32,LumB,2,Positive,GAIN,Negative,1,Post,1,4.06,IDC,40.43333333,0,Positive,0,30,Died of Other Causes
+0,62.36,LumA,2,Positive,GAIN,Positive,1,Post,3,5.056,IDC,68.26666667,0,Negative,1,28,Died of Disease
+0,47.03,LumA,2,Positive,NEUTRAL,Negative,0,Pre,0,3.05,MDLC,116.9333333,1,Positive,0,25,Living
+0,40.79,LumA,2,Positive,NEUTRAL,Negative,0,Pre,0,3.034,IDC,271.9333333,1,Positive,1,17,Living
+0,50.38,Her2,2,Positive,GAIN,Negative,1,Post,1,4.07,IDC,110.7666667,0,Positive,0,35,Died of Disease
+0,67.62,LumB,2,Positive,NEUTRAL,Negative,1,Post,0,3.05,IDC,267.2333333,1,Positive,0,25,Living
+0,42.07,claudinlow,2,Positive,NEUTRAL,Negative,0,Pre,0,3.024,IDC,272.1,1,Negative,1,12,Living
+0,57.94,claudinlow,2,Positive,NEUTRAL,Negative,1,Post,1,5.04,MDLC,87.7,0,Positive,1,20,Died of Disease
+0,50.07,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,2.03,MDLC,252.9666667,1,Positive,0,15,Living
+0,70.35,LumA,2,Positive,NEUTRAL,Negative,1,Post,1,4.026,IDC,271.2666667,1,Positive,1,13,Living
+0,63.01,LumB,2,Positive,NEUTRAL,Negative,0,Post,0,3.036,IDC,85.86666667,0,Negative,1,18,Died of Disease
+0,65.25,LumB,2,Positive,GAIN,Negative,0,Post,0,3.026,IDC,231.0333333,0,Positive,1,13,Died of Other Causes
+0,64.25,Normal,2,Positive,NEUTRAL,Negative,0,Post,0,2.044,MDLC,257.5666667,1,Positive,1,22,Living
+0,61.95,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,2.038,MDLC,270.5666667,1,Positive,0,19,Living
+0,40.06,LumA,2,Positive,NEUTRAL,Negative,1,Pre,0,4.036,IDC,254.6333333,1,Positive,1,18,Living
+0,57.39,claudinlow,2,Negative,NEUTRAL,Negative,0,Post,0,1.032,MBC,136.0666667,0,Positive,1,16,Died of Other Causes
+0,35.97,claudinlow,2,Positive,GAIN,Positive,1,Pre,0,4.022,MDLC,269.9,1,Positive,1,11,Living
+1,36.5,Basal,2,Negative,NEUTRAL,Negative,0,Pre,1,5.022,IDC,235.6666667,1,Negative,1,11,Living
+1,42.9,claudinlow,2,Negative,NEUTRAL,Negative,0,Pre,2,5.046,IDC,259.7666667,1,Negative,1,23,Living
+0,56.85,Her2,2,Negative,NEUTRAL,Negative,0,Post,1,4.018,IDC,153.8333333,0,Negative,1,9,Died of Other Causes
+0,59.84,LumA,2,Positive,NEUTRAL,Negative,1,Post,0,4.04,IDC,55.03333333,0,Positive,0,20,Died of Other Causes
+0,67.12,LumA,2,Positive,LOSS,Negative,1,Post,0,3.054,IDC,270.3,1,Positive,0,27,Living
+0,60.48,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,3.028,ILC,269,1,Negative,0,14,Living
+1,58.48,Basal,2,Negative,NEUTRAL,Negative,0,Post,1,5.054,IDC,19.73333333,0,Negative,1,27,Died of Disease
+0,61.08,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,3.026,IDC,231.5333333,0,Negative,1,13,Died of Other Causes
+0,60.76,LumB,2,Positive,GAIN,Negative,1,Post,0,4.038,IDC,146.7333333,1,Negative,0,19,Living
+0,55.8,claudinlow,2,Positive,NEUTRAL,Negative,0,Post,0,3.028,ILC,264.7666667,1,Negative,0,14,Living
+0,58.85,Basal,2,Positive,NEUTRAL,Negative,0,Post,0,3.01,IDC,149.7,0,Negative,0,5,Died of Disease
+0,65.04,Her2,2,Negative,GAIN,Positive,1,Post,18,6.07,IDC,39.53333333,0,Negative,1,35,Died of Disease
+0,60.11,LumA,2,Positive,NEUTRAL,Negative,1,Post,1,4.03,IDC,227.7333333,0,Positive,0,15,Died of Other Causes
+0,60.65,Basal,2,Negative,NEUTRAL,Negative,1,Post,0,4.052,IDC,43.2,0,Negative,1,26,Died of Disease
+1,31.48,claudinlow,2,Negative,NEUTRAL,Negative,0,Pre,11,6.062,IDC,9.433333333,0,Negative,1,31,Died of Disease
+0,58.69,LumA,2,Positive,NEUTRAL,Negative,1,Post,0,4.032,MDLC,159,0,Positive,1,16,Died of Disease
+0,36.25,LumB,2,Positive,NEUTRAL,Negative,0,Pre,0,3.046,IMMC,269.6333333,1,Negative,1,23,Living
+0,61.53,LumA,2,Positive,NEUTRAL,Negative,1,Post,0,3.044,ILC,270.4333333,1,Negative,0,22,Living
+1,45.3,claudinlow,2,Negative,NEUTRAL,Negative,0,Pre,1,5.044,IDC,250.6666667,1,Negative,1,22,Living
+0,63.94,LumB,2,Positive,NEUTRAL,Negative,1,Post,0,4.052,MDLC,141.5666667,0,Positive,0,26,Died of Other Causes
+0,59.58,LumA,2,Positive,NEUTRAL,Negative,1,Post,1,3.04,IMMC,258.3333333,1,Negative,0,20,Living
+0,47.1,LumA,2,Positive,NEUTRAL,Negative,1,Pre,2,3.04,IDC,269.3333333,1,Positive,0,20,Living
+0,66.84,claudinlow,2,Negative,GAIN,Positive,1,Post,0,4.03,IDC,196.5666667,0,Negative,0,15,Died of Disease
+0,68.18,claudinlow,2,Positive,NEUTRAL,Negative,0,Post,0,3.026,IDC,237.3666667,0,Negative,0,13,Died of Other Causes
+0,59.29,Normal,2,Positive,NEUTRAL,Negative,1,Post,9,5.05,ILC,20.66666667,0,Positive,0,25,Died of Other Causes
+0,49.83,LumB,2,Positive,NEUTRAL,Negative,1,Pre,0,3.05,IDC,218.3,0,Positive,1,25,Died of Disease
+1,34.83,claudinlow,2,Negative,NEUTRAL,Negative,0,Pre,1,5.05,IDC,125.6,0,Negative,1,25,Died of Disease
+1,59.6,Basal,2,Negative,NEUTRAL,Negative,0,Post,5,6.04,IDC,267.4,1,Negative,1,20,Living
+0,48.93,LumA,2,Positive,NEUTRAL,Negative,0,Pre,0,2.032,IDC,266.9333333,1,Positive,1,16,Living
+1,33.9,Basal,2,Negative,NEUTRAL,Negative,0,Pre,2,5.06,IDC,31.93333333,0,Negative,1,30,Died of Disease
+0,59.13,LumB,2,Positive,NEUTRAL,Negative,0,Post,0,2.04,IMMC,240.0333333,0,Positive,0,20,Died of Other Causes
+1,45.74,Her2,2,Negative,GAIN,Negative,0,Pre,8,6.05,IDC,14.4,0,Negative,1,25,Died of Disease
+1,37.01,Her2,2,Negative,GAIN,Positive,0,Pre,5,6.074,IDC,14.1,0,Negative,1,37,Died of Disease
+0,58.14,LumA,2,Positive,LOSS,Negative,0,Post,0,2.026,MDLC,263.7,0,Positive,0,13,Died of Disease
+1,53.31,Her2,2,Negative,NEUTRAL,Negative,0,Post,1,4.04,IDC,262.8666667,0,Negative,1,20,Died of Other Causes
+0,46.9,LumB,2,Positive,NEUTRAL,Negative,0,Pre,0,3.034,IDC,228.1,0,Positive,0,17,Died of Other Causes
+0,63.1,LumB,2,Positive,NEUTRAL,Negative,1,Post,0,4.036,IDC,108.4333333,1,Positive,1,18,Living
+0,44.08,LumA,2,Positive,NEUTRAL,Negative,0,Pre,0,2.03,IDC,161.9333333,0,Positive,0,15,Died of Other Causes
+0,70.19,LumB,2,Positive,GAIN,Positive,1,Post,1,5.034,IDC,101.2666667,0,Positive,0,17,Died of Other Causes
+0,66.97,LumA,2,Positive,NEUTRAL,Negative,1,Post,0,4.054,MDLC,27.2,0,Positive,0,27,Died of Disease
+0,36.47,LumA,2,Positive,NEUTRAL,Negative,0,Pre,0,3.03,IDC,112,1,Positive,0,15,Living
+0,39.07,LumA,2,Positive,NEUTRAL,Negative,0,Pre,0,3.03,IDC,263.3666667,1,Positive,1,15,Living
+0,52.67,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,2.024,IDC,189.1,0,Positive,1,12,Died of Other Causes
+0,43.08,LumB,2,Positive,NEUTRAL,Negative,0,Pre,0,3.036,IDC,30.13333333,0,Positive,1,18,Died of Disease
+0,69.79,LumB,2,Positive,NEUTRAL,Negative,1,Post,3,4.06,IDC,5.5,0,Positive,1,30,Died of Disease
+1,31.02,claudinlow,2,Negative,NEUTRAL,Negative,0,Pre,2,5.06,IDC,262.1333333,1,Negative,1,30,Living
+0,69.67,LumA,2,Positive,NEUTRAL,Negative,1,Post,0,4.05,IDC,222.2,0,Negative,0,25,Died of Other Causes
+0,53.99,claudinlow,2,Negative,NEUTRAL,Negative,1,Post,4,5.02,MDLC,227.8333333,0,Negative,1,10,Died of Disease
+0,69.48,Her2,2,Positive,GAIN,Negative,1,Post,7,6.06,IDC,9.6,0,Negative,1,30,Died of Disease
+0,50.3,LumA,2,Positive,NEUTRAL,Negative,1,Post,2,5.036,IDC,265,1,Positive,1,18,Living
+0,66.86,LumA,2,Positive,LOSS,Negative,0,Post,0,3.026,IDC,172.9,0,Positive,1,13,Died of Other Causes
+0,46.49,LumA,2,Positive,NEUTRAL,Negative,1,Pre,2,4.05,MDLC,252.8666667,0,Positive,0,25,Died of Disease
+0,69.6,LumA,2,Positive,NEUTRAL,Negative,1,Post,2,4.03,IDC,264.2333333,1,Positive,1,15,Living
+0,40.02,LumA,2,Positive,NEUTRAL,Negative,0,Pre,0,2.03,IDC,110.6,0,Positive,0,15,Died of Other Causes
+0,56.26,LumB,2,Positive,GAIN,Positive,1,Post,1,4.03,IDC,180.8333333,0,Positive,1,15,Died of Other Causes
+0,64.04,LumB,2,Positive,GAIN,Positive,1,Post,0,4.04,IDC,261.2,1,Negative,1,20,Living
+0,48.47,LumA,2,Positive,NEUTRAL,Negative,0,Pre,0,2.03,MDLC,260,1,Positive,0,15,Living
+0,63.65,claudinlow,2,Negative,NEUTRAL,Negative,1,Post,0,4.04,IDC,187.0333333,1,Negative,1,20,Living
+0,46.7,LumA,2,Positive,GAIN,Positive,1,Pre,1,5.036,IDC,254.5,1,Positive,1,18,Living
+0,58.1,LumA,2,Positive,NEUTRAL,Negative,1,Post,0,4.032,IDC,191.2333333,1,Positive,1,16,Living
+0,61.42,LumA,2,Positive,NEUTRAL,Negative,1,Post,0,4.024,IDC,262,1,Negative,0,12,Living
+1,50.45,claudinlow,2,Negative,LOSS,Negative,0,Post,1,5.024,IDC,263.2333333,1,Negative,1,12,Living
+0,62.32,LumA,2,Positive,NEUTRAL,Negative,1,Post,1,4.06,ILC,140.5666667,0,Negative,0,30,Died of Other Causes
+0,45.75,LumA,2,Positive,NEUTRAL,Negative,0,Pre,0,3.046,IDC,253.0666667,1,Positive,1,23,Living
+0,60.09,claudinlow,2,Positive,NEUTRAL,Negative,1,Post,6,5.04,IDC,15.7,0,Negative,1,20,Died of Disease
+0,48.48,LumB,2,Positive,GAIN,Negative,0,Pre,0,3.024,IDC,114.9,0,Positive,0,12,Died of Disease
+0,51.94,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,2.024,MDLC,149.6,1,Positive,1,12,Living
+0,50.37,claudinlow,2,Positive,NEUTRAL,Negative,1,Post,1,3.046,IDC,238.3666667,1,Negative,1,23,Living
+1,39.7,Basal,2,Negative,NEUTRAL,Negative,0,Pre,1,5.03,IDC,262.6333333,1,Negative,1,15,Living
+0,56.83,LumB,2,Positive,NEUTRAL,Negative,1,Post,0,4.02,IDC,258.8666667,1,Positive,0,10,Living
+0,63.08,LumA,2,Positive,NEUTRAL,Negative,1,Post,1,5.044,ILC,217.5666667,0,Positive,1,22,Died of Other Causes
+1,37.89,Her2,2,Negative,GAIN,Positive,0,Pre,1,5.026,IDC,256,1,Negative,1,13,Living
+0,49.92,LumA,2,Positive,NEUTRAL,Negative,1,Pre,0,4.044,IDC,261.2,1,Negative,1,22,Living
+0,60.93,LumB,2,Positive,GAIN,Positive,1,Post,0,4.034,IDC,42.56666667,0,Negative,1,17,Died of Disease
+1,46.76,Her2,2,Positive,GAIN,Positive,0,Pre,2,5.042,IDC,35.63333333,0,Negative,1,21,Died of Disease
+0,50.01,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,2.03,IDC,250.1333333,1,Positive,1,15,Living
+0,69.07,LumA,2,Positive,NEUTRAL,Negative,1,Post,0,3.038,IDC,70.4,0,Positive,0,19,Died of Disease
+0,54.64,LumA,2,Positive,LOSS,Negative,1,Post,0,3.044,IDC,260.7333333,1,Negative,1,22,Living
+0,53.19,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,3.026,MDLC,98.83333333,1,Positive,1,13,Living
+0,67.2,Basal,2,Negative,NEUTRAL,Negative,1,Post,0,4.07,IDC,73.83333333,0,Negative,0,35,Died of Other Causes
+0,57.17,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,3.032,ILC,259.9666667,1,Positive,1,16,Living
+0,59.53,LumB,2,Positive,NEUTRAL,Negative,1,Post,0,4.06,IDC,255.1,0,Negative,0,30,Died of Other Causes
+1,55.3,Basal,2,Negative,NEUTRAL,Negative,0,Post,1,5.086,IDC,32.03333333,0,Negative,1,43,Died of Disease
+1,47.74,Basal,2,Negative,NEUTRAL,Negative,0,Pre,2,5.08,IDC,254.2666667,1,Negative,1,40,Living
+0,65.69,LumB,2,Positive,NEUTRAL,Negative,1,Post,1,5.072,IDC,44.6,0,Negative,1,36,Died of Disease
+0,62.87,claudinlow,2,Negative,NEUTRAL,Negative,0,Post,0,4.034,IDC,146.3666667,1,Negative,1,17,Living
+1,43.51,Basal,2,Negative,NEUTRAL,Negative,0,Pre,6,6.04,IDC,28.56666667,0,Negative,1,20,Died of Disease
+0,46.7,LumA,2,Positive,NEUTRAL,Negative,0,Pre,0,2.04,MDLC,165.1666667,0,Positive,0,20,Died of Disease
+1,60.29,claudinlow,2,Negative,NEUTRAL,Negative,0,Post,2,5.036,IDC,259.5333333,1,Negative,1,18,Living
+0,50.54,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,3.03,MDLC,149.6,1,Positive,1,15,Living
+0,68.5,LumB,2,Positive,NEUTRAL,Negative,1,Post,2,5.06,IDC,81.1,0,Positive,1,30,Died of Disease
+0,43.68,Normal,2,Positive,NEUTRAL,Negative,0,Pre,0,3.05,ILC,210.9666667,0,Positive,1,25,Died of Disease
+0,65.58,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,3.038,IDC,256.5,1,Positive,0,19,Living
+0,56.73,LumB,2,Positive,NEUTRAL,Negative,1,Post,2,5.076,MDLC,152.3333333,0,Positive,1,38,Died of Other Causes
+0,60.34,LumA,2,Positive,NEUTRAL,Negative,1,Post,2,4.04,IDC,258.3333333,1,Positive,1,20,Living
+0,58.55,LumB,2,Positive,GAIN,Positive,1,Post,0,4.03,IDC,28.73333333,0,Negative,1,15,Died of Disease
+0,28.96,LumA,2,Positive,GAIN,Positive,0,Pre,0,3.04,IDC,75.36666667,0,Negative,1,20,Died of Disease
+0,48.34,LumA,2,Positive,NEUTRAL,Negative,1,Pre,2,3.054,IDC,252.3333333,1,Positive,0,27,Living
+0,61.07,LumA,2,Positive,NEUTRAL,Negative,1,Post,2,4.032,ILC,100.7333333,1,Negative,1,16,Living
+0,63.06,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,2.024,IDC,131.3333333,0,Positive,0,12,Died of Other Causes
+0,62.39,Her2,2,Positive,GAIN,Negative,1,Post,0,4.034,IDC,257.7666667,1,Negative,0,17,Living
+1,50.26,Basal,2,Negative,GAIN,Negative,0,Post,4,6.044,IDC,167.4333333,1,Negative,1,22,Living
+1,42.17,Basal,2,Negative,NEUTRAL,Negative,0,Pre,1,5.032,IDC,227.9333333,1,Negative,1,16,Living
+1,59.78,Basal,2,Positive,LOSS,Negative,0,Post,1,5.056,IDC,221.2333333,1,Negative,1,28,Living
+0,66.76,LumA,2,Positive,GAIN,Negative,1,Post,1,4.032,IDC,136.9333333,1,Positive,1,16,Living
+0,54.95,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,3.026,IDC,219.6666667,0,Positive,0,13,Died of Disease
+0,43.6,LumB,2,Positive,NEUTRAL,Negative,1,Pre,0,4.028,IDC,178.1666667,0,Positive,1,14,Died of Disease
+0,58.31,Basal,2,Negative,NEUTRAL,Negative,1,Post,0,4.026,IDC,145.5,1,Negative,1,13,Living
+1,44.94,Basal,2,Negative,NEUTRAL,Negative,0,Pre,1,5.034,IDC,248.7666667,1,Negative,1,17,Living
+0,63.03,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,2.034,MDLC,23.93333333,0,Positive,0,17,Died of Other Causes
+0,58.31,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,3.034,MDLC,252,1,Positive,1,17,Living
+0,50.66,LumB,2,Positive,GAIN,Positive,1,Post,0,4.034,IDC,236.1333333,1,Positive,1,17,Living
+0,41.4,LumA,2,Positive,NEUTRAL,Negative,0,Pre,0,2.04,IMMC,99.7,1,Positive,0,20,Living
+0,56.81,LumB,2,Positive,NEUTRAL,Negative,1,Post,3,5.052,IDC,55.83333333,0,Positive,1,26,Died of Disease
+0,50.21,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,2.036,IDC,123.9,1,Positive,1,18,Living
+0,52.91,LumB,2,Positive,GAIN,Negative,1,Post,1,5.034,MDLC,51.2,0,Positive,1,17,Died of Disease
+0,59.43,claudinlow,2,Negative,NEUTRAL,Negative,1,Post,0,4.04,IDC,65.46666667,0,Negative,1,20,Died of Other Causes
+0,63.53,LumB,2,Positive,GAIN,Positive,1,Post,6,6.04,IDC,22.66666667,0,Positive,1,20,Died of Disease
+0,45,LumB,2,Positive,NEUTRAL,Negative,1,Pre,0,4.056,IDC,41.53333333,0,Positive,0,28,Died of Disease
+1,29.92,Basal,2,Negative,NEUTRAL,Negative,0,Pre,3,5.06,IDC,32.93333333,0,Negative,1,30,Died of Disease
+0,60.04,claudinlow,2,Negative,NEUTRAL,Negative,1,Post,0,4.036,IDC,217.7666667,1,Negative,0,18,Living
+0,60.42,Normal,2,Positive,NEUTRAL,Negative,1,Post,0,4.05,IDC,158.5333333,0,Positive,0,25,Died of Other Causes
+1,42.72,Basal,2,Negative,NEUTRAL,Negative,0,Pre,1,5.05,IDC,236.0666667,1,Negative,1,25,Living
+0,48.75,LumA,2,Positive,NEUTRAL,Negative,0,Pre,0,3.03,IDC,242.5666667,1,Positive,0,15,Living
+0,64.99,LumB,2,Positive,NEUTRAL,Negative,0,Post,0,3.038,IDC,247,1,Negative,0,19,Living
+0,49.5,LumB,2,Positive,NEUTRAL,Negative,1,Pre,0,3.064,IDC,248.7666667,1,Positive,0,32,Living
+0,63.96,LumB,2,Positive,NEUTRAL,Negative,1,Post,1,5.04,BREAST,243.9,1,Positive,1,20,Living
+0,69.65,LumA,2,Positive,NEUTRAL,Negative,1,Post,1,4.07,IDC,191.1333333,0,Negative,1,35,Died of Other Causes
+0,56.03,Her2,2,Negative,GAIN,Positive,0,Post,0,4.04,IDC,37.96666667,0,Negative,1,20,Died of Disease
+0,62.96,LumA,2,Positive,NEUTRAL,Negative,1,Post,0,3.06,IDC,148.7666667,0,Positive,0,30,Died of Disease
+0,33.76,LumA,2,Positive,LOSS,Negative,0,Pre,0,3.046,IDC,241.2666667,1,Positive,1,23,Living
+0,62.62,LumB,2,Positive,NEUTRAL,Negative,1,Post,0,3.06,MDLC,227.8,0,Positive,0,30,Died of Other Causes
+0,39.4,LumA,2,Positive,NEUTRAL,Negative,0,Pre,0,3.034,IDC,241.8666667,1,Positive,0,17,Living
+1,48.53,Her2,2,Negative,GAIN,Positive,0,Pre,4,6.054,IDC,109,1,Negative,1,27,Living
+0,47.75,LumB,2,Positive,GAIN,Negative,1,Pre,0,4.05,MDLC,38.03333333,0,Positive,1,25,Died of Disease
+0,48.48,LumB,2,Positive,GAIN,Positive,1,Pre,0,4.056,IDC,26.76666667,0,Positive,1,28,Died of Disease
+0,57.31,LumB,2,Positive,GAIN,Positive,1,Post,0,4.032,IDC,68.2,0,Negative,1,16,Died of Disease
+0,56.42,Basal,2,Positive,NEUTRAL,Negative,0,Post,0,4.04,IDC,10.86666667,0,Negative,1,20,Died of Disease
+0,51.18,LumA,2,Positive,NEUTRAL,Negative,1,Post,1,4.054,IDC,241.6,1,Positive,1,27,Living
+0,65.62,claudinlow,2,Positive,NEUTRAL,Negative,1,Post,0,4.046,IDC,179.4333333,1,Negative,0,23,Living
+0,66.15,LumB,2,Positive,GAIN,Negative,0,Post,0,3.032,IDC,241.2666667,1,Negative,1,16,Living
+0,65.5,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,3.036,ILC,87.53333333,0,Positive,0,18,Died of Other Causes
+0,60.99,LumA,2,Positive,GAIN,Positive,1,Post,0,4.04,ILC,113.8333333,0,Positive,1,20,Died of Other Causes
+0,53.36,LumA,2,Positive,GAIN,Negative,1,Post,3,5.04,IDC,236.6333333,1,Positive,1,20,Living
+0,61.26,LumB,2,Positive,GAIN,Positive,1,Post,0,4.08,IDC,136.2333333,1,Negative,0,40,Living
+1,38.49,claudinlow,2,Negative,NEUTRAL,Negative,0,Pre,8,6.056,IDC,23.2,0,Negative,1,28,Died of Disease
+1,40.06,Her2,2,Negative,GAIN,Positive,0,Pre,3,5.07,IDC,55.63333333,0,Negative,1,35,Died of Disease
+0,59.3,LumB,2,Positive,GAIN,Negative,1,Post,1,5.04,IDC,228.6,0,Positive,1,20,Died of Other Causes
+0,63.34,LumB,2,Positive,GAIN,Negative,1,Post,0,4.04,ILC,240.7,1,Negative,1,20,Living
+0,52.45,claudinlow,2,Negative,NEUTRAL,Negative,1,Post,0,4.03,IDC,243.7666667,1,Negative,0,15,Living
+1,59.29,Basal,2,Negative,NEUTRAL,Negative,0,Post,3,5.05,IDC,226.7333333,1,Negative,1,25,Living
+1,41.17,LumB,2,Positive,GAIN,Negative,0,Pre,3,5.056,IDC,50.03333333,0,Positive,1,28,Died of Disease
+0,50.92,LumA,2,Positive,NEUTRAL,Negative,1,Post,1,4.034,IDC,138.3333333,1,Positive,1,17,Living
+0,55.28,LumA,2,Positive,NEUTRAL,Negative,1,Post,7,6.052,IDC,228.8,1,Negative,1,26,Living
+0,59.16,LumB,2,Positive,NEUTRAL,Negative,1,Post,0,3.04,MDLC,103.4666667,1,Positive,1,20,Living
+0,49.08,Normal,2,Positive,NEUTRAL,Negative,1,Pre,1,4.052,ILC,243.5,1,Negative,0,26,Living
+0,68.86,LumA,2,Positive,NEUTRAL,Negative,1,Post,1,5.05,IDC,219.7666667,0,Positive,1,25,Died of Other Causes
+1,37.05,Her2,2,Negative,GAIN,Positive,0,Pre,1,5.06,IDC,25.43333333,0,Negative,1,30,Died of Disease
+1,38.2,LumB,2,Positive,LOSS,Negative,0,Pre,6,6.26,IDC,50.76666667,0,Positive,1,130,Died of Disease
+0,70.52,LumB,2,Positive,NEUTRAL,Negative,1,Post,0,4.042,IDC,108.7666667,1,Positive,1,21,Living
+0,43.67,LumA,2,Positive,NEUTRAL,Negative,1,Pre,1,4.034,MDLC,188.7333333,1,Positive,0,17,Living
+0,51.52,LumA,2,Positive,LOSS,Negative,0,Post,0,3.034,IDC,240.4666667,1,Positive,1,17,Living
+0,64.04,Normal,2,Positive,NEUTRAL,Negative,1,Post,0,4.06,IDC,119.8666667,0,Negative,0,30,Died of Disease
+1,51.36,Basal,2,Negative,NEUTRAL,Negative,0,Post,1,5.07,IDC,32.83333333,0,Negative,1,35,Died of Disease
+0,57.66,claudinlow,2,Positive,GAIN,Negative,0,Post,0,3.04,IDC,241.4,1,Positive,0,20,Living
+0,40.92,LumA,2,Positive,NEUTRAL,Negative,1,Pre,2,4.032,IDC,234.2333333,1,Positive,1,16,Living
+0,55.3,Her2,2,Positive,NEUTRAL,Negative,1,Post,0,4.03,IDC,234.1333333,0,Positive,1,15,Died of Other Causes
+1,21.93,Her2,2,Negative,GAIN,Positive,0,Pre,6,5.07,MDLC,38.8,0,Negative,1,35,Died of Disease
+1,56.4,Her2,2,Negative,GAIN,Positive,0,Post,2,5.11,IDC,62.53333333,0,Negative,1,55,Died of Disease
+0,68.59,claudinlow,2,Negative,NEUTRAL,Negative,0,Post,0,4.034,IDC,159.0666667,0,Negative,0,17,Died of Other Causes
+0,60.3,claudinlow,2,Positive,NEUTRAL,Negative,1,Post,1,5.044,IDC,231.6666667,1,Positive,1,22,Living
+0,43.58,LumB,2,Positive,GAIN,Negative,1,Pre,0,4.054,IDC,237.1333333,1,Negative,1,27,Living
+1,41.1,Her2,2,Positive,GAIN,Positive,0,Pre,0,4.1,IDC,27.46666667,0,Negative,1,50,Died of Disease
+0,45.74,LumB,2,Positive,NEUTRAL,Negative,0,Pre,0,3.04,IDC,102.4,0,Positive,0,20,Died of Disease
+0,62.09,LumB,2,Positive,NEUTRAL,Negative,1,Post,1,5.04,IDC,118.1333333,0,Positive,1,20,Died of Disease
+1,53.5,Her2,2,Negative,GAIN,Positive,0,Post,5,6.062,IDC,15.5,0,Negative,1,31,Died of Disease
+0,66.91,Basal,2,Negative,NEUTRAL,Negative,0,Post,0,4.06,IDC,239.3,1,Negative,0,30,Living
+1,50.79,Basal,2,Negative,NEUTRAL,Negative,0,Post,3,5.054,IDC,229.3333333,1,Negative,1,27,Living
+0,39.28,LumB,2,Positive,LOSS,Negative,1,Pre,1,5.032,BREAST,240.8333333,1,Positive,1,16,Living
+0,67.6,LumA,2,Positive,NEUTRAL,Negative,1,Post,1,3.04,MDLC,59.6,0,Positive,1,20,Died of Other Causes
+0,65.56,LumB,2,Positive,GAIN,Negative,1,Post,5,6.054,IDC,236.7,1,Negative,1,27,Living
+0,60.3,Normal,2,Positive,GAIN,Negative,1,Post,3,5.044,IDC,86.06666667,0,Negative,1,22,Died of Disease
+0,71.03,Her2,2,Negative,GAIN,Positive,0,Post,0,4.05,IDC,113.6666667,1,Negative,0,25,Living
+0,70.94,Her2,2,Positive,NEUTRAL,Negative,1,Post,1,4.052,MDLC,112.9666667,0,Positive,0,26,Died of Other Causes
+0,48.12,Normal,2,Positive,UNDEF,Negative,1,Pre,6,5.03,IDC,86.23333333,0,Negative,1,15,Died of Disease
+0,49.84,LumA,2,Positive,NEUTRAL,Negative,1,Pre,0,4.042,IDC,232.7333333,0,Positive,1,21,Died of Disease
+0,66.85,LumA,2,Positive,NEUTRAL,Negative,1,Post,1,4.04,IDC,234.5333333,0,Positive,0,20,Died of Other Causes
+1,51.76,Her2,2,Negative,GAIN,Positive,0,Post,2,5.16,IDC,38.03333333,0,Negative,1,80,Died of Disease
+1,55.95,claudinlow,2,Negative,NEUTRAL,Negative,1,Post,0,4.05,MDLC,236.0333333,1,Negative,1,25,Living
+0,53.04,Her2,2,Positive,NEUTRAL,Negative,1,Post,0,4.074,MDLC,24.86666667,0,Negative,0,37,Died of Disease
+0,63.97,claudinlow,2,Positive,NEUTRAL,Negative,0,Post,0,1.12,IDC,229.3666667,0,Positive,0,60,Died of Other Causes
+0,60.15,LumB,2,Positive,NEUTRAL,Negative,1,Post,1,4.024,IDC,214.7,1,Positive,1,12,Living
+0,68.61,Her2,2,Negative,GAIN,Positive,0,Post,0,4.08,IDC,110.6333333,1,Negative,1,40,Living
+0,63.95,LumB,2,Positive,NEUTRAL,Negative,1,Post,3,5.068,IDC,235.4,1,Positive,1,34,Living
+1,37.16,claudinlow,2,Negative,NEUTRAL,Negative,0,Pre,1,5.011,IDC,230.4666667,1,Negative,1,5.5,Living
+0,55.71,Basal,2,Negative,NEUTRAL,Negative,0,Post,0,4.036,IDC,38.8,0,Negative,1,18,Died of Disease
+0,70.77,claudinlow,2,Positive,NEUTRAL,Negative,1,Post,1,5.05,IDC,228.7666667,0,Negative,0,25,Died of Disease
+0,41.52,LumA,2,Positive,GAIN,Negative,0,Pre,0,2.04,IDC,222.1,1,Positive,0,20,Living
+0,51.01,LumA,2,Positive,NEUTRAL,Negative,1,Post,0,4.03,IDC,228,1,Positive,1,15,Living
+0,49.98,claudinlow,2,Negative,LOSS,Negative,0,Pre,0,4.03,IDC,75.33333333,0,Negative,1,15,Died of Disease
+0,57.01,LumB,2,Positive,NEUTRAL,Negative,1,Post,0,4.05,IDC,92.73333333,0,Negative,0,25,Died of Disease
+0,48.16,LumA,2,Positive,NEUTRAL,Negative,0,Pre,0,3.036,MDLC,224.5666667,1,Positive,1,18,Living
+0,68.72,LumA,2,Positive,LOSS,Negative,0,Post,0,1.048,BREAST,228.3333333,1,Positive,0,24,Living
+0,49.45,LumB,2,Positive,NEUTRAL,Negative,1,Pre,0,4.044,IDC,126.4666667,0,Positive,1,22,Died of Disease
+0,60.45,LumB,2,Positive,NEUTRAL,Negative,1,Post,0,4.046,IDC,134.4666667,0,Positive,1,23,Died of Disease
+0,53.89,LumB,2,Positive,NEUTRAL,Negative,0,Post,0,3.032,IDC,287.2333333,1,Negative,1,16,Living
+0,54.6,LumB,2,Positive,NEUTRAL,Negative,1,Post,1,5.048,IDC,226.0666667,1,Negative,1,24,Living
+0,65.89,LumA,2,Positive,GAIN,Positive,0,Post,0,3.04,MDLC,72.3,1,Positive,0,20,Living
+0,43.56,LumA,2,Positive,GAIN,Positive,1,Pre,0,4.046,IDC,225.5,1,Positive,1,23,Living
+0,63.82,LumA,2,Positive,NEUTRAL,Negative,0,Post,0,2.024,MDLC,99.23333333,1,Positive,0,12,Living
+0,49.37,claudinlow,2,Positive,NEUTRAL,Negative,1,Pre,0,2.03,IDC,199.9666667,1,Negative,1,15,Living
+0,54.29,Her2,2,Negative,GAIN,Positive,0,Post,0,4.024,IDC,225.5,1,Negative,1,12,Living
+0,62.03,LumA,2,Positive,NEUTRAL,Negative,1,Post,1,4.052,IDC,172.8,0,Positive,0,26,Died of Other Causes
+0,35.5,LumA,2,Positive,NEUTRAL,Negative,0,Pre,0,3.03,IDC,186.4333333,1,Positive,1,15,Living
+0,57.91,Her2,2,Negative,GAIN,Positive,0,Post,0,4.026,IDC,100.8666667,0,Negative,1,13,Died of Disease
+0,76.96,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.04,IDC,28.06666667,0,Negative,1,20,Died of Other Causes
+0,74.51,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.08,IDC,49.66666667,0,Negative,1,40,Died of Disease
+0,70.31,Her2,3,Positive,NEUTRAL,Negative,0,Post,0,3.04,IDC,106.5666667,0,Positive,1,20,Died of Disease
+0,61.16,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.03,IDC,256.8666667,0,Positive,1,15,Died of Disease
+0,66.37,claudinlow,3,Positive,NEUTRAL,Negative,1,Post,0,3.036,ILC,188.3666667,1,Positive,1,18,Living
+0,64.91,LumB,3,Positive,GAIN,Negative,1,Post,3,5.07,IDC,44.73333333,0,Positive,0,35,Died of Disease
+0,73.15,Her2,3,Positive,NEUTRAL,Negative,0,Post,0,4.05,IDC,11.7,0,Positive,0,25,Died of Other Causes
+0,72.36,LumA,3,Positive,UNDEF,Negative,1,Post,0,4.044,IDC,193.1666667,1,Negative,1,22,Living
+0,63.23,Her2,3,Negative,NEUTRAL,Positive,0,Post,0,3.05,IDC,277.3666667,0,Negative,1,25,Died of Other Causes
+0,76.13,Her2,3,Negative,LOSS,Negative,0,Post,0,3.06,IDC,11.3,0,Negative,0,30,Died of Disease
+0,76.17,LumB,3,Positive,NEUTRAL,Negative,1,Post,3,5.08,MDLC,139.3,0,Negative,0,40,Died of Other Causes
+0,71.32,LumA,3,Positive,NEUTRAL,Negative,1,Post,10,5.04,MDLC,105.6666667,0,Positive,0,20,Died of Disease
+0,56.14,Basal,3,Negative,LOSS,Negative,1,Post,0,4.05,IDC,124.1,1,Negative,1,25,Living
+0,82.17,LumA,3,Positive,NEUTRAL,Negative,1,Post,5,5.044,ILC,15.2,0,Positive,1,22,Died of Disease
+0,59.24,Her2,3,Positive,NEUTRAL,Negative,0,Post,0,3.026,MDLC,298.0333333,0,Positive,0,13,Died of Other Causes
+0,50.23,Normal,3,Positive,NEUTRAL,Negative,1,Post,0,3.05,IDC,172,0,Positive,1,25,Died of Other Causes
+0,63.17,Her2,3,Positive,NEUTRAL,Negative,0,Post,0,4.044,IDC,351,0,Positive,1,22,Died of Other Causes
+0,74.45,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,4.06,IDC,281.3666667,0,Positive,0,30,Died of Other Causes
+0,68.55,Her2,3,Positive,NEUTRAL,Negative,0,Post,0,2.1,IDC,176.3666667,1,Negative,0,50,Living
+0,65.46,Her2,3,Positive,NEUTRAL,Negative,1,Post,1,4.04,IDC,67.8,0,Negative,1,20,Died of Disease
+0,56.19,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.02,IDC,217.1,0,Positive,0,10,Died of Other Causes
+0,73.2,Her2,3,Positive,NEUTRAL,Negative,0,Post,0,1.06,IDC,174.8,0,Positive,1,30,Died of Other Causes
+1,54.35,Her2,3,Negative,GAIN,Positive,1,Post,6,6.08,IDC,258.1666667,0,Negative,1,40,Died of Other Causes
+0,63.05,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,2.04,IDC,165.4,0,Positive,0,20,Died of Other Causes
+0,71.17,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,4.046,IDC,114.5,0,Negative,1,23,Died of Other Causes
+0,58.32,Her2,3,Positive,NEUTRAL,Negative,0,Post,0,4.03,IDC,147.8333333,0,Positive,1,15,Died of Disease
+0,60.33,Her2,3,Positive,NEUTRAL,Negative,0,Post,0,1.04,IDC,217.6333333,0,Positive,1,20,Died of Other Causes
+1,43.06,Basal,3,Negative,NEUTRAL,Negative,0,Pre,13,6.04,IDC,15.63333333,0,Negative,1,20,Died of Disease
+0,57.85,LumB,3,Positive,NEUTRAL,Negative,1,Post,16,5.07,IDC,63.03333333,0,Positive,0,35,Died of Disease
+0,54.22,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,4.06,IDC,49.56666667,0,Positive,1,30,Died of Other Causes
+0,64.21,Her2,3,Positive,GAIN,Negative,0,Post,0,4.086,MDLC,184.7,0,Negative,0,43,Died of Disease
+0,74.31,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,4.02,IDC,160.3333333,0,Positive,1,10,Died of Other Causes
+0,60.99,Her2,3,Positive,NEUTRAL,Negative,1,Post,1,2,IDC,355.2,0,Positive,1,,Died of Other Causes
+0,45.5,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,3.04,IDC,330.3666667,1,Positive,0,20,Living
+0,67.02,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,3.06,IDC,84.5,0,Negative,1,30,Died of Disease
+0,58.8,Her2,3,Positive,LOSS,Negative,0,Post,0,2.08,IDC,55.23333333,0,Positive,0,40,Died of Disease
+0,72.39,NC,3,Positive,NEUTRAL,Negative,1,Post,1,4.07,IDC,65.5,0,Positive,1,35,Died of Disease
+0,75.87,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.1,IDC,115.6,0,Negative,1,50,Died of Other Causes
+0,54.01,LumB,3,Positive,NEUTRAL,Negative,1,Post,5,5.06,IDC,36.36666667,0,Negative,1,30,Died of Disease
+0,68.25,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,4.08,IDC,253.5333333,0,Positive,0,40,Died of Other Causes
+0,67.46,Basal,3,Positive,NEUTRAL,Negative,0,Post,0,3.04,IDC,335.7333333,0,Negative,0,20,Died of Disease
+0,73.91,Her2,3,Positive,NEUTRAL,Negative,1,Post,1,5.036,IDC,203.7,0,Negative,1,18,Died of Other Causes
+0,80.81,LumA,3,Positive,LOSS,Negative,1,Post,1,4.11,IDC,100.1666667,0,Negative,0,55,Died of Other Causes
+0,68.7,Basal,3,Negative,NEUTRAL,Negative,1,Post,0,4.06,IDC,178.4,1,Negative,0,30,Living
+0,72.17,LumA,3,Positive,GAIN,Negative,1,Post,1,4.04,IDC,163.2,0,Positive,1,20,Died of Other Causes
+0,28.04,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,4.09,IDC,33.9,0,Negative,0,45,Died of Disease
+1,37.85,Her2,3,Positive,GAIN,Positive,0,Pre,4,5.036,IDC,98.7,0,Positive,1,18,Died of Disease
+0,74.32,LumB,3,Positive,NEUTRAL,Negative,1,Post,3,4.04,IDC,59.93333333,0,Positive,1,20,Died of Disease
+0,55.07,Her2,3,Positive,GAIN,Positive,1,Post,1,4.07,IDC,132.2,0,Positive,1,35,Died of Disease
+0,68.32,Her2,3,Positive,NEUTRAL,Negative,0,Post,0,4.06,IDC,244.2,0,Positive,0,30,Died of Other Causes
+0,60,Her2,3,Positive,GAIN,Negative,1,Post,1,5.046,IDC,260.0333333,0,Negative,1,23,Died of Other Causes
+0,49.61,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,4.02,IDC,34.1,1,Positive,1,10,Living
+0,55.62,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,4.08,IDC,174.8333333,1,Positive,1,40,Living
+0,65.49,Her2,3,Positive,GAIN,Positive,1,Post,0,2.04,ILC,96.83333333,0,Negative,1,20,Died of Disease
+0,58.8,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,4.05,IDC,335.6,0,Positive,1,25,Died of Other Causes
+0,54.16,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.06,MDLC,219.1666667,0,Negative,1,30,Died of Other Causes
+0,70.58,Her2,3,Positive,NEUTRAL,Negative,1,Post,1,5.06,IDC,189.0333333,1,Negative,1,30,Living
+0,66.91,Basal,3,Negative,NEUTRAL,Negative,0,Post,0,4.03,IDC,89.03333333,0,Negative,1,15,Died of Other Causes
+0,69.19,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,2.042,MDLC,234.7,0,Positive,0,21,Died of Other Causes
+0,76.51,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,2.1,IDC,265.5666667,0,Positive,1,50,Died of Other Causes
+0,58.02,LumA,3,Positive,NEUTRAL,Negative,1,Post,5,6.08,MDLC,300.7,0,Positive,1,40,Died of Disease
+0,51.93,Her2,3,Positive,GAIN,Positive,1,Post,0,3.1,IDC,177.9,1,Positive,0,50,Living
+0,72.44,LumB,3,Positive,NEUTRAL,Negative,1,Post,1,5.04,IDC,17.13333333,0,Positive,1,20,Died of Other Causes
+0,63.39,LumA,3,Positive,LOSS,Negative,1,Post,1,4.06,IDC,196.4666667,0,Negative,1,30,Died of Other Causes
+0,80.04,LumA,3,Positive,NEUTRAL,Negative,1,Post,8,3.06,IDC,126.6333333,0,Positive,0,30,Died of Other Causes
+0,61.22,Her2,3,Positive,NEUTRAL,Negative,1,Post,24,6.1,IDC,87.23333333,0,Positive,1,50,Died of Disease
+0,64.12,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.06,IDC,199.2666667,0,Positive,1,30,Died of Other Causes
+0,70.75,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,5.058,IDC,168.2666667,0,Positive,0,29,Died of Disease
+0,63.34,Her2,3,Positive,GAIN,Negative,1,Post,2,5.04,IDC,235.5666667,0,Negative,1,20,Died of Other Causes
+0,34.36,Basal,3,Negative,NEUTRAL,Negative,0,Pre,0,4.04,IDC,307.9333333,1,Negative,1,20,Living
+0,64.5,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,2.05,IDC,207.9666667,0,Negative,0,25,Died of Other Causes
+0,74.98,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,3.04,IDC,173.6,0,Positive,1,20,Died of Disease
+1,35.14,Her2,3,Negative,GAIN,Positive,0,Pre,18,6.08,IDC,33.7,0,Negative,1,40,Died of Disease
+0,73.2,LumA,3,Positive,NEUTRAL,Negative,1,Post,3,2.124,IDC,232.7666667,0,Negative,1,62,Died of Other Causes
+0,68.09,Her2,3,Positive,NEUTRAL,Negative,0,Post,0,4.05,MDLC,198.6,0,Negative,0,25,Died of Other Causes
+0,61.57,Her2,3,Positive,GAIN,Positive,1,Post,4,6.08,IDC,226.2,0,Negative,1,40,Died of Disease
+1,35.64,Her2,3,Negative,GAIN,Positive,0,Pre,3,5.03,IDC,31.06666667,0,Negative,1,15,Died of Disease
+0,70.27,Her2,3,Negative,NEUTRAL,Negative,0,Post,0,4.04,IDC,68.13333333,0,Negative,1,20,Died of Disease
+0,59.23,LumB,3,Positive,NEUTRAL,Negative,1,Post,1,5.06,IDC,128.5333333,0,Positive,0,30,Died of Disease
+0,55.01,Her2,3,Negative,NEUTRAL,Negative,1,Post,2,4.07,IDC,15.36666667,0,Negative,1,35,Died of Disease
+0,77.12,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,5.04,IDC,114.0333333,0,Negative,1,20,Died of Disease
+1,59.16,Her2,3,Negative,GAIN,Positive,0,Post,0,4.016,IDC,11.86666667,0,Negative,1,8,Died of Disease
+0,50.08,Normal,3,Positive,LOSS,Negative,0,Post,0,4.04,IDC,267.2666667,1,Positive,1,20,Living
+0,74.6,LumA,3,Positive,NEUTRAL,Negative,1,Post,3,4.05,IDC,119.4666667,0,Positive,1,25,Died of Disease
+0,77.51,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,4.06,IDC,42.56666667,0,Positive,1,30,Died of Other Causes
+0,40.04,Normal,3,Positive,NEUTRAL,Negative,0,Pre,0,3.032,IDC,291.1666667,1,Positive,0,16,Living
+0,59.75,Normal,3,Positive,NEUTRAL,Negative,1,Post,3,3.04,IDC,61.46666667,0,Positive,1,20,Died of Disease
+0,68.49,LumA,3,Positive,NEUTRAL,Negative,1,Post,4,5.06,IDC,164.3333333,0,Positive,1,30,Died of Other Causes
+0,45.21,Her2,3,Positive,NEUTRAL,Negative,1,Pre,0,4.06,IDC,139.6,0,Positive,0,30,Died of Disease
+0,44.4,Basal,3,Negative,NEUTRAL,Negative,0,Pre,0,4.02,IDC,83.36666667,0,Negative,1,10,Died of Disease
+0,71.66,Basal,3,Negative,NEUTRAL,Negative,0,Post,0,4.04,IDC,206.5666667,0,Negative,0,20,Died of Other Causes
+1,44.89,claudinlow,3,Negative,NEUTRAL,Negative,0,Pre,3,5.05,IDC,241.6,0,Negative,1,25,Died of Disease
+0,68.16,Basal,3,Negative,NEUTRAL,Negative,0,Post,0,4.064,IDC,16.7,0,Negative,0,32,Died of Other Causes
+0,56.11,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.04,IDC,307.6333333,1,Positive,1,20,Living
+0,69.01,LumA,3,Positive,GAIN,Negative,0,Post,0,3.02,IDC,264.7666667,0,Positive,1,10,Died of Other Causes
+0,70.84,Basal,3,Positive,NEUTRAL,Negative,1,Post,1,5.09,IDC,170.9,0,Positive,1,45,Died of Other Causes
+0,74.84,Her2,3,Positive,NEUTRAL,Negative,1,Post,1,5.05,IDC,148.1,0,Negative,1,25,Died of Disease
+0,47.29,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,3.03,IDC,296.8666667,1,Positive,0,15,Living
+0,66.23,Normal,3,Positive,NEUTRAL,Negative,1,Post,0,4.11,MDLC,52.3,0,Positive,1,55,Died of Disease
+0,61.21,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,2.03,IDC,126.4666667,0,Negative,1,15,Died of Other Causes
+1,50.42,Her2,3,Negative,GAIN,Positive,0,Post,1,5.002,IDC,322.8333333,1,Negative,1,1,Living
+0,51.25,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,2.06,MDLC,279.8,1,Positive,1,30,Living
+0,74.67,LumA,3,Positive,NEUTRAL,Negative,1,Post,7,6.036,IDC,210.4333333,0,Positive,1,18,Died of Other Causes
+0,72.74,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.09,IDC,197.3333333,0,Positive,1,45,Died of Other Causes
+0,71.93,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,4.05,IDC,41.16666667,0,Positive,1,25,Died of Other Causes
+0,48.44,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,3.03,IDC,140.2333333,1,Positive,1,15,Living
+0,67.92,LumB,3,Positive,NEUTRAL,Negative,1,Post,6,5.05,IDC,119.3666667,0,Positive,1,25,Died of Disease
+0,63.83,LumA,3,Positive,NEUTRAL,Negative,1,Post,3,5.08,IDC,191.1666667,1,Positive,1,40,Living
+1,39.14,Basal,3,Negative,GAIN,Positive,0,Pre,2,5.06,IDC,56.26666667,0,Negative,0,30,Died of Disease
+0,58.38,LumB,3,Positive,NEUTRAL,Negative,1,Post,2,5.04,IDC,122.8,0,Positive,1,20,Died of Disease
+0,42.79,Normal,3,Positive,NEUTRAL,Negative,0,Pre,0,3.03,IDC,239.2333333,1,Positive,1,15,Living
+0,55.42,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.03,IDC,121.7333333,1,Negative,1,15,Living
+0,71.47,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.04,IDC,90.13333333,0,Positive,1,20,Died of Disease
+0,40.05,LumB,3,Positive,GAIN,Negative,0,Pre,0,3.024,MDLC,267.4,1,Positive,1,12,Living
+1,39.51,Basal,3,Negative,NEUTRAL,Negative,0,Pre,6,6.106,IDC,271.8666667,1,Negative,0,53,Living
+1,40.83,claudinlow,3,Negative,NEUTRAL,Negative,0,Pre,2,5.1,IDC,282.8333333,0,Negative,1,50,Died of Other Causes
+0,61.88,LumA,3,Positive,NEUTRAL,Negative,1,Post,4,5.02,MDLC,292.0333333,0,Negative,1,10,Died of Other Causes
+0,64.61,Her2,3,Positive,GAIN,Positive,0,Post,0,4.03,IDC,143,0,Negative,1,15,Died of Disease
+0,55.65,LumA,3,Positive,NEUTRAL,Negative,1,Post,9,6.04,MDLC,186.6333333,0,Positive,1,20,Died of Other Causes
+0,67.48,LumB,3,Positive,GAIN,Negative,0,Post,0,3.07,IDC,95.83333333,0,Positive,0,35,Died of Other Causes
+0,67.03,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,5.05,MDLC,318.2,1,Positive,1,25,Living
+0,66.37,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,5.03,MDLC,109.6,0,Positive,1,15,Died of Disease
+0,71.17,LumB,3,Positive,LOSS,Negative,0,Post,0,4.06,IDC,119,0,Positive,1,30,Died of Disease
+0,61.59,Her2,3,Negative,GAIN,Negative,0,Post,0,4.05,IDC,200.6,1,Negative,1,25,Living
+0,64.93,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,5.03,IDC,148.5666667,0,Positive,1,15,Died of Other Causes
+0,66.27,LumB,3,Positive,NEUTRAL,Negative,1,Post,1,5.07,IDC,285.7,0,Positive,1,35,Died of Disease
+0,78.21,Her2,3,Negative,GAIN,Positive,0,Post,0,4.03,IDC,41.46666667,0,Negative,0,15,Died of Disease
+0,59.13,LumB,3,Positive,GAIN,Positive,1,Post,1,4.046,IDC,90,0,Negative,0,23,Died of Disease
+0,75.19,LumB,3,Positive,GAIN,Negative,0,Post,0,4.04,IDC,168.5333333,0,Positive,0,20,Died of Other Causes
+0,61.67,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,3.05,IDC,16.83333333,0,Negative,1,25,Died of Other Causes
+0,69.96,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,3.07,IDC,30.3,0,Negative,1,35,Died of Disease
+0,44.5,Normal,3,Positive,GAIN,Negative,0,Pre,0,4.062,IDC,48.13333333,0,Positive,0,31,Died of Disease
+0,80.82,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.04,IDC,64.3,0,Positive,1,20,Died of Other Causes
+0,64.01,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,5.032,IDC,99,0,Positive,0,16,Died of Other Causes
+1,37.53,Basal,3,Negative,NEUTRAL,Negative,0,Pre,14,6.056,IDC,39.86666667,0,Negative,1,28,Died of Disease
+0,81.11,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.05,IDC,234.2333333,1,Positive,0,25,Living
+0,61.97,Basal,3,Negative,GAIN,Positive,0,Post,0,4.08,IDC,239.3333333,1,Negative,1,40,Living
+0,54.27,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,4.036,IDC,260.2,1,Positive,0,18,Living
+0,57.98,LumA,3,Positive,LOSS,Negative,1,Post,9,6.03,IDC,111.5666667,0,Negative,0,15,Died of Disease
+0,65.58,Her2,3,Negative,NEUTRAL,Negative,0,Post,0,4.04,ILC,295.3333333,0,Negative,1,20,Died of Other Causes
+0,68.82,LumB,3,Positive,LOSS,Negative,1,Post,0,4.04,IDC,119.4666667,0,Negative,1,20,Died of Other Causes
+0,61,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.04,IDC,67.8,0,Positive,0,20,Died of Disease
+0,72.48,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,4.06,IDC,34.7,0,Positive,1,30,Died of Disease
+0,58.78,LumA,3,Positive,GAIN,Negative,0,Post,0,4.05,IDC,220.9333333,0,Positive,0,25,Died of Other Causes
+0,63.27,LumB,3,Positive,GAIN,Negative,1,Post,2,4.04,IDC,87,0,Negative,0,20,Died of Disease
+0,75.26,LumA,3,Positive,LOSS,Negative,1,Post,3,4.08,IDC,81.06666667,0,Positive,0,40,Died of Disease
+0,59.23,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,4.036,IDC,263.0333333,1,Positive,1,18,Living
+0,64.11,Basal,3,Negative,NEUTRAL,Negative,0,Post,0,4.03,IDC,292.6666667,0,Negative,0,15,Died of Other Causes
+0,60.66,LumA,3,Positive,LOSS,Negative,0,Post,0,1.034,IDC,251.8,0,Negative,0,17,Died of Disease
+0,65.5,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,4.04,IDC,139.5333333,0,Positive,0,20,Died of Disease
+0,73.6,LumB,3,Positive,NEUTRAL,Negative,1,Post,8,6.1,IDC,43.3,0,Negative,1,50,Died of Other Causes
+0,53.03,LumA,3,Positive,NEUTRAL,Negative,1,Post,3,5.07,IDC,48.43333333,0,Negative,1,35,Died of Disease
+0,81.98,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,5.04,IDC,74.1,0,Negative,0,20,Died of Other Causes
+0,71.17,LumB,3,Positive,GAIN,Positive,1,Post,9,5.09,IDC,85.3,0,Positive,1,45,Died of Disease
+0,49.76,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,4.02,IDC,282.5666667,0,Negative,0,10,Died of Disease
+0,58.49,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,2.05,IDC,107.2666667,0,Positive,0,25,Died of Other Causes
+0,76.06,Basal,3,Positive,NEUTRAL,Negative,0,Post,0,4.04,IDC,198.3,1,Negative,1,20,Living
+0,61.12,Normal,3,Positive,NEUTRAL,Negative,1,Post,2,4.1,ILC,21.3,0,Negative,0,50,Died of Other Causes
+0,49.98,claudinlow,3,Negative,LOSS,Negative,0,Pre,0,4.09,IDC,255.2666667,1,Negative,0,45,Living
+0,79.01,NC,3,Positive,NEUTRAL,Negative,0,Post,0,1.06,ILC,118,0,Negative,0,30,Died of Other Causes
+0,59.18,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,5.04,ILC,170.6666667,0,Positive,0,20,Died of Disease
+0,47.62,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,4.05,IDC,127.5333333,1,Positive,1,25,Living
+0,52.13,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.07,IDC,300.8666667,1,Negative,0,35,Living
+0,67.79,LumA,3,Positive,GAIN,Negative,0,Post,0,4.098,MDLC,64,0,Negative,0,49,Died of Disease
+0,63.58,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.054,IDC,213.1,0,Positive,0,27,Died of Other Causes
+0,75.48,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,4.03,IDC,55.66666667,0,Positive,1,15,Died of Other Causes
+0,59.85,Basal,3,Negative,NEUTRAL,Negative,0,Post,0,4.054,IDC,221.2,1,Negative,1,27,Living
+0,63.03,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,4.036,ILC,227.9,0,Negative,0,18,Died of Other Causes
+0,49.02,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,3.04,IDC,146.7666667,1,Positive,1,20,Living
+0,77.12,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,4.038,IDC,57.66666667,1,Positive,0,19,Living
+1,56.07,claudinlow,3,Negative,GAIN,Positive,0,Post,11,6.198,IDC,31.46666667,0,Negative,1,99,Died of Disease
+0,46.59,Normal,3,Positive,NEUTRAL,Negative,0,Pre,0,4.1,IDC,249.5333333,0,Negative,0,50,Died of Other Causes
+1,64.68,Basal,3,Negative,NEUTRAL,Negative,1,Post,11,6.002,IDC,83.66666667,0,Negative,1,1,Died of Other Causes
+1,67.8,Basal,3,Negative,NEUTRAL,Negative,0,Post,1,5.09,IDC,35.23333333,0,Negative,0,45,Died of Disease
+0,52.98,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,4.056,ILC,76.13333333,0,Positive,1,28,Died of Disease
+0,43.51,Basal,3,Negative,LOSS,Negative,0,Pre,0,4.05,IDC,42.9,0,Negative,0,25,Died of Disease
+0,44.27,Normal,3,Positive,NEUTRAL,Negative,1,Pre,0,2.198,ILC,198.3333333,0,Positive,1,99,Died of Disease
+0,67.27,LumA,3,Positive,NEUTRAL,Negative,1,Post,4,5.044,IDC,81.56666667,0,Positive,0,22,Died of Other Causes
+0,66.39,LumA,3,Positive,NEUTRAL,Negative,1,Post,5,4.12,ILC,23.73333333,0,Negative,1,60,Died of Disease
+0,64.02,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.05,IDC,86.1,1,Positive,0,25,Living
+0,64.76,LumB,3,Positive,GAIN,Negative,0,Post,0,4.03,IDC,211.9666667,1,Negative,1,15,Living
+0,60.44,Her2,3,Negative,GAIN,Positive,0,Post,0,4.04,IDC,146.0666667,1,Negative,1,20,Living
+0,65.83,Her2,3,Positive,GAIN,Positive,1,Post,1,5.052,IDC,98.76666667,0,Positive,0,26,Died of Disease
+0,75.41,LumA,3,Positive,GAIN,Positive,1,Post,1,5.05,IDC,28,0,Negative,1,25,Died of Other Causes
+0,51.29,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,4.136,MDLC,131.3,0,Positive,0,68,Died of Other Causes
+1,49.43,Her2,3,Negative,GAIN,Positive,0,Pre,1,5.12,IDC,44.86666667,0,Negative,0,60,Died of Disease
+1,26.72,Basal,3,Negative,NEUTRAL,Negative,0,Pre,3,5.09,IDC,149.8666667,1,Negative,1,45,Living
+1,56.27,claudinlow,3,Negative,NEUTRAL,Negative,1,Post,4,6.036,IDC,19.73333333,0,Negative,1,18,Died of Disease
+0,54.18,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.08,IDC,297.8,1,Positive,0,40,Living
+0,52.29,LumB,3,Positive,LOSS,Negative,1,Post,1,5.092,IDC,122.2,1,Negative,0,46,Living
+0,42.27,Normal,3,Positive,NEUTRAL,Negative,0,Pre,0,3.04,MDLC,176.0666667,1,Positive,0,20,Living
+0,56.08,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.03,MDLC,161.6666667,0,Positive,1,15,Died of Other Causes
+0,53.02,LumB,3,Positive,NEUTRAL,Negative,1,Post,1,4.04,ILC,56.5,0,Negative,0,20,Died of Disease
+0,76.42,LumA,3,Positive,NEUTRAL,Negative,1,Post,5,3.07,MDLC,83.13333333,0,Positive,0,35,Died of Other Causes
+0,52.61,Normal,3,Positive,NEUTRAL,Negative,0,Post,0,3.03,MDLC,230.1666667,1,Negative,0,15,Living
+0,64.21,LumB,3,Positive,NEUTRAL,Negative,1,Post,2,5.032,IDC,153,0,Positive,1,16,Died of Disease
+1,50.08,Her2,3,Negative,GAIN,Positive,0,Post,1,5.074,IDC,42.66666667,0,Negative,1,37,Died of Disease
+1,38.1,Normal,3,Positive,NEUTRAL,Negative,0,Pre,3,5.09,IDC,244.4333333,1,Positive,0,45,Living
+0,70.57,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,4.044,MDLC,51.46666667,0,Positive,0,22,Died of Other Causes
+0,73.21,LumB,3,Positive,NEUTRAL,Negative,1,Post,1,4.05,IDC,37.73333333,0,Positive,0,25,Died of Disease
+0,63.7,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.12,IDC,125.2666667,0,Negative,0,60,Died of Disease
+1,38.93,Basal,3,Negative,NEUTRAL,Negative,0,Pre,3,5.02,IDC,27.4,0,Negative,0,10,Died of Disease
+0,45.77,Basal,3,Negative,NEUTRAL,Negative,0,Pre,0,4.02,IDC,211.9333333,1,Negative,1,10,Living
+0,48.41,LumA,3,Positive,NEUTRAL,Negative,1,Pre,1,2.03,IDC,124.8,0,Positive,0,15,Died of Disease
+0,67.82,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.03,IDC,252.1,1,Positive,1,15,Living
+1,44.07,Her2,3,Negative,GAIN,Positive,0,Pre,1,5.06,IDC,102.1,1,Negative,1,30,Living
+0,57.95,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,4.1,ILC,245.5,1,Positive,1,50,Living
+0,74.86,LumB,3,Positive,LOSS,Negative,1,Post,1,5.08,IDC,47.13333333,0,Positive,0,40,Died of Disease
+0,65.86,Basal,3,Negative,NEUTRAL,Negative,0,Post,0,4.07,IDC,21.7,0,Negative,1,35,Died of Disease
+0,70.22,Her2,3,Negative,GAIN,Positive,0,Post,0,4.026,IDC,152.0666667,0,Negative,0,13,Died of Other Causes
+0,47.86,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,3.06,IDC,297.2333333,1,Positive,1,30,Living
+0,78.62,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.05,MDLC,206.1333333,0,Positive,0,25,Died of Other Causes
+0,53.39,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,4.026,IDC,101.5666667,1,Positive,1,13,Living
+0,43.85,Normal,3,Positive,NEUTRAL,Negative,0,Pre,0,5,IDC,251.0666667,1,Positive,0,,Living
+0,63.35,Normal,3,Positive,NEUTRAL,Negative,1,Post,0,4.04,IDC,145.7333333,0,Negative,0,20,Died of Other Causes
+0,75.46,LumA,3,Positive,LOSS,Negative,0,Post,0,3.056,IDC,121.6666667,0,Positive,1,28,Died of Disease
+0,68.85,LumA,3,Positive,GAIN,Negative,0,Post,0,3.06,IDC,81.06666667,0,Positive,0,30,Died of Other Causes
+0,43.73,LumA,3,Positive,GAIN,Negative,0,Pre,0,3.056,IDC,70.46666667,0,Negative,0,28,Died of Disease
+0,83.49,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,2.04,IDC,173.8333333,0,Negative,0,20,Died of Other Causes
+1,49.92,Basal,3,Negative,NEUTRAL,Negative,0,Pre,2,5.04,IDC,40.63333333,0,Negative,1,20,Died of Disease
+0,72.49,Basal,3,Negative,NEUTRAL,Negative,0,Post,0,4.1,IDC,83.36666667,0,Negative,1,50,Died of Other Causes
+0,89,LumA,3,Positive,NEUTRAL,Negative,1,Post,3,2.07,IDC,45.5,0,Positive,0,35,Died of Other Causes
+0,53.18,LumB,3,Positive,GAIN,Positive,0,Post,0,3.05,IDC,128.2666667,1,Negative,0,25,Living
+0,81.06,LumA,3,Positive,GAIN,Negative,1,Post,0,3.04,ILC,99.36666667,0,Negative,1,20,Died of Other Causes
+0,44.51,Normal,3,Positive,NEUTRAL,Negative,0,Pre,0,3.05,ILC,257.1666667,1,Positive,1,25,Living
+0,61.3,LumA,3,Positive,GAIN,Negative,0,Post,0,4.05,IDC,110.9333333,0,Positive,0,25,Died of Disease
+0,65.83,LumA,3,Positive,NEUTRAL,Negative,1,Post,7,6.07,IDC,130.3666667,0,Positive,1,35,Died of Other Causes
+0,71.67,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,3.08,IDC,43.9,0,Negative,0,40,Died of Disease
+0,45.39,LumA,3,Positive,NEUTRAL,Negative,1,Pre,0,4.07,IDC,129.8,0,Positive,0,35,Died of Disease
+0,49.77,LumA,3,Positive,NEUTRAL,Negative,1,Pre,1,4.02,IDC,201.7666667,0,Positive,0,10,Died of Other Causes
+0,43.77,Basal,3,Positive,GAIN,Negative,0,Pre,0,4.028,IDC,286.0666667,1,Negative,0,14,Living
+0,39.92,Normal,3,Positive,NEUTRAL,Negative,0,Pre,0,3.1,IDC,73.46666667,0,Positive,0,50,Died of Disease
+0,75.74,LumB,3,Positive,NEUTRAL,Negative,1,Post,1,4.114,MDLC,76.23333333,0,Negative,1,57,Died of Other Causes
+0,67.19,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,2.032,IDC,57.3,0,Positive,1,16,Died of Disease
+0,76.88,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.02,MDLC,91.63333333,0,Positive,0,10,Died of Disease
+0,65.93,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.02,IDC,214.4333333,0,Positive,0,10,Died of Other Causes
+0,78.54,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.044,IDC,45.7,0,Negative,0,22,Died of Other Causes
+0,78.87,LumB,3,Positive,NEUTRAL,Negative,1,Post,2,5.16,ILC,42.5,0,Negative,1,80,Died of Disease
+0,83.27,LumB,3,Positive,NEUTRAL,Negative,1,Post,1,2.02,MDLC,176.2666667,0,Negative,1,10,Died of Other Causes
+0,45.44,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,2.022,IDC,141.7333333,0,Positive,1,11,Died of Disease
+0,49.61,LumB,3,Positive,LOSS,Negative,1,Pre,2,5.05,IDC,36.16666667,0,Negative,1,25,Died of Disease
+0,55.66,Her2,3,Positive,NEUTRAL,Negative,0,Post,0,4.032,IDC,23.43333333,0,Positive,1,16,Died of Disease
+0,74.39,LumB,3,Positive,GAIN,Negative,1,Post,0,3.198,IDC,200.7666667,0,Negative,1,99,Died of Other Causes
+0,67.26,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,1.024,IDC,299.4,1,Positive,0,12,Living
+0,54.35,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,2.06,IDC,265.1333333,1,Positive,0,30,Living
+0,86.75,LumA,3,Positive,NEUTRAL,Negative,1,Post,19,3.04,IDC,25.46666667,0,Positive,0,20,Died of Disease
+0,63.07,LumB,3,Positive,GAIN,Positive,1,Post,0,3.05,ILC,101.6333333,0,Positive,1,25,Died of Disease
+0,81.52,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,4.06,IDC,45.33333333,0,Negative,0,30,Died of Disease
+0,73.95,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.05,IDC,90.26666667,0,Positive,0,25,Died of Disease
+0,62.35,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.032,ILC,265.9333333,1,Positive,0,16,Living
+0,74.8,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,5.06,IDC,41.46666667,0,Positive,0,30,Died of Other Causes
+0,74.56,LumA,3,Positive,GAIN,Positive,0,Post,0,4.03,IDC,129.3333333,0,Negative,0,15,Died of Other Causes
+0,74.29,claudinlow,3,Negative,NEUTRAL,Negative,0,Post,0,3.034,IDC,157.8,0,Negative,1,17,Died of Other Causes
+0,44.95,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,3.02,ILC,234.6,1,Positive,1,10,Living
+0,64.32,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.046,IDC,187.3,1,Positive,1,23,Living
+0,50.7,claudinlow,3,Negative,NEUTRAL,Negative,0,Post,0,4.07,IDC,229.9,1,Negative,0,35,Living
+0,43.86,LumA,3,Positive,GAIN,Negative,0,Pre,0,2.04,IDC,224.3,1,Positive,0,20,Living
+0,47.03,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,3.05,IDC,221.9,1,Positive,0,25,Living
+0,67.12,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,4.06,IDC,29.3,0,Positive,0,30,Died of Disease
+0,57.33,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,2.05,IDC,229.0666667,1,Positive,1,25,Living
+0,74.53,Normal,3,Negative,GAIN,Positive,0,Post,0,3.08,IDC,39.8,0,Negative,0,40,Died of Disease
+0,58.69,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.04,ILC,157.1,1,Positive,0,20,Living
+0,64.47,LumB,3,Positive,NEUTRAL,Negative,1,Post,14,5.06,IDC,117.6666667,0,Positive,1,30,Died of Disease
+0,42.45,claudinlow,3,Positive,NEUTRAL,Negative,0,Pre,0,3.056,ILC,150.6,0,Negative,1,28,Died of Disease
+0,79.35,LumA,3,Positive,GAIN,Positive,0,Post,0,3.05,IDC,22.46666667,0,Negative,0,25,Died of Disease
+0,49.34,Her2,3,Negative,GAIN,Positive,0,Pre,0,4.036,IDC,79.96666667,0,Negative,1,18,Died of Other Causes
+0,69.68,Basal,3,Negative,NEUTRAL,Negative,0,Post,0,4.054,IDC,210.9666667,1,Negative,0,27,Living
+0,37.05,Basal,3,Negative,NEUTRAL,Negative,0,Pre,0,4.07,IDC,274.2,1,Negative,1,35,Living
+0,76.71,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,2.014,IDC,266.1,0,Positive,0,7,Died of Other Causes
+0,57.93,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.04,IDC,268.9,1,Positive,1,20,Living
+1,43.42,Her2,3,Negative,GAIN,Positive,0,Pre,1,5.09,IDC,48.16666667,0,Negative,0,45,Died of Disease
+0,52.09,Normal,3,Positive,GAIN,Negative,1,Post,3,5.066,IDC,35.4,0,Negative,0,33,Died of Disease
+0,63.95,claudinlow,3,Negative,NEUTRAL,Negative,0,Post,0,4.032,IDC,230.5,1,Negative,1,16,Living
+1,33.04,claudinlow,3,Negative,NEUTRAL,Negative,0,Pre,3,5.04,IDC,176.7,1,Negative,0,20,Living
+0,47.71,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,4.07,IDC,232.4,1,Positive,0,35,Living
+0,41.53,Basal,3,Negative,GAIN,Positive,0,Pre,0,4.06,IDC,64.86666667,0,Negative,0,30,Died of Disease
+0,40.04,Normal,3,Positive,NEUTRAL,Negative,0,Pre,0,2.002,MDLC,197.4333333,1,Positive,0,1,Living
+0,63.63,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.02,IDC,117.9,0,Positive,1,10,Died of Disease
+0,40.25,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,3.04,IDC,275.7333333,1,Positive,1,20,Living
+0,47.61,LumB,3,Positive,NEUTRAL,Negative,1,Pre,0,3.036,IDC,224.6,1,Negative,0,18,Living
+1,64.3,claudinlow,3,Negative,GAIN,Negative,0,Post,1,5,IDC,129.2333333,0,Negative,1,,Died of Other Causes
+0,73.03,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,3.052,IDC,233.8666667,0,Positive,0,26,Died of Other Causes
+0,69.87,LumB,3,Positive,GAIN,Positive,1,Post,3,5.08,IDC,47.9,0,Positive,1,40,Died of Disease
+1,43.51,Basal,3,Negative,NEUTRAL,Negative,0,Pre,2,5.03,IDC,31.43333333,0,Negative,1,15,Died of Disease
+0,78.19,LumB,3,Positive,NEUTRAL,Negative,1,Post,3,4.056,IDC,50,0,Positive,1,28,Died of Disease
+0,76.54,LumB,3,Positive,NEUTRAL,Negative,1,Post,1,4.05,IDC,102.7666667,0,Positive,0,25,Died of Other Causes
+0,75.2,Her2,3,Negative,GAIN,Negative,1,Post,1,5.044,IDC,220.0333333,1,Negative,0,22,Living
+0,59.49,Her2,3,Negative,GAIN,Positive,1,Post,6,6.052,IDC,40,0,Negative,1,26,Died of Disease
+0,62.43,LumB,3,Positive,GAIN,Positive,1,Post,2,5.06,IDC,58.43333333,1,Negative,1,30,Living
+0,58.39,claudinlow,3,Negative,NEUTRAL,Negative,1,Post,0,4.06,IDC,30.36666667,0,Negative,0,30,Died of Disease
+0,50.78,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.06,IDC,272.9,1,Negative,0,30,Living
+0,74.85,LumB,3,Positive,NEUTRAL,Negative,1,Post,4,5.056,IDC,70.23333333,1,Positive,1,28,Living
+1,36.35,Her2,3,Negative,GAIN,Positive,1,Pre,3,5.046,IDC,194.2,1,Negative,0,23,Living
+0,41.09,LumB,3,Positive,NEUTRAL,Negative,0,Pre,0,4.04,IDC,77.23333333,0,Positive,0,20,Died of Disease
+1,33.92,Basal,3,Negative,NEUTRAL,Negative,0,Pre,1,4.05,IDC,70.6,0,Negative,1,25,Died of Disease
+0,57.32,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.04,IDC,58.63333333,0,Positive,1,20,Died of Disease
+0,60.31,claudinlow,3,Negative,GAIN,Negative,0,Post,0,4.054,IDC,124.1333333,0,Negative,1,27,Died of Other Causes
+0,77.77,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,3.036,IDC,237.2666667,0,Positive,1,18,Died of Other Causes
+1,65.53,Basal,3,Negative,NEUTRAL,Negative,0,Post,1,5.038,IDC,20.13333333,0,Negative,0,19,Died of Disease
+0,69.75,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,4.044,IDC,216.9666667,1,Negative,0,22,Living
+0,69.99,LumA,3,Positive,NEUTRAL,Negative,1,Post,12,6.06,IDC,150.6,0,Positive,1,30,Died of Disease
+0,67.15,Her2,3,Negative,GAIN,Positive,0,Post,0,4.042,IDC,184.4,1,Negative,1,21,Living
+0,69.31,LumB,3,Positive,NEUTRAL,Negative,1,Post,4,6.12,IDC,69.3,0,Negative,1,60,Died of Disease
+0,70.38,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,3.04,MDLC,197.6666667,0,Negative,1,20,Died of Disease
+0,76.93,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,2.026,IDC,117.5666667,0,Positive,0,13,Died of Disease
+0,56.94,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.05,IDC,219.4666667,1,Positive,1,25,Living
+0,72.44,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,4.028,IDC,197.8333333,0,Positive,1,14,Died of Disease
+0,69.93,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.06,MDLC,263.6,0,Positive,0,30,Died of Other Causes
+0,55.83,LumB,3,Positive,NEUTRAL,Negative,1,Post,6,4.1,MDLC,49.3,0,Positive,0,50,Died of Disease
+0,61.16,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.03,IDC,130.7,0,Positive,1,15,Died of Other Causes
+0,56.03,LumA,3,Positive,NEUTRAL,Negative,1,Post,5,5.05,ILC,78.7,1,Positive,1,25,Living
+0,76.81,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.05,IDC,198.1,0,Positive,1,25,Died of Other Causes
+0,77.45,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,3.06,IDC,88.8,0,Positive,0,30,Died of Disease
+0,65.16,Basal,3,Negative,NEUTRAL,Negative,0,Post,0,4.036,IDC,176.1,0,Negative,1,18,Died of Other Causes
+0,73.65,LumA,3,Positive,NEUTRAL,Negative,1,Post,3,3.04,IDC,224.1,0,Positive,0,20,Died of Other Causes
+0,72.54,LumA,3,Positive,NEUTRAL,Negative,1,Post,5,6.044,IDC,216.7333333,0,Positive,1,22,Died of Disease
+0,58.89,Normal,3,Positive,NEUTRAL,Negative,1,Post,0,2.04,ILC,198.4333333,1,Negative,0,20,Living
+0,69.67,LumA,3,Positive,NEUTRAL,Negative,1,Post,4,6.06,MDLC,180.7666667,0,Positive,0,30,Died of Disease
+0,62.99,Her2,3,Negative,GAIN,Negative,1,Post,5,6.034,IDC,19.16666667,0,Negative,1,17,Died of Disease
+0,41,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,3.1,IDC,79.8,0,Negative,1,50,Died of Disease
+0,76.37,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.04,IDC,221.7666667,0,Negative,0,20,Died of Other Causes
+0,77.13,LumB,3,Positive,GAIN,Negative,1,Post,1,5.08,IDC,126.8666667,1,Negative,0,40,Living
+0,66.47,LumA,3,Negative,NEUTRAL,Negative,0,Post,0,3.066,ILC,165.3666667,1,Negative,0,33,Living
+1,33.55,Her2,3,Negative,NEUTRAL,Negative,0,Pre,4,6.1,IDC,75.23333333,0,Negative,1,50,Died of Disease
+0,77.54,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,3.044,IDC,174.1333333,0,Positive,1,22,Died of Other Causes
+0,69.65,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,3.036,IDC,99.76666667,0,Positive,0,18,Died of Other Causes
+0,75.27,LumB,3,Positive,NEUTRAL,Negative,1,Post,6,6.064,ILC,65.56666667,0,Negative,0,32,Died of Disease
+0,44.84,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,3.06,IDC,187.9333333,1,Positive,1,30,Living
+0,71.61,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.042,IDC,81.8,0,Negative,0,21,Died of Disease
+1,42.84,Her2,3,Positive,NEUTRAL,Negative,0,Pre,2,5.074,IDC,216.7333333,1,Negative,1,37,Living
+1,65.76,Her2,3,Negative,NEUTRAL,Negative,0,Post,2,5.12,IDC,223.3,1,Negative,1,60,Living
+0,67.68,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.046,MDLC,80.5,0,Positive,1,23,Died of Other Causes
+0,68.56,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.04,IDC,251.2,0,Positive,1,20,Died of Other Causes
+0,69.93,LumB,3,Positive,NEUTRAL,Negative,1,Post,1,5.04,IDC,213.3666667,1,Positive,1,20,Living
+0,44.36,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,4.044,IDC,252.3,0,Positive,1,22,Died of Other Causes
+0,65.86,claudinlow,3,Positive,NEUTRAL,Negative,1,Post,6,6.028,IDC,144.9333333,1,Negative,1,14,Living
+0,72.12,LumA,3,Positive,NEUTRAL,Negative,1,Post,3,4.06,IDC,108.6,0,Positive,0,30,Died of Other Causes
+0,49.88,Normal,3,Negative,GAIN,Negative,0,Pre,0,4.024,IDC,37.8,0,Positive,1,12,Died of Disease
+0,62.68,LumA,3,Positive,LOSS,Negative,1,Post,4,6.034,MDLC,84.83333333,0,Positive,1,17,Died of Disease
+0,46.95,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,4.05,MDLC,189.8666667,1,Positive,1,25,Living
+0,63.92,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,2.086,IMMC,52.73333333,0,Negative,1,43,Died of Disease
+0,56.47,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,4.11,MDLC,213.2,0,Positive,0,55,Died of Disease
+0,67.7,LumB,3,Positive,GAIN,Positive,1,Post,1,5.11,IDC,62.13333333,0,Negative,1,55,Died of Disease
+0,72.73,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.08,IDC,79.16666667,0,Negative,0,40,Died of Other Causes
+0,45.4,claudinlow,3,Negative,NEUTRAL,Negative,0,Pre,0,4.04,IDC,173.9333333,1,Negative,1,20,Living
+0,70.42,LumA,3,Positive,NEUTRAL,Negative,1,Post,6,6.08,MDLC,128.3666667,0,Positive,1,40,Died of Disease
+0,55.56,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,3.034,IDC,139.4333333,1,Negative,1,17,Living
+0,70.11,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,4.05,IDC,168.3,0,Positive,1,25,Died of Other Causes
+0,44.12,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,3.032,IDC,86.36666667,0,Positive,1,16,Died of Disease
+0,61.76,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,3.034,MDLC,255.3,1,Positive,0,17,Living
+0,55.04,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.03,MDLC,184.3333333,1,Positive,1,15,Living
+0,76.66,claudinlow,3,Negative,GAIN,Negative,1,Post,2,5.07,IDC,34.56666667,0,Negative,0,35,Died of Other Causes
+0,68.21,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.042,IDC,150.6,0,Positive,0,21,Died of Other Causes
+0,52.57,Basal,3,Negative,GAIN,Positive,0,Post,0,4.002,IDC,187.7,1,Negative,0,1,Living
+0,39.25,Basal,3,Negative,NEUTRAL,Negative,0,Pre,0,4.03,IDC,56.33333333,0,Negative,0,15,Died of Disease
+1,61.04,Normal,3,Negative,NEUTRAL,Negative,1,Post,16,6.03,MDLC,178.7333333,0,Negative,1,15,Died of Disease
+0,53.69,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.034,MDLC,257.6333333,1,Positive,0,17,Living
+0,75.01,LumB,3,Positive,NEUTRAL,Negative,1,Post,1,4.05,IDC,150.1,0,Negative,1,25,Died of Other Causes
+0,71.05,LumB,3,Positive,NEUTRAL,Negative,1,Post,2,4.05,IDC,39.43333333,1,Positive,1,25,Living
+0,75.55,LumB,3,Positive,GAIN,Positive,1,Post,1,5.04,IDC,168.2666667,1,Negative,1,20,Living
+1,41.54,Her2,3,Negative,GAIN,Positive,0,Pre,1,5.04,IDC,215.1666667,1,Negative,1,20,Living
+0,63.4,LumA,3,Positive,LOSS,Negative,0,Post,0,3.04,IDC,91.5,1,Positive,0,20,Living
+0,68.66,claudinlow,3,Negative,NEUTRAL,Negative,0,Post,0,4.032,MDLC,184.8,1,Negative,0,16,Living
+0,53.58,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.05,IDC,94.7,1,Positive,1,25,Living
+0,71.19,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.03,IDC,182.5,1,Positive,1,15,Living
+1,47.38,Basal,3,Negative,LOSS,Negative,0,Pre,2,5.06,IDC,213.9,1,Negative,0,30,Living
+1,52.23,Her2,3,Negative,NEUTRAL,Negative,0,Post,1,5.06,IDC,50.23333333,0,Negative,0,30,Died of Disease
+0,67.87,claudinlow,3,Positive,NEUTRAL,Negative,1,Post,0,3.1,IDC,194.1666667,0,Positive,0,50,Died of Other Causes
+0,70.59,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,4.05,ILC,221.6,0,Negative,1,25,Died of Other Causes
+0,56.33,LumB,3,Positive,GAIN,Positive,1,Post,1,4.048,IDC,87.1,0,Negative,1,24,Died of Disease
+0,66.38,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.03,IDC,199.9333333,1,Positive,1,15,Living
+0,43.63,Normal,3,Positive,NEUTRAL,Negative,0,Pre,0,3.032,IDC,58,0,Positive,0,16,Died of Disease
+0,49,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,3.04,IDC,198.1,0,Negative,0,20,Died of Disease
+0,65.41,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,2.02,IDC,84.23333333,0,Positive,0,10,Died of Other Causes
+0,72.38,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.06,IDC,199.3666667,0,Negative,0,30,Died of Other Causes
+0,76.37,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,5.04,IDC,174.5666667,0,Positive,0,20,Died of Other Causes
+0,69.95,Her2,3,Positive,NEUTRAL,Negative,1,Post,0,3.06,IDC,142.4333333,0,Negative,0,30,Died of Other Causes
+0,56.33,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,3.044,IDC,61.6,1,Positive,0,22,Living
+0,61.92,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.036,IDC,186.4,0,Positive,0,18,Died of Other Causes
+1,32.74,claudinlow,3,Negative,NEUTRAL,Negative,1,Pre,17,6.04,IDC,19.9,0,Negative,1,20,Died of Disease
+0,67.86,LumB,3,Positive,NEUTRAL,Negative,1,Post,14,5.1,IDC,34.33333333,0,Positive,1,50,Died of Disease
+1,69.93,Basal,3,Negative,NEUTRAL,Negative,1,Post,20,6.04,IDC,30.36666667,0,Negative,1,20,Died of Disease
+0,63.24,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.022,IDC,204.4333333,0,Positive,1,11,Died of Disease
+0,61.06,LumB,3,Positive,GAIN,Negative,1,Post,0,4.082,IDC,82.63333333,0,Positive,1,41,Died of Disease
+0,59.12,Normal,3,Positive,NEUTRAL,Negative,1,Post,0,1.05,ILC,21.9,0,Negative,0,25,Died of Disease
+0,43.8,Normal,3,Positive,NEUTRAL,Negative,1,Pre,0,3.034,IDC,175.6333333,1,Negative,1,17,Living
+0,57.87,Basal,3,Negative,GAIN,Positive,1,Post,0,4.08,IDC,15.36666667,0,Negative,0,40,Died of Disease
+1,40.57,Basal,3,Negative,NEUTRAL,Negative,0,Pre,1,5.06,IDC,77.4,1,Negative,1,30,Living
+0,74.71,LumB,3,Positive,GAIN,Negative,1,Post,7,5.036,IDC,71.76666667,0,Positive,1,18,Died of Disease
+0,51.09,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.06,IDC,209.2666667,1,Positive,1,30,Living
+0,72.14,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.024,IDC,211.7333333,1,Positive,1,12,Living
+0,75.33,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.04,IDC,59.76666667,1,Negative,0,20,Living
+1,47.24,Her2,3,Negative,GAIN,Positive,0,Pre,1,5.06,IDC,27.8,0,Negative,1,30,Died of Disease
+0,72.02,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.036,ILC,114.9,0,Positive,0,18,Died of Disease
+0,77.66,LumA,3,Positive,NEUTRAL,Negative,1,Post,5,3.08,MDLC,125.7,0,Positive,1,40,Died of Other Causes
+0,69.72,LumA,3,Positive,LOSS,Negative,1,Post,1,4.04,IDC,90.3,0,Negative,0,20,Died of Disease
+0,83.96,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,3.052,IDC,124.2,0,Positive,0,26,Died of Disease
+1,63.48,Basal,3,Negative,NEUTRAL,Negative,0,Post,1,5.02,IDC,27.3,0,Negative,1,10,Died of Disease
+0,74.98,LumB,3,Positive,UNDEF,Negative,0,Post,0,4.06,MDLC,191.4666667,0,Positive,1,30,Died of Other Causes
+0,58.61,LumA,3,Positive,LOSS,Negative,0,Post,0,4.03,IDC,255,0,Positive,1,15,
+0,46.58,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,3.02,IDC,196.5333333,1,Positive,1,10,Living
+0,38.59,Basal,3,Negative,NEUTRAL,Negative,0,Pre,0,4.07,IDC,37.36666667,0,Negative,1,35,Died of Disease
+1,44.59,Basal,3,Negative,NEUTRAL,Negative,1,Pre,2,5.03,IDC,37,0,Negative,1,15,Died of Disease
+0,69.16,LumB,3,Positive,LOSS,Negative,1,Post,4,6.058,IDC,89.96666667,0,Negative,1,29,Died of Other Causes
+0,78.8,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.04,IDC,127.9333333,0,Positive,1,20,Died of Other Causes
+0,57.14,LumB,3,Positive,GAIN,Negative,1,Post,0,3.034,IDC,213.0333333,1,Positive,1,17,Living
+0,61.55,Normal,3,Negative,NEUTRAL,Negative,1,Post,0,4.05,MDLC,159.2333333,0,Negative,1,25,Died of Disease
+0,54.61,LumA,3,Positive,GAIN,Positive,1,Post,0,4.05,ILC,20.26666667,1,Negative,0,25,Living
+0,76.72,Her2,3,Negative,NEUTRAL,Negative,0,Post,0,4.04,IDC,245.2333333,0,Negative,1,20,Died of Other Causes
+0,69.29,Normal,3,Positive,NEUTRAL,Negative,0,Post,0,3.002,ILC,110.8333333,0,Positive,0,1,Died of Disease
+0,76.19,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.034,IDC,115.9333333,0,Positive,0,17,Died of Other Causes
+0,31.87,Normal,3,Negative,GAIN,Positive,0,Pre,0,4.002,IDC,170.8333333,1,Negative,0,1,Living
+1,51.08,Normal,3,Negative,NEUTRAL,Negative,1,Post,3,2.06,IDC,259.9333333,1,Negative,1,30,Living
+0,70.68,Normal,3,Positive,NEUTRAL,Negative,1,Post,4,6.024,IDC,18.23333333,0,Positive,1,12,Died of Disease
+0,68.52,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,3.05,IDC,87.73333333,0,Positive,1,25,Died of Disease
+0,44.41,Normal,3,Positive,NEUTRAL,Negative,0,Pre,0,3.024,IDC,175.3333333,1,Positive,1,12,Living
+0,53.38,claudinlow,3,Negative,NEUTRAL,Negative,0,Post,0,3.03,IDC,164.3333333,1,Negative,0,15,Living
+0,69.04,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,4.036,IDC,212.2,0,Negative,1,18,Died of Other Causes
+0,48.76,Normal,3,Positive,GAIN,Positive,0,Pre,0,4.026,IDC,80.5,1,Positive,1,13,Living
+0,69.23,LumB,3,Positive,GAIN,Positive,1,Post,11,6.06,IDC,80.73333333,0,Positive,1,30,Died of Disease
+0,60.46,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,1.06,IDC,208.4,1,Positive,0,30,Living
+0,62.84,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,4.05,IDC,51.96666667,0,Positive,0,25,Died of Disease
+0,46.79,Normal,3,Positive,NEUTRAL,Negative,0,Pre,0,3.022,IDC,185,0,Positive,1,11,Died of Disease
+1,49.57,Her2,3,Negative,GAIN,Positive,1,Pre,7,6.08,IDC,184.2666667,1,Negative,1,40,Living
+0,69.05,Basal,3,Negative,NEUTRAL,Negative,1,Post,0,4.1,IDC,22.13333333,0,Negative,0,50,Died of Disease
+0,54.69,Her2,3,Positive,GAIN,Positive,0,Post,0,1.03,IDC,151.2,0,Negative,0,15,Died of Other Causes
+0,50.08,claudinlow,3,Positive,NEUTRAL,Negative,1,Post,3,2.036,IDC,194.7,0,Positive,1,18,Died of Other Causes
+0,53.96,claudinlow,3,Positive,NEUTRAL,Negative,0,Post,0,3.03,,112.6333333,0,Negative,1,15,Died of Other Causes
+0,68.53,claudinlow,3,Positive,LOSS,Negative,1,Post,1,5,IDC,65.23333333,0,Negative,0,,Died of Other Causes
+0,65.26,Normal,3,Positive,NEUTRAL,Negative,1,Post,0,4.04,ILC,184.3333333,1,Negative,0,20,Living
+0,68.6,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,4.03,MDLC,246.6,0,Negative,0,15,Died of Other Causes
+0,78.04,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,4.06,MDLC,134.2666667,0,Positive,1,30,Died of Other Causes
+0,74.34,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.03,IDC,118.5333333,0,Positive,1,15,Died of Other Causes
+0,79.76,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.04,ILC,89.33333333,0,Positive,0,20,Died of Other Causes
+0,61.88,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,4.07,IDC,77.46666667,0,Positive,0,35,Died of Disease
+0,42.84,LumA,3,Positive,GAIN,Positive,0,Pre,0,1.02,IDC,203.2666667,1,Positive,1,10,Living
+0,65.44,Basal,3,Positive,NEUTRAL,Negative,1,Post,1,5.05,IDC,19.4,0,Negative,0,25,Died of Disease
+0,69.24,LumA,3,Positive,NEUTRAL,Negative,1,Post,9,6.1,IDC,111.9666667,0,Positive,0,50,Died of Disease
+0,53.07,Basal,3,Negative,GAIN,Positive,0,Post,0,4.03,,242.5666667,1,Negative,1,15,Living
+0,54.75,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,4.04,ILC,142.1666667,0,Positive,0,20,Died of Other Causes
+0,88.8,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,3.06,IDC,54.26666667,0,Positive,0,30,Died of Other Causes
+0,72.16,LumA,3,Positive,GAIN,Positive,1,Post,0,4.03,IDC,196.8666667,0,Positive,1,15,Died of Disease
+0,52.98,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.03,IDC,94.03333333,0,Negative,0,15,Died of Disease
+0,62.11,LumA,3,Positive,NEUTRAL,Negative,1,Post,3,4.05,IDC,223.8333333,0,Negative,0,25,Died of Disease
+0,65.35,Basal,3,Negative,GAIN,Positive,1,Post,0,4.03,IDC,204.4,1,Negative,0,15,Living
+0,70.23,LumB,3,Positive,GAIN,Negative,1,Post,0,4.03,IDC,52.3,0,Negative,1,15,Died of Disease
+0,73.17,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.04,IDC,96.96666667,0,Positive,1,20,Died of Other Causes
+0,76.91,LumA,3,Positive,NEUTRAL,Negative,1,Post,3,2.048,IDC,191.9333333,0,Positive,0,24,Died of Other Causes
+1,50.24,Basal,3,Positive,NEUTRAL,Negative,1,Post,3,5.07,IDC,185.3,1,Negative,1,35,Living
+0,67.45,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.03,MDLC,205.7333333,1,Negative,0,15,Living
+0,52.43,Basal,3,Negative,NEUTRAL,Negative,0,Post,0,4.054,IDC,151.9,1,Negative,0,27,Living
+0,79.17,Basal,3,Negative,NEUTRAL,Negative,1,Post,0,4.12,IDC,175.1,0,Negative,1,60,Died of Other Causes
+0,68.42,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.06,IDC,247.8333333,0,Positive,0,30,Died of Other Causes
+0,80.17,LumB,3,Positive,GAIN,Positive,1,Post,0,4.07,IDC,179.1,0,Negative,0,35,Died of Other Causes
+1,74.98,Her2,3,Negative,GAIN,Negative,1,Post,12,6.05,IDC,43.4,0,Negative,1,25,Died of Disease
+0,66.57,Normal,3,Positive,NEUTRAL,Negative,1,Post,0,3.04,IDC,107.3666667,0,Positive,1,20,Died of Other Causes
+0,74.11,LumB,3,Positive,NEUTRAL,Negative,1,Post,6,6.056,IDC,118.7,0,Negative,1,28,Died of Disease
+0,42.11,LumB,3,Positive,NEUTRAL,Negative,0,Pre,0,4.02,IDC,254.9666667,1,Negative,1,10,Living
+0,63.53,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,2.04,IDC,131.3,0,Positive,0,20,Died of Other Causes
+0,76.2,claudinlow,3,Negative,GAIN,Negative,1,Post,0,4.03,IDC,111.8333333,0,Negative,1,15,Died of Other Causes
+1,42.05,claudinlow,3,Negative,NEUTRAL,Negative,0,Pre,2,4.044,IDC,144.6666667,0,Negative,1,22,Died of Disease
+0,90.23,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,5.04,IDC,99.4,0,Positive,0,20,Died of Disease
+0,68.01,Basal,3,Negative,NEUTRAL,Negative,1,Post,0,4.06,IDC,43.26666667,0,Negative,1,30,Died of Disease
+0,75.53,LumB,3,Positive,LOSS,Negative,0,Post,0,4.03,IDC,200.6,1,Negative,1,15,Living
+0,74.46,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.03,IDC,187.0333333,0,Positive,0,15,Died of Other Causes
+0,72.56,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.06,IDC,180.7333333,0,Positive,1,30,Died of Other Causes
+1,39.99,Basal,3,Negative,GAIN,Positive,0,Pre,1,5.05,IDC,33.96666667,0,Negative,0,25,Died of Disease
+0,48.17,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,3.03,IMMC,176.5,1,Positive,1,15,Living
+0,61.28,Her2,3,Negative,GAIN,Positive,1,Post,0,3.05,IDC,16.56666667,0,Negative,0,25,Died of Disease
+0,74.53,Basal,3,Negative,NEUTRAL,Negative,0,Post,0,3.028,IDC,211.2,0,Negative,1,14,Died of Other Causes
+0,79.59,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,3.06,IDC,209.0333333,0,Positive,1,30,Died of Other Causes
+0,59.04,Basal,3,Negative,NEUTRAL,Negative,0,Post,0,3.012,IDC,204.2,0,Negative,1,6,Died of Disease
+1,63.02,Basal,3,Negative,NEUTRAL,Negative,1,Post,3,5.13,IDC,166.6666667,1,Negative,1,65,Living
+1,46.03,Normal,3,Positive,GAIN,Positive,0,Pre,2,5.04,IDC,44.13333333,0,Negative,1,20,Died of Disease
+0,69.5,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,3.03,MDLC,192.1333333,1,Positive,0,15,Living
+0,56.92,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.024,MDLC,103.8333333,0,Positive,1,12,Died of Other Causes
+0,62.79,LumB,3,Positive,GAIN,Negative,1,Post,2,3.11,IDC,38.43333333,0,Negative,0,55,Died of Other Causes
+0,69.2,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.08,IDC,216.8666667,0,Positive,0,40,Died of Disease
+0,76.77,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,2.04,IDC,112.4666667,0,Positive,0,20,Died of Disease
+0,69.59,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.06,MDLC,102.0666667,0,Positive,0,30,Died of Other Causes
+0,70.31,LumA,3,Positive,NEUTRAL,Negative,1,Post,3,4.046,IDC,108.0666667,0,Positive,1,23,Died of Disease
+0,72.77,Basal,3,Negative,NEUTRAL,Negative,1,Post,0,4.06,IDC,101.0666667,0,Negative,0,30,Died of Other Causes
+1,41.28,Her2,3,Negative,GAIN,Positive,0,Pre,1,5.07,IDC,46.16666667,0,Negative,1,35,Died of Disease
+0,72.23,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,4.03,MDLC,202.1,0,Positive,1,15,Died of Other Causes
+0,66.12,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,3.03,IDC,116.4666667,0,Positive,1,15,Died of Other Causes
+0,46.4,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,4.036,IDC,199.3,1,Positive,1,18,Living
+0,76.83,LumB,3,Positive,GAIN,Positive,1,Post,0,4.06,IDC,83.63333333,0,Negative,0,30,Died of Other Causes
+0,52.77,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.03,IDC,71.06666667,0,Positive,1,15,Died of Disease
+0,47.98,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,3.06,MDLC,186.1333333,1,Positive,1,30,Living
+0,67.1,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,5.07,MDLC,187.8333333,0,Positive,0,35,Died of Other Causes
+0,58.25,LumB,3,Positive,GAIN,Negative,1,Post,0,3.08,IDC,167.5,1,Negative,0,40,Living
+0,40.71,claudinlow,3,Positive,NEUTRAL,Negative,0,Pre,0,4.04,IDC,201.9333333,0,Negative,1,20,Died of Disease
+0,60.33,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.04,IDC,60.86666667,0,Positive,0,20,Died of Disease
+0,72.19,Her2,3,Positive,NEUTRAL,Negative,0,Post,0,3,IDC,75.96666667,0,Negative,0,,Died of Other Causes
+0,35.78,Normal,3,Positive,NEUTRAL,Negative,0,Pre,0,3.036,IDC,221.0666667,0,Positive,0,18,Died of Disease
+0,47.92,Normal,3,Positive,NEUTRAL,Negative,0,Pre,0,1.04,MDLC,99.96666667,0,Positive,0,20,Died of Disease
+0,66.55,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,4.08,IDC,68.76666667,0,Negative,0,40,Died of Other Causes
+0,45.85,Normal,3,Positive,LOSS,Negative,0,Pre,0,4.004,MDLC,77.86666667,0,Positive,0,2,Died of Disease
+0,55.72,LumA,3,Negative,NEUTRAL,Negative,0,Post,0,4.03,IDC,79.3,1,Negative,1,15,Living
+0,68.18,LumA,3,Positive,NEUTRAL,Negative,1,Post,5,6.08,MDLC,65.33333333,0,Positive,1,40,Died of Other Causes
+0,69.46,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.04,IDC,124,0,Positive,1,20,Died of Other Causes
+0,70.1,LumB,3,Positive,NEUTRAL,Negative,1,Post,2,4.07,IDC,128.4,0,Negative,1,35,Died of Other Causes
+0,69.42,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.044,IDC,36.93333333,0,Positive,0,22,Died of Other Causes
+0,67.25,LumB,3,Positive,GAIN,Negative,1,Post,0,3.03,IDC,153.5333333,1,Positive,1,15,Living
+0,82.06,LumB,3,Positive,GAIN,Positive,0,Post,0,3.01,IDC,48.43333333,0,Negative,0,5,Died of Disease
+0,70.86,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.06,MDLC,208.9666667,0,Positive,1,30,Died of Disease
+1,31.71,Basal,3,Negative,NEUTRAL,Negative,1,Pre,14,6.198,IDC,195.9333333,1,Positive,1,99,Living
+0,60.51,Basal,3,Negative,NEUTRAL,Negative,0,Post,0,3.05,IDC,75.7,0,Negative,1,25,Died of Other Causes
+0,78.93,claudinlow,3,Negative,GAIN,Positive,1,Post,6,6.08,IDC,13.8,0,Negative,1,40,Died of Disease
+1,49.63,Basal,3,Negative,NEUTRAL,Negative,0,Pre,5,6.046,ILC,84.9,0,Negative,0,23,Died of Disease
+1,53.35,Basal,3,Negative,NEUTRAL,Negative,1,Post,2,5.08,ILC,16.7,0,Negative,0,40,Died of Disease
+0,55.53,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,2.03,IDC,190.1666667,1,Positive,1,15,Living
+0,61.88,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.06,MDLC,149.4333333,0,Positive,0,30,Died of Disease
+0,58.26,LumA,3,Positive,GAIN,Negative,0,Post,0,4.03,IDC,159.7333333,1,Negative,0,15,Living
+0,67.62,Normal,3,Positive,NEUTRAL,Negative,1,Post,0,4.05,IDC,104.7666667,0,Positive,1,25,Died of Disease
+0,71.4,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.06,MDLC,153.3,0,Negative,0,30,Died of Other Causes
+0,73.01,claudinlow,3,Positive,NEUTRAL,Negative,1,Post,0,3.054,IDC,57.66666667,0,Positive,1,27,Died of Disease
+1,50.6,Her2,3,Negative,GAIN,Positive,0,Post,6,6.12,IDC,37.9,0,Negative,0,60,Died of Disease
+0,79.12,Her2,3,Positive,NEUTRAL,Negative,1,Post,14,3.06,ILC,46.53333333,0,Positive,0,30,Died of Disease
+1,52.13,Her2,3,Negative,GAIN,Positive,1,Post,16,6.16,IDC,43.03333333,0,Negative,1,80,Died of Disease
+0,69.7,LumB,3,Positive,NEUTRAL,Negative,1,Post,1,4.03,MDLC,53.63333333,0,Positive,1,15,Died of Disease
+0,60.96,LumB,3,Positive,GAIN,Negative,0,Post,0,4.036,IDC,14.16666667,0,Negative,1,18,Died of Disease
+0,66.58,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.046,MDLC,102.3,0,Negative,1,23,Died of Disease
+0,31.26,claudinlow,3,Negative,LOSS,Negative,0,Pre,0,4.03,IDC,226.0666667,1,Negative,0,15,Living
+0,64.01,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.02,MDLC,190.1,0,Positive,0,10,Died of Other Causes
+0,79.26,Normal,3,Positive,NEUTRAL,Negative,1,Post,0,2.096,ILC,96.2,0,Negative,1,48,Died of Other Causes
+0,66.94,Her2,3,Negative,GAIN,Positive,1,Post,0,3.05,ILC,163.5333333,1,Negative,1,25,Living
+0,74.57,LumB,3,Positive,NEUTRAL,Negative,1,Post,1,4.1,IDC,14.2,0,Negative,0,50,Died of Other Causes
+1,64.64,LumA,3,Positive,NEUTRAL,Negative,0,Post,13,6.13,ILC,45.73333333,0,Negative,1,65,Died of Disease
+0,70.49,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.05,ILC,114.5333333,0,Positive,0,25,Died of Other Causes
+0,54.69,LumA,3,Positive,GAIN,Positive,0,Post,0,3.046,IDC,124.1333333,0,Negative,0,23,Died of Disease
+0,68.93,Her2,3,Positive,GAIN,Positive,1,Post,1,4.036,IDC,98.83333333,0,Positive,0,18,Died of Disease
+0,78.44,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,4.04,IDC,85.4,0,Positive,1,20,Died of Other Causes
+0,41.81,Basal,3,Negative,NEUTRAL,Negative,0,Pre,0,4.054,IDC,25.23333333,0,Negative,0,27,Died of Disease
+0,61.24,LumB,3,Positive,NEUTRAL,Negative,1,Post,2,4.04,IDC,51.66666667,0,Negative,1,20,Died of Disease
+0,71.78,NC,3,Positive,NEUTRAL,Negative,1,Post,2,5.03,IDC,195.8666667,1,Negative,1,15,Living
+0,56.37,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,3.04,IDC,250.8333333,1,Positive,1,20,Living
+0,76.87,Normal,3,Positive,NEUTRAL,Negative,1,Post,4,4.03,IDC,216.0333333,0,Positive,1,15,Died of Disease
+1,52.09,Basal,3,Negative,NEUTRAL,Negative,0,Post,3,5.16,IDC,194.3,1,Negative,1,80,Living
+0,56.89,LumB,3,Positive,NEUTRAL,Negative,1,Post,1,5.05,IDC,211.9,0,Positive,1,25,Died of Disease
+1,41.27,claudinlow,3,Negative,NEUTRAL,Negative,0,Pre,1,5.03,IDC,169.6666667,1,Negative,0,15,Living
+0,66.7,claudinlow,3,Positive,NEUTRAL,Negative,1,Post,1,5.05,MDLC,53.63333333,0,Negative,1,25,Died of Disease
+0,47.35,Normal,3,Negative,GAIN,Positive,0,Pre,0,4.004,IDC,202.1,1,Negative,0,2,Living
+0,72.88,LumA,3,Positive,NEUTRAL,Negative,1,Post,3,4.114,MDLC,28.83333333,0,Negative,1,57,Died of Disease
+0,66.39,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.14,MDLC,161.1333333,0,Negative,1,70,Died of Other Causes
+0,76.01,LumA,3,Positive,GAIN,Negative,1,Post,1,4.08,IDC,15.36666667,0,Positive,0,40,Died of Disease
+0,56.89,Normal,3,Positive,NEUTRAL,Negative,1,Post,0,4.03,IDC,125.7666667,0,Positive,1,15,Died of Disease
+0,79.29,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,4.05,IDC,23.03333333,0,Positive,0,25,Died of Disease
+0,75.56,Her2,3,Positive,GAIN,Negative,1,Post,1,5.08,ILC,243.1666667,1,Negative,0,40,Living
+0,77.15,Normal,3,Positive,GAIN,Negative,1,Post,1,5.03,,100.1333333,0,Positive,0,15,Died of Other Causes
+0,66.18,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.05,MDLC,39.3,0,Positive,1,25,Died of Disease
+0,62.55,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.044,IDC,119.3,0,Positive,1,22,Died of Other Causes
+0,67.13,LumB,3,Positive,NEUTRAL,Negative,1,Post,1,5.05,IDC,2.533333333,1,Negative,1,25,Living
+1,35.14,LumB,3,Positive,NEUTRAL,Negative,1,Pre,7,6.09,IDC,102,0,Positive,1,45,Died of Disease
+1,57.99,Basal,3,Positive,NEUTRAL,Negative,0,Post,3,5.09,IDC,12.26666667,0,Negative,1,45,Died of Disease
+1,44,Her2,3,Negative,GAIN,Positive,1,Pre,2,5.1,IDC,201.8333333,0,Negative,1,50,Died of Disease
+0,69.27,LumA,3,Positive,NEUTRAL,Negative,1,Post,4,5.06,IDC,116.2333333,0,Positive,1,30,Died of Other Causes
+0,83.9,LumA,3,Positive,NEUTRAL,Negative,1,Post,3,4.15,IDC,113.6666667,0,Positive,0,75,Died of Disease
+0,61.05,LumA,3,Positive,GAIN,Negative,1,Post,0,3.026,,71.16666667,0,Positive,0,13,Died of Other Causes
+0,65.86,LumB,3,Positive,GAIN,Negative,1,Post,0,3.04,IDC,192.2,1,Positive,1,20,Living
+0,69.8,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.03,MDLC,146.9333333,0,Positive,1,15,Died of Other Causes
+0,64.76,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.062,IDC,124.7666667,0,Positive,1,31,Died of Other Causes
+1,37.27,Basal,3,Negative,NEUTRAL,Negative,1,Pre,12,6.026,ILC,30.93333333,0,Negative,1,13,Died of Disease
+0,57.34,claudinlow,3,Negative,NEUTRAL,Negative,1,Post,0,4.028,ILC,237.2666667,1,Negative,0,14,Living
+0,82.72,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,3.044,MDLC,154,0,Positive,0,22,Died of Other Causes
+0,71.51,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,4.028,IDC,165.1666667,1,Positive,1,14,Living
+0,61.84,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.028,IDC,165.6666667,1,Negative,1,14,Living
+0,61.16,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,4.1,IDC,172.8666667,0,Positive,0,50,Died of Disease
+0,71.01,LumA,3,Positive,NEUTRAL,Negative,1,Post,4,5.04,IDC,213,1,Positive,1,20,Living
+0,73.1,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,2.044,IDC,106.8,0,Negative,0,22,Died of Disease
+0,75.42,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.024,MDLC,70.16666667,1,Positive,0,12,Living
+0,81.76,LumA,3,Positive,GAIN,Negative,0,Post,0,3.032,IDC,107.7666667,0,Positive,0,16,Died of Other Causes
+0,85.94,LumA,3,Positive,NEUTRAL,Negative,1,Post,10,5.05,IDC,95.73333333,0,Positive,0,25,Died of Other Causes
+0,81.57,LumA,3,Positive,NEUTRAL,Negative,1,Post,3,4.07,IDC,74.73333333,0,Positive,0,35,Died of Disease
+0,64.43,claudinlow,3,Positive,NEUTRAL,Negative,1,Post,2,5.05,,117.6,1,Negative,1,25,Living
+0,80.48,LumB,3,Positive,NEUTRAL,Negative,1,Post,5,3.06,MDLC,97.43333333,0,Positive,1,30,Died of Disease
+0,36.03,LumA,3,Positive,GAIN,Negative,0,Pre,0,4.002,IDC,205.6,1,Positive,1,1,Living
+0,65.48,claudinlow,3,Negative,GAIN,Negative,0,Post,0,3.032,IDC,101.4,1,Negative,1,16,Living
+1,51.62,Her2,3,Negative,GAIN,Positive,1,Post,5,6.044,IDC,198.1333333,1,Negative,1,22,Living
+0,66.45,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,4.06,IDC,202.7666667,1,Positive,1,30,Living
+1,43.61,Her2,3,Negative,GAIN,Positive,0,Pre,1,5.036,IDC,26,0,Negative,0,18,Died of Disease
+0,51.87,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.028,IDC,220.2333333,1,Positive,1,14,Living
+0,61.14,LumB,3,Positive,GAIN,Positive,1,Post,1,5.05,IDC,140.6,0,Negative,1,25,Died of Other Causes
+1,45.8,Her2,3,Negative,GAIN,Positive,0,Pre,4,6.12,IDC,107.0666667,1,Negative,1,60,Living
+0,64.15,LumB,3,Positive,GAIN,Positive,1,Post,1,5.05,IDC,207.1666667,1,Positive,0,25,Living
+0,71.49,Basal,3,Positive,GAIN,Positive,0,Post,0,4.04,IDC,193.9,1,Negative,1,20,Living
+0,68,Basal,3,Negative,NEUTRAL,Negative,0,Post,0,4.04,IDC,194.5666667,1,Negative,1,20,Living
+0,47.14,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,2.064,IDC,46.06666667,0,Positive,0,32,Died of Disease
+0,66.42,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.026,MDLC,83.53333333,0,Positive,0,13,Died of Disease
+0,67.59,LumA,3,Positive,NEUTRAL,Negative,1,Post,3,4.08,IDC,49.46666667,0,Positive,0,40,Died of Disease
+1,53.69,Basal,3,Negative,GAIN,Positive,1,Post,11,6.05,IDC,34.63333333,0,Positive,1,25,Died of Disease
+0,83.68,Basal,3,Negative,NEUTRAL,Negative,1,Post,0,3.05,IDC,155.7333333,0,Negative,1,25,Died of Other Causes
+0,55.36,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.03,MDLC,150.4666667,1,Positive,1,15,Living
+0,86.04,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.04,IDC,30.7,0,Negative,0,20,Died of Other Causes
+0,49.91,claudinlow,3,Positive,NEUTRAL,Negative,0,Pre,0,3.03,IDC,15.86666667,0,Positive,1,15,Died of Disease
+0,61,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.044,IDC,98.5,0,Positive,1,22,Died of Other Causes
+0,69.37,LumA,3,Positive,GAIN,Negative,1,Post,0,3.06,IDC,176.3666667,0,Positive,0,30,Died of Disease
+0,71.07,LumB,3,Positive,NEUTRAL,Negative,1,Post,1,5.11,IDC,45.16666667,0,Positive,0,55,Died of Disease
+0,77.09,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,1.05,IDC,104,0,Positive,0,25,Died of Other Causes
+1,49.05,claudinlow,3,Negative,NEUTRAL,Negative,0,Pre,1,5.036,IDC,196.6333333,1,Negative,1,18,Living
+0,90.08,Her2,3,Negative,GAIN,Positive,1,Post,0,4.07,IDC,9.7,0,Negative,0,35,Died of Other Causes
+1,44.93,Basal,3,Negative,NEUTRAL,Negative,0,Pre,2,5.07,IDC,205.8,1,Positive,1,35,Living
+0,49.58,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,2.03,MDLC,240.4333333,1,Positive,1,15,Living
+1,51.25,Her2,3,Negative,NEUTRAL,Negative,1,Post,1,5.05,IDC,162.8333333,0,Negative,1,25,Died of Disease
+0,68.1,LumB,3,Positive,NEUTRAL,Negative,1,Post,5,3.024,IDC,148.8666667,0,Positive,1,12,Died of Disease
+0,38.92,claudinlow,3,Negative,NEUTRAL,Negative,0,Pre,0,4.024,IDC,190.2,1,Negative,1,12,Living
+0,43.44,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,3.03,MDLC,189.9,1,Positive,1,15,Living
+0,66.2,LumA,3,Positive,NEUTRAL,Negative,1,Post,3,4.036,IDC,16.16666667,0,Positive,1,18,Died of Other Causes
+1,36.99,Normal,3,Negative,NEUTRAL,Negative,0,Pre,3,5.06,IDC,57.3,0,Positive,1,30,Died of Disease
+0,55.57,LumB,3,Positive,NEUTRAL,Negative,1,Post,4,6.06,IDC,50.66666667,0,Negative,1,30,Died of Disease
+0,73.24,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,4.02,MDLC,61.8,0,Negative,0,10,Died of Other Causes
+0,52.57,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.032,IDC,164.5666667,0,Positive,0,16,Died of Disease
+1,54.96,Basal,3,Negative,GAIN,Positive,0,Post,1,5.05,IDC,183.4333333,1,Negative,0,25,Living
+0,64.07,LumB,3,Positive,GAIN,Positive,1,Post,1,5.04,IDC,90.8,0,Negative,1,20,Died of Disease
+0,71.91,LumB,3,Positive,NEUTRAL,Negative,1,Post,16,3.096,ILC,58.13333333,0,Positive,1,48,Died of Other Causes
+0,65.58,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,2.036,IDC,116.5333333,0,Positive,1,18,Died of Other Causes
+0,69.83,Basal,3,Negative,LOSS,Negative,1,Post,0,4.05,IDC,18.8,0,Negative,1,25,Died of Disease
+1,48.1,Basal,3,Negative,GAIN,Positive,0,Pre,1,5.05,IDC,99.36666667,1,Negative,1,25,Living
+0,48.07,Basal,3,Positive,NEUTRAL,Negative,0,Pre,0,2,MDLC,42.06666667,0,Positive,0,,Died of Disease
+0,67.54,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,4.026,IDC,185.7666667,1,Negative,0,13,Living
+0,74.78,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.05,IDC,19.56666667,0,Positive,1,25,Died of Disease
+0,72.61,LumA,3,Positive,NEUTRAL,Negative,1,Post,5,6.07,IDC,125.9,0,Positive,1,35,Died of Other Causes
+1,46.26,claudinlow,3,Negative,GAIN,Positive,0,Pre,1,5.07,IDC,226.7,1,Negative,0,35,Living
+0,73.55,LumB,3,Positive,NEUTRAL,Negative,1,Post,3,4.046,IDC,2.533333333,0,Positive,0,23,Died of Other Causes
+0,59.02,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,3.07,BREAST,110.4666667,1,Positive,0,35,Living
+0,72.23,LumA,3,Positive,NEUTRAL,Negative,1,Post,21,6.04,MDLC,34.3,0,Negative,1,20,Died of Other Causes
+0,57.62,LumB,3,Positive,UNDEF,Negative,1,Post,1,5.06,IDC,46.36666667,0,Negative,1,30,Died of Disease
+1,40.75,Basal,3,Positive,LOSS,Negative,0,Pre,2,5.032,IDC,17.66666667,0,Negative,1,16,Died of Disease
+1,44.5,Her2,3,Negative,GAIN,Positive,0,Pre,6,5.05,IDC,42.43333333,0,Negative,1,25,Died of Disease
+0,47.3,LumA,3,Positive,NEUTRAL,Negative,1,Pre,0,3.04,ILC,238.5,1,Positive,1,20,Living
+0,80.08,LumB,3,Positive,NEUTRAL,Negative,1,Post,2,5.06,IDC,31.8,0,Negative,1,30,Died of Other Causes
+0,75.65,LumB,3,Positive,LOSS,Negative,1,Post,0,4.05,IDC,123.3,0,Positive,1,25,Died of Disease
+0,53.6,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.03,IDC,216.9666667,1,Positive,0,15,Living
+0,65.31,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.08,IDC,51.2,0,Positive,0,40,Died of Disease
+0,72.25,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,4.13,IDC,65.83333333,0,Positive,0,65,Died of Disease
+0,74.28,LumA,3,Positive,NEUTRAL,Negative,1,Post,6,6.102,ILC,23.36666667,0,Negative,0,51,Died of Disease
+0,69.84,LumB,3,Positive,LOSS,Negative,1,Post,0,4.102,ILC,57.23333333,0,Negative,0,51,Died of Disease
+0,42.64,LumA,3,Positive,NEUTRAL,Negative,1,Pre,0,3.04,IDC,228.8,1,Positive,0,20,Living
+0,69.56,LumB,3,Positive,LOSS,Negative,0,Post,0,3.04,IDC,237.5,1,Positive,1,20,Living
+0,64.1,Her2,3,Positive,GAIN,Negative,0,Post,0,4.03,IDC,225.1666667,1,Negative,1,15,Living
+0,65.5,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,2.04,IDC,123.7333333,1,Positive,0,20,Living
+0,51.62,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,3.056,IDC,189.7333333,1,Positive,1,28,Living
+0,74.26,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,3.03,MDLC,164.6,0,Positive,1,15,Died of Disease
+0,75.73,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,4.07,MDLC,103.1,0,Positive,0,35,Died of Disease
+0,54.18,Her2,3,Negative,NEUTRAL,Negative,0,Post,0,4.04,IDC,158.9666667,1,Positive,0,20,Living
+0,86.55,Basal,3,Positive,LOSS,Negative,1,Post,4,5.058,IDC,36.63333333,0,Positive,0,29,Died of Disease
+0,63.45,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.04,IDC,182.9,1,Positive,1,20,Living
+0,72.39,LumB,3,Positive,NEUTRAL,Negative,1,Post,1,5.04,IDC,30.86666667,0,Positive,1,20,Died of Disease
+0,72.61,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.09,IDC,169.2333333,0,Positive,0,45,Died of Other Causes
+0,38.49,LumA,3,Positive,NEUTRAL,Negative,1,Pre,4,6.05,MDLC,16.3,0,Negative,0,25,Died of Disease
+0,69.27,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.09,IDC,124.8,1,Negative,1,45,Living
+0,63.2,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.056,IMMC,2,1,Negative,1,28,Living
+0,45.42,Basal,3,Negative,NEUTRAL,Negative,0,Pre,0,4.04,IDC,151.0666667,1,Negative,1,20,Living
+1,53.48,claudinlow,3,Negative,GAIN,Positive,1,Post,8,5.022,IDC,180.5666667,1,Negative,1,11,Living
+1,40.21,Basal,3,Negative,NEUTRAL,Negative,0,Pre,2,5.07,IDC,14.8,0,Negative,1,35,Died of Disease
+0,50.61,Basal,3,Positive,NEUTRAL,Negative,1,Post,2,5.05,IDC,185.9333333,1,Positive,0,25,Living
+0,66.56,claudinlow,3,Negative,NEUTRAL,Negative,0,Post,0,3.03,IDC,183.9666667,1,Negative,1,15,Living
+0,69.66,LumA,3,Positive,GAIN,Negative,1,Post,2,4.06,IDC,79.86666667,0,Negative,0,30,Died of Disease
+0,71.64,Normal,3,Positive,NEUTRAL,Negative,1,Post,1,5.04,MDLC,158.0333333,1,Positive,1,20,Living
+0,80.09,claudinlow,3,Positive,NEUTRAL,Negative,1,Post,10,5.05,IDC,79.1,0,Negative,1,25,Died of Disease
+1,49.87,Her2,3,Negative,GAIN,Positive,1,Pre,4,6.044,IDC,120.1333333,0,Negative,1,22,Died of Disease
+0,76.53,LumB,3,Positive,GAIN,Positive,1,Post,4,6.04,MDLC,48.43333333,0,Negative,0,20,Died of Disease
+0,60.13,LumA,3,Positive,GAIN,Negative,1,Post,0,3.04,IDC,200.1333333,1,Positive,1,20,Living
+0,79.11,LumA,3,Positive,LOSS,Negative,1,Post,0,4.08,IDC,34.43333333,0,Positive,0,40,Died of Other Causes
+1,43.08,Basal,3,Negative,NEUTRAL,Negative,0,Pre,1,5.06,IDC,98.56666667,1,Negative,1,30,Living
+0,62.43,claudinlow,3,Negative,NEUTRAL,Negative,0,Post,0,4.1,IDC,25.33333333,1,Negative,0,50,Living
+1,54.83,Her2,3,Negative,GAIN,Positive,0,Post,2,4.04,IDC,88.93333333,0,Negative,1,20,Died of Disease
+0,84.3,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.052,IDC,171.3,0,Positive,0,26,Died of Other Causes
+0,67.24,Basal,3,Negative,NEUTRAL,Negative,1,Post,0,4.054,IDC,182.2333333,1,Negative,1,27,Living
+0,69.77,LumB,3,Positive,NEUTRAL,Negative,1,Post,2,2.08,IDC,34.7,0,Positive,0,40,Died of Disease
+0,70.52,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,3.06,IDC,154.5,0,Positive,0,30,Died of Other Causes
+0,57.75,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,2.052,ILC,229.8333333,1,Positive,1,26,Living
+0,53.56,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.04,IDC,225.4,1,Negative,1,20,Living
+1,35.13,Basal,3,Negative,GAIN,Positive,0,Pre,1,5.15,IDC,25.03333333,1,Positive,0,75,Living
+1,42.12,Basal,3,Positive,NEUTRAL,Negative,0,Pre,1,5.096,,18.83333333,0,Positive,1,48,Died of Disease
+0,44.05,Basal,3,Negative,LOSS,Negative,0,Pre,0,3.03,IDC,186.6,1,Negative,1,15,Living
+0,73.93,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,3.03,IDC,102.9666667,0,Positive,1,15,Died of Other Causes
+0,76.3,LumA,3,Positive,GAIN,Negative,0,Post,0,3.03,ILC,117.6666667,0,Negative,0,15,Died of Other Causes
+1,64.27,claudinlow,3,Negative,NEUTRAL,Negative,1,Post,2,5.06,IDC,194.1,0,Positive,1,30,Died of Other Causes
+1,38.44,Basal,3,Negative,NEUTRAL,Negative,1,Pre,14,6.064,IDC,234.4,1,Negative,1,32,Living
+0,74.95,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.04,MDLC,178.5666667,0,Positive,1,20,Died of Other Causes
+0,78.84,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.05,IDC,153.8666667,0,Positive,0,25,Died of Disease
+0,47.88,claudinlow,3,Negative,NEUTRAL,Negative,0,Pre,0,4.03,IDC,178.6333333,1,Negative,1,15,Living
+0,52.63,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,3.04,IDC,117.6666667,0,Positive,1,20,Died of Other Causes
+0,67.79,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.04,MDLC,194,1,Positive,1,20,Living
+0,68.64,claudinlow,3,Negative,NEUTRAL,Negative,1,Post,8,6.12,ILC,55.4,0,Negative,0,60,Died of Disease
+0,68.82,LumA,3,Positive,NEUTRAL,Negative,1,Post,4,6.06,MDLC,90.6,0,Positive,1,30,Died of Disease
+0,75.28,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.05,IDC,71.63333333,0,Positive,0,25,Died of Other Causes
+0,46.43,LumA,3,Positive,NEUTRAL,Negative,0,Pre,0,3.02,IDC,222.3333333,1,Positive,1,10,Living
+0,50.75,LumA,3,Positive,NEUTRAL,Negative,0,Post,0,3.032,IDC,111.3666667,1,Positive,1,16,Living
+0,69.55,Her2,3,Positive,NEUTRAL,Negative,1,Post,0,4.04,IDC,91.1,0,Negative,0,20,Died of Other Causes
+0,66.55,claudinlow,3,Positive,NEUTRAL,Negative,1,Post,2,5.036,MDLC,81.13333333,0,Negative,0,18,Died of Disease
+0,70.86,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.04,IDC,185.1333333,1,Positive,1,20,Living
+0,64.93,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.052,IDC,17.83333333,1,Positive,0,26,Living
+0,46.28,LumA,3,Positive,NEUTRAL,Negative,1,Pre,0,3.03,IDC,155.3666667,0,Positive,0,15,Died of Other Causes
+0,66.01,LumB,3,Positive,NEUTRAL,Negative,0,Post,0,3.04,ILC,26.33333333,0,Positive,1,20,Died of Other Causes
+1,40.53,Her2,3,Negative,GAIN,Positive,0,Pre,1,5.07,ILC,92.5,0,Negative,1,35,Died of Disease
+0,54.27,LumA,3,Positive,NEUTRAL,Negative,1,Post,20,5.06,ILC,167.9333333,0,Positive,0,30,Died of Disease
+0,75.38,LumA,3,Positive,GAIN,Negative,1,Post,1,4.06,IDC,32.73333333,0,Positive,0,30,Died of Other Causes
+0,62.88,LumA,3,Positive,NEUTRAL,Negative,1,Post,3,4.04,IDC,224.8666667,1,Positive,1,20,Living
+0,61.73,LumA,3,Positive,NEUTRAL,Negative,1,Post,3,4.032,IDC,214.8,0,Negative,1,16,Died of Other Causes
+1,39.7,Basal,3,Negative,NEUTRAL,Negative,0,Pre,8,6.08,IDC,224.4333333,1,Negative,1,40,Living
+0,70.79,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,4.04,IDC,171.6333333,0,Negative,1,20,Died of Other Causes
+0,66.88,LumB,3,Positive,GAIN,Negative,1,Post,2,4.05,IDC,145.6333333,1,Positive,1,25,Living
+0,40.37,LumB,3,Positive,LOSS,Negative,0,Pre,0,3.05,IDC,123.7,1,Positive,1,25,Living
+0,80.21,LumB,3,Positive,NEUTRAL,Negative,1,Post,1,4.1,IDC,212.3666667,0,Positive,0,50,Died of Other Causes
+0,62.87,LumA,3,Positive,GAIN,Negative,0,Post,0,4.034,IDC,116.4333333,0,Positive,1,17,Died of Disease
+1,41.53,claudinlow,3,Negative,NEUTRAL,Negative,0,Pre,4,6.04,IDC,180.6333333,1,Negative,1,20,Living
+0,81.63,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.064,IDC,128.2,0,Positive,1,32,Died of Other Causes
+0,79.42,LumA,3,Positive,NEUTRAL,Negative,1,Post,2,4.062,IDC,42.06666667,0,Positive,0,31,Died of Disease
+0,62.89,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.046,IDC,182.9333333,1,Positive,1,23,Living
+0,44.99,LumB,3,Positive,NEUTRAL,Negative,1,Pre,0,3.04,IDC,137.8,0,Positive,0,20,Died of Other Causes
+1,55.43,Basal,3,Negative,NEUTRAL,Negative,1,Post,1,5.05,IDC,136,1,Negative,1,25,Living
+0,73.75,LumA,3,Positive,NEUTRAL,Negative,1,Post,5,5.04,IDC,82.96666667,1,Negative,1,20,Living
+0,65.06,LumB,3,Positive,GAIN,Positive,1,Post,4,6,IDC,42.6,0,Positive,1,,Died of Disease
+0,71.36,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.06,IDC,103.8,0,Positive,1,30,Died of Other Causes
+0,78.55,LumB,3,Positive,GAIN,Negative,1,Post,4,5.07,IDC,38.16666667,0,Negative,1,35,Died of Disease
+1,62.7,claudinlow,3,Negative,NEUTRAL,Negative,0,Post,7,6.06,IDC,35.03333333,0,Negative,1,30,Died of Disease
+0,55.53,Basal,3,Negative,NEUTRAL,Negative,0,Post,0,4.06,IDC,62.9,0,Negative,0,30,Died of Disease
+0,57.2,LumA,3,Positive,GAIN,Negative,1,Post,0,3.03,IDC,21.06666667,0,Negative,1,15,Died of Disease
+0,68.49,LumB,3,Positive,GAIN,Negative,1,Post,2,2.06,IDC,108.3,0,Positive,0,30,Died of Other Causes
+0,65.14,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.04,IDC,195.7,0,Positive,1,20,Died of Other Causes
+0,58,Normal,3,Positive,NEUTRAL,Negative,0,Post,0,3.002,IDC,172.3,1,Positive,0,1,Living
+0,78.64,LumB,3,Positive,LOSS,Negative,1,Post,0,4.044,IDC,181.8666667,1,Positive,1,22,Living
+0,68.13,LumA,3,Positive,NEUTRAL,Negative,1,Post,1,4.068,IDC,156.8,0,Positive,1,34,Died of Other Causes
+0,71.31,LumA,3,Positive,NEUTRAL,Negative,1,Post,0,3.04,IDC,22.23333333,0,Positive,1,20,Died of Other Causes
+0,58.4,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.06,MDLC,167.1,0,Negative,1,30,Died of Other Causes
+0,65.43,LumA,3,Positive,NEUTRAL,Negative,1,Post,11,6.07,IDC,30.8,0,Negative,1,35,Died of Other Causes
+1,51.98,claudinlow,3,Negative,NEUTRAL,Negative,1,Post,1,5.052,MDLC,21,0,Negative,1,26,Died of Disease
+0,68.75,Normal,3,Positive,GAIN,Negative,1,Post,0,4.03,IDC,104.6666667,0,Negative,1,15,Died of Other Causes
+0,60.72,LumB,3,Positive,NEUTRAL,Negative,1,Post,0,4.05,IDC,194.6,1,Negative,0,25,Living
+0,82.94,LumB,3,Positive,NEUTRAL,Negative,1,Post,1,4.11,IDC,173.0333333,0,Positive,0,55,Died of Other Causes
+0,67.57,Basal,3,Negative,NEUTRAL,Negative,1,Post,0,4.05,IDC,191.8,1,Negative,0,25,Living
+0,74.76,Normal,3,Positive,NEUTRAL,Negative,0,Post,0,3.032,IDC,126.4,0,Positive,0,16,Died of Other Causes
+0,68.7,LumA,5,Positive,NEUTRAL,Negative,1,Post,0,3.03,MDLC,135.3,0,Negative,0,15,Died of Other Causes
+0,86.61,LumA,5,Positive,NEUTRAL,Negative,1,Post,0,2.032,ILC,63.56666667,0,Positive,0,16,Died of Other Causes
+0,70.65,Her2,5,Positive,NEUTRAL,Negative,1,Post,0,3.05,ILC,70.53333333,0,Negative,0,25,Died of Other Causes
+0,80.33,LumB,5,Positive,NEUTRAL,Negative,0,Post,0,4.05,ILC,69.1,0,Positive,0,25,Died of Disease
+0,70.28,LumB,5,Positive,NEUTRAL,Negative,1,Post,0,4.03,IDC,218.2333333,1,Negative,0,15,Living
+0,59.22,LumB,5,Positive,GAIN,Negative,0,Post,0,1.05,IDC,211.1333333,0,Negative,0,25,Died of Disease
+0,67.46,LumA,5,Positive,NEUTRAL,Negative,0,Post,0,3.066,ILC,144.4333333,0,Positive,0,33,Died of Other Causes
+0,44.48,Normal,5,Positive,NEUTRAL,Negative,0,Pre,0,2.114,ILC,191.9333333,0,Positive,0,57,Died of Other Causes
+0,87.32,LumA,5,Positive,NEUTRAL,Negative,0,Post,0,3.046,IDC,143.5333333,0,Positive,0,23,Died of Other Causes
+0,72.19,LumA,5,Positive,NEUTRAL,Negative,1,Post,0,2.06,IDC,70.9,0,Positive,0,30,Died of Other Causes
+0,65.03,LumA,5,Positive,NEUTRAL,Negative,0,Post,0,3.05,IDC,143.1666667,0,Positive,0,25,Died of Disease
+0,67,Normal,5,Positive,NEUTRAL,Negative,0,Post,0,3.14,IDC,13.53333333,0,Negative,0,70,Died of Other Causes
+0,51.94,LumA,5,Positive,NEUTRAL,Negative,0,Post,0,3,ILC,301.2333333,1,Positive,0,,Living
+0,90,LumB,5,Positive,NEUTRAL,Negative,1,Post,2,4.1,IDC,52.06666667,0,Positive,0,50,Died of Disease
+0,60.28,Normal,5,Positive,NEUTRAL,Negative,0,Post,0,3.068,ILC,232.9666667,1,Negative,0,34,Living
+0,65.63,LumA,5,Positive,NEUTRAL,Negative,0,Post,2,4.04,IDC,252.2666667,0,Positive,0,20,Died of Disease
+0,87.75,LumB,5,Positive,NEUTRAL,Negative,0,Post,0,3.05,IDC,49.73333333,0,Negative,0,25,Died of Other Causes
+0,63.35,LumA,5,Positive,NEUTRAL,Negative,1,Post,6,6.02,BREAST,278.3666667,0,Positive,1,10,Died of Disease
+0,66.76,LumA,5,Positive,NEUTRAL,Negative,1,Post,0,2.04,IDC,145.3666667,0,Positive,0,20,Died of Other Causes
+0,44.65,claudinlow,5,Negative,GAIN,Positive,0,Pre,0,4.04,IDC,287.9333333,1,Negative,0,20,Living
+0,65.96,Her2,5,Positive,GAIN,Negative,1,Post,1,5.07,IDC,73.13333333,0,Positive,0,35,Died of Other Causes
+0,70.12,Normal,5,Positive,NEUTRAL,Negative,0,Post,0,3.06,IDC,263.4333333,1,Positive,0,30,Living
+0,70.64,Her2,5,Positive,NEUTRAL,Negative,0,Post,0,3.06,IDC,219.1,0,Negative,0,30,Died of Other Causes
+0,72.94,Her2,5,Positive,NEUTRAL,Negative,1,Post,12,5.03,BREAST,37.86666667,0,Positive,0,15,Died of Disease
+0,58.84,Her2,5,Positive,GAIN,Positive,1,Post,0,3.05,IDC,168.2,0,Positive,0,25,Died of Other Causes
+0,62.29,Her2,5,Positive,GAIN,Positive,0,Post,0,3.08,IDC,264.2333333,1,Positive,0,40,Living
+0,51.07,LumA,5,Positive,NEUTRAL,Negative,0,Post,0,3.04,IDC,192.2,1,Positive,0,20,Living
+0,65.39,LumA,5,Positive,NEUTRAL,Negative,1,Post,1,4.072,IDC,186.8333333,0,Negative,0,36,Died of Disease
+0,36.47,claudinlow,5,Negative,NEUTRAL,Negative,0,Pre,0,4.03,IDC,255.3666667,1,Negative,0,15,Living
+0,69.39,LumB,5,Positive,NEUTRAL,Negative,1,Post,2,3.052,IDC,250.8,1,Negative,0,26,Living
+1,33.08,claudinlow,5,Negative,NEUTRAL,Negative,0,Pre,2,5.05,IDC,200.4333333,1,Negative,1,25,Living
+1,41.79,Basal,5,Negative,NEUTRAL,Negative,0,Pre,2,4.036,IDC,22.66666667,0,Negative,0,18,Died of Disease
+1,50.88,Normal,5,Positive,NEUTRAL,Negative,0,Post,1,4.096,IDC,278.4666667,1,Positive,0,48,Living
+0,53.79,LumB,5,Positive,GAIN,Negative,0,Post,0,4.06,IDC,38.03333333,0,Positive,0,30,Died of Other Causes
+0,31.6,claudinlow,5,Negative,NEUTRAL,Negative,0,Pre,0,4.044,IDC,282.3666667,1,Negative,1,22,Living
+1,58.9,Normal,5,Negative,GAIN,Positive,0,Post,16,6.24,IDC,15.6,0,Negative,0,120,Died of Disease
+0,76.69,LumA,5,Positive,NEUTRAL,Negative,1,Post,1,3.096,IDC,188.5333333,0,Positive,0,48,Died of Other Causes
+0,43.75,Basal,5,Negative,NEUTRAL,Negative,0,Pre,0,3,IDC,182.6,0,Positive,0,,Died of Other Causes
+0,75.55,LumA,5,Positive,NEUTRAL,Negative,1,Post,5,5.04,IDC,258.1333333,0,Positive,1,20,Died of Other Causes
+0,72.81,LumA,5,Positive,NEUTRAL,Negative,1,Post,7,5.068,IDC,57.4,0,Positive,0,34,Died of Disease
+0,84.04,LumB,5,Positive,NEUTRAL,Negative,0,Post,0,3.05,IDC,182.3333333,0,Positive,0,25,Died of Disease
+0,70.92,NC,5,Positive,NEUTRAL,Negative,0,Post,0,3.032,IDC,170.2666667,0,Positive,0,16,Died of Other Causes
+0,68.91,LumB,5,Positive,NEUTRAL,Negative,1,Post,0,3,IDC,239.1666667,0,Negative,1,,Died of Disease
+0,79.04,LumB,5,Positive,NEUTRAL,Negative,1,Post,5,6.06,IDC,54.1,0,Positive,1,30,Died of Disease
+1,46.47,Normal,5,Positive,NEUTRAL,Positive,0,Pre,8,5.14,IDC,102.5,0,Negative,0,70,Died of Disease
+0,73.03,LumA,5,Positive,NEUTRAL,Negative,1,Post,0,3.042,IDC,164.0333333,0,Positive,0,21,Died of Other Causes
+1,58.38,Her2,5,Negative,GAIN,Positive,1,Post,4,5.052,IDC,23.9,1,Negative,0,26,Living
+0,80.59,Normal,5,Positive,NEUTRAL,Negative,0,Post,0,3.042,MDLC,2.3,0,Negative,0,21,Died of Other Causes
+0,68.59,LumA,5,Positive,NEUTRAL,Negative,1,Post,1,4.016,IDC,159.7,0,Negative,1,8,Died of Other Causes
+1,28.29,Basal,5,Negative,NEUTRAL,Negative,0,Pre,1,5.16,IDC,10.63333333,0,Negative,0,80,Died of Disease
+1,53.45,Her2,5,Negative,GAIN,Positive,0,Post,2,4.06,IDC,10.06666667,0,Negative,1,30,Died of Disease
+0,82.51,Normal,5,Positive,NEUTRAL,Negative,0,Post,0,3.07,IDC,77.5,0,Positive,0,35,Died of Other Causes
+0,66.28,Normal,5,Positive,NEUTRAL,Negative,1,Post,0,3,MDLC,239.4,1,Negative,0,,Living
+0,78.93,Her2,5,Positive,NEUTRAL,Positive,0,Post,0,2.026,MDLC,192.2,0,Positive,0,13,Died of Other Causes
+0,71.38,Normal,5,Positive,NEUTRAL,Negative,1,Post,0,4,ILC,123.3333333,0,Positive,0,,Died of Other Causes
+0,38.01,LumA,5,Positive,LOSS,Negative,1,Pre,0,3.036,IDC,193.9666667,1,Positive,0,18,Living
+1,39.41,Her2,5,Positive,GAIN,Positive,0,Pre,2,4.04,IDC,124.5666667,0,Negative,0,20,Died of Disease
+1,70.76,Her2,5,Positive,GAIN,Positive,0,Post,10,5.056,IDC,66.83333333,1,Positive,0,28,Living
+0,66.13,Her2,5,Positive,GAIN,Positive,0,Post,0,3.06,IDC,193.1333333,1,Positive,0,30,Living
+0,41.11,LumA,5,Positive,NEUTRAL,Negative,0,Pre,0,3.03,IDC,264.6,1,Positive,1,15,Living
+1,54.74,Basal,5,Positive,LOSS,Negative,0,Post,3,4.07,IDC,260.2,1,Positive,0,35,Living
+0,76.99,LumA,5,Positive,NEUTRAL,Negative,1,Post,15,6.03,IDC,115.6333333,0,Positive,0,15,Died of Other Causes
+0,63.27,Normal,5,Positive,NEUTRAL,Negative,1,Post,0,3.03,IDC,153.9,0,Positive,0,15,Died of Other Causes
+0,57.27,Her2,5,Negative,GAIN,Positive,0,Post,0,3.122,IDC,257.6666667,1,Negative,0,61,Living
+0,74.6,LumA,5,Positive,NEUTRAL,Negative,0,Post,0,3.078,ILC,61.8,0,Negative,0,39,Died of Disease
+0,69.38,LumB,5,Positive,NEUTRAL,Negative,1,Post,1,4.03,IDC,78.6,0,Positive,0,15,Died of Other Causes
+0,85.85,LumB,5,Positive,NEUTRAL,Negative,1,Post,4,6.074,MDLC,25.63333333,0,Negative,0,37,Died of Disease
+0,79.84,LumB,5,Positive,NEUTRAL,Negative,1,Post,4,6,ILC,78.86666667,0,Negative,0,,Died of Other Causes
+0,60.6,claudinlow,5,Negative,NEUTRAL,Negative,0,Post,0,4.092,IDC,255.6,1,Negative,1,46,Living
+0,64.55,claudinlow,5,Negative,NEUTRAL,Negative,0,Post,0,3.04,IDC,254.9333333,1,Negative,0,20,Living
+0,60.41,LumB,5,Positive,LOSS,Negative,1,Post,3,4.09,MDLC,34.33333333,0,Negative,0,45,Died of Disease
+0,51.04,Her2,5,Positive,NEUTRAL,Negative,1,Post,3,5.012,IDC,89.6,0,Positive,0,6,Died of Disease
+0,76.01,claudinlow,5,Positive,NEUTRAL,Negative,1,Post,0,2.03,ILC,238.0666667,0,Positive,0,15,Died of Other Causes
+0,70.9,LumA,5,Positive,GAIN,Negative,0,Post,0,2.052,IDC,74.93333333,0,Positive,0,26,Died of Other Causes
+0,59.47,LumB,5,Positive,NEUTRAL,Negative,0,Post,0,3.042,IDC,77.66666667,0,Negative,0,21,Died of Other Causes
+0,60.62,Basal,5,Negative,NEUTRAL,Negative,0,Post,0,3.034,IDC,228.9,1,Negative,0,17,Living
+0,71.74,LumB,5,Positive,NEUTRAL,Negative,0,Post,0,3.05,IDC,195.3,1,Positive,0,25,Living
+0,49.5,Her2,5,Negative,GAIN,Positive,0,Pre,0,4.05,IDC,58.93333333,0,Positive,0,25,Died of Disease
+0,86.29,Basal,5,Positive,GAIN,Positive,1,Post,14,6.07,IDC,15.86666667,0,Negative,1,35,Died of Disease
+1,46.23,Her2,5,Negative,GAIN,Positive,0,Pre,1,4,IDC,247.3666667,1,Negative,0,,Living
+0,71.62,LumA,5,Positive,NEUTRAL,Negative,1,Post,6,5.07,MDLC,88.66666667,0,Positive,0,35,Died of Other Causes
+0,77.45,LumB,5,Positive,NEUTRAL,Negative,1,Post,5,5.026,IDC,205.9,1,Positive,0,13,Living
+0,75.02,LumA,5,Positive,NEUTRAL,Negative,1,Post,6,5.03,ILC,122.8,0,Negative,0,15,Died of Other Causes
+0,64.95,LumA,5,Positive,NEUTRAL,Negative,0,Post,0,3.04,MDLC,225.7,0,Positive,0,20,Died of Other Causes
+0,39.17,Basal,5,Negative,GAIN,Positive,0,Pre,0,4.05,IDC,84.73333333,0,Negative,0,25,Died of Other Causes
+0,70.91,LumA,5,Positive,NEUTRAL,Negative,1,Post,0,3.08,IDC,220.3,1,Positive,0,40,Living
+0,38.58,Basal,5,Negative,NEUTRAL,Negative,0,Pre,8,6.064,IDC,33.13333333,0,Negative,0,32,Died of Disease
+0,59.08,LumA,5,Positive,NEUTRAL,Negative,0,Post,0,2.066,MDLC,58.46666667,0,Positive,0,33,Died of Disease
+0,83.09,LumA,5,Positive,NEUTRAL,Negative,1,Post,1,3.03,IDC,54.93333333,0,Positive,0,15,Died of Other Causes
+0,56.47,Her2,5,Negative,GAIN,Positive,0,Post,0,4.042,IDC,208.8,1,Negative,1,21,Living
+0,66.24,LumB,5,Positive,NEUTRAL,Negative,0,Post,0,3.036,IDC,79.13333333,0,Positive,0,18,Died of Other Causes
+1,35.02,Her2,5,Positive,NEUTRAL,Negative,1,Pre,9,6.1,IDC,185.7,0,Positive,0,50,Died of Disease
+0,75.44,LumA,5,Positive,NEUTRAL,Negative,0,Post,0,2.032,MDLC,197.7333333,0,Positive,0,16,Died of Other Causes
+0,70.35,claudinlow,5,Positive,GAIN,Negative,1,Post,0,4.158,IDC,37.76666667,0,Positive,0,79,Died of Other Causes
+0,41.92,claudinlow,5,Negative,GAIN,Negative,0,Pre,11,6.056,IDC,23.76666667,1,Negative,0,28,Living
+0,56.25,LumB,5,Positive,NEUTRAL,Negative,1,Post,0,3.084,MDLC,240.2,1,Positive,1,42,Living
+0,79.24,LumA,5,Positive,NEUTRAL,Negative,1,Post,3,4.056,IDC,24.63333333,0,Negative,0,28,Died of Other Causes
+0,78.45,LumB,5,Positive,NEUTRAL,Negative,1,Post,2,4.07,IDC,42.63333333,0,Positive,0,35,Died of Other Causes
+1,44.51,Normal,5,Negative,NEUTRAL,Negative,0,Pre,9,5.05,MDLC,52.46666667,0,Positive,1,25,Died of Disease
+0,66.01,LumA,5,Positive,NEUTRAL,Negative,1,Post,0,3.046,ILC,202.2333333,1,Negative,0,23,Living
+0,65.52,LumA,5,Positive,NEUTRAL,Negative,1,Post,1,5.06,IDC,30.06666667,0,Negative,0,30,Died of Disease
+0,79.2,LumB,5,Positive,NEUTRAL,Negative,0,Post,0,3.02,IDC,222.7,0,Positive,1,10,Died of Other Causes
+0,41.08,Normal,5,Positive,NEUTRAL,Negative,1,Pre,0,4.046,IDC,56.76666667,0,Positive,0,23,Died of Other Causes
+0,80.76,LumA,5,Positive,NEUTRAL,Negative,0,Post,0,3.03,IDC,118.3,0,Negative,0,15,Died of Other Causes
+0,56.93,Normal,5,Positive,NEUTRAL,Negative,1,Post,2,4.04,IDC,221.2,1,Negative,1,20,Living
+0,82.1,LumA,5,Positive,NEUTRAL,Negative,0,Post,0,3.046,IDC,42.3,0,Positive,0,23,Died of Other Causes
+0,61.81,LumA,5,Positive,NEUTRAL,Negative,0,Post,0,3.03,BREAST,224.2333333,1,Positive,1,15,Living
+0,74.43,LumA,5,Positive,NEUTRAL,Negative,1,Post,1,4.04,IDC,174.5,0,Positive,0,20,Died of Other Causes
+1,47.51,LumB,5,Positive,GAIN,Negative,1,Pre,3,3,IMMC,211.5333333,0,Positive,0,,Died of Other Causes
+0,49.67,LumA,5,Positive,GAIN,Negative,0,Pre,0,4.044,IDC,147.7666667,0,Negative,0,22,Died of Disease
+1,58.83,Basal,5,Negative,NEUTRAL,Negative,0,Post,2,5.04,IDC,221.9333333,1,Negative,1,20,Living
+1,66.94,Her2,5,Negative,GAIN,Positive,0,Post,31,6.02,IDC,35.46666667,0,Positive,1,10,Died of Disease
+0,68.43,LumA,5,Positive,NEUTRAL,Negative,0,Post,0,3.032,IDC,117.8666667,1,Positive,0,16,Living
+0,73.37,Normal,5,Positive,NEUTRAL,Negative,1,Post,0,3.074,MDLC,35.36666667,0,Positive,0,37,Died of Other Causes
+0,37.33,claudinlow,5,Negative,NEUTRAL,Negative,0,Pre,3,5.04,IDC,200.1,1,Positive,0,20,Living
+0,75.33,LumA,5,Positive,NEUTRAL,Negative,0,Post,0,2.03,IDC,0.1,0,Positive,0,15,Died of Disease
+0,77.96,Normal,5,Positive,LOSS,Negative,0,Post,0,4.04,IDC,72.56666667,0,Positive,0,20,Died of Other Causes
+0,71.22,LumA,5,Positive,NEUTRAL,Negative,1,Post,4,5.06,MDLC,85,0,Positive,0,30,Died of Other Causes
+0,70.65,LumB,5,Positive,NEUTRAL,Negative,0,Post,0,2.04,MDLC,201.1666667,1,Positive,1,20,Living
+0,66.35,Normal,5,Positive,NEUTRAL,Negative,0,Post,0,3,MDLC,213.3666667,1,Positive,0,,Living
+0,75.62,Basal,5,Negative,GAIN,Negative,0,Post,0,4.04,IDC,105.2,0,Negative,0,20,Died of Other Causes
+0,84.87,LumA,5,Positive,NEUTRAL,Negative,0,Post,0,3.058,MDLC,172.9666667,0,Positive,0,29,Died of Disease
+1,52.84,Normal,5,Positive,NEUTRAL,Negative,0,Post,6,5.04,MDLC,200.3333333,1,Positive,1,20,Living
+1,41.29,Basal,5,Negative,NEUTRAL,Negative,0,Pre,8,6.11,IDC,165.4333333,1,Negative,1,55,Living
+0,47.01,Basal,5,Negative,NEUTRAL,Negative,0,Pre,0,4.04,IDC,177.6333333,1,Negative,0,20,Living
+1,58.39,Her2,5,Negative,GAIN,Positive,0,Post,2,5.06,IDC,52.9,0,Negative,0,30,Died of Other Causes
+1,51.22,Basal,5,Negative,NEUTRAL,Negative,1,Post,1,5.11,IDC,182.8333333,1,Negative,1,55,Living
+1,48.59,Basal,5,Negative,LOSS,Negative,0,Pre,1,5.06,IDC,14.7,0,Negative,1,30,Died of Disease
+0,62.9,LumA,5,Positive,NEUTRAL,Negative,0,Post,0,2.022,ILC,194.3666667,1,Positive,1,11,Living
+0,78.69,LumB,5,Positive,NEUTRAL,Negative,1,Post,0,3.142,IMMC,60.9,0,Positive,0,71,Died of Disease
+0,67.33,LumA,5,Positive,NEUTRAL,Negative,0,Post,0,2.028,IDC,127.8333333,0,Positive,1,14,Died of Other Causes
+0,49.38,LumB,5,Positive,NEUTRAL,Negative,1,Pre,0,4.032,IDC,91,1,Positive,1,16,Living
+0,79.42,LumA,5,Positive,NEUTRAL,Negative,1,Post,8,5.048,IDC,75.86666667,1,Negative,0,24,Living
+0,64.4,LumA,5,Positive,LOSS,Negative,0,Post,0,3.05,IDC,157.7333333,1,Negative,0,25,Living
+1,36.93,claudinlow,5,Negative,NEUTRAL,Negative,0,Pre,3,5,IDC,22.4,0,Negative,1,,Died of Disease
+1,43.08,LumA,5,Positive,NEUTRAL,Negative,0,Pre,1,4.032,IDC,189.4333333,1,Positive,0,16,Living
+1,53.68,Basal,5,Negative,NEUTRAL,Negative,0,Post,1,5.088,IDC,27.86666667,0,Negative,1,44,Died of Disease
+0,75.1,LumB,5,Positive,NEUTRAL,Negative,1,Post,7,5.01,IDC,3.5,0,Positive,0,5,Died of Other Causes
+0,73.07,LumA,5,Positive,NEUTRAL,Negative,1,Post,1,5.05,ILC,92.4,0,Positive,0,25,Died of Other Causes
+0,67.81,LumB,5,Positive,LOSS,Negative,1,Post,0,3.06,BREAST,88.33333333,0,Positive,1,30,Died of Other Causes
+0,85.17,LumA,5,Positive,NEUTRAL,Negative,0,Post,0,3.04,IDC,49.53333333,0,Positive,0,20,Died of Other Causes
+1,58.08,LumB,5,Positive,LOSS,Negative,0,Post,1,5.07,IDC,35.2,0,Positive,1,35,Died of Disease
+0,74.33,LumB,5,Positive,NEUTRAL,Negative,1,Post,0,4.046,IDC,100.3,0,Positive,1,23,Died of Disease
+0,52.55,LumA,5,Positive,GAIN,Negative,1,Post,0,3.06,IDC,170.8666667,1,Negative,1,30,Living
+0,62.92,LumB,5,Positive,NEUTRAL,Negative,1,Post,1,4.03,IDC,63.83333333,0,Positive,0,15,Died of Other Causes
+0,67.78,LumB,5,Positive,NEUTRAL,Negative,1,Post,5,6.054,IDC,125.8666667,0,Negative,1,27,Died of Other Causes
+1,52.85,claudinlow,5,Negative,GAIN,Negative,0,Post,3,5.06,IDC,89.53333333,0,Negative,1,30,Died of Disease
+0,78.22,LumB,5,Positive,GAIN,Negative,1,Post,0,4.058,IDC,64.6,0,Positive,1,29,Died of Other Causes
+0,81.75,LumA,5,Positive,NEUTRAL,Negative,1,Post,9,5.046,IDC,151.9333333,0,Positive,1,23,Died of Other Causes
+0,85.02,LumB,5,Positive,NEUTRAL,Negative,1,Post,0,4.078,IDC,162.7666667,1,Negative,0,39,Living
+0,68.57,Her2,5,Positive,GAIN,Positive,0,Post,0,3.028,IMMC,134.8333333,1,Negative,0,14,Living
+0,86.9,LumB,5,Positive,GAIN,Negative,1,Post,3,5.106,IDC,29.23333333,0,Positive,0,53,Died of Other Causes
+0,81.37,Her2,5,Negative,NEUTRAL,Negative,0,Post,0,4.07,IDC,109.2333333,0,Negative,0,35,Died of Other Causes
+1,57.9,Normal,5,Positive,NEUTRAL,Negative,1,Post,6,5.124,ILC,154.7,1,Positive,1,62,Living
+0,80.93,LumB,5,Positive,NEUTRAL,Negative,1,Post,9,5.05,MDLC,80.36666667,0,Negative,1,25,Died of Other Causes
+0,76.56,LumB,5,Positive,NEUTRAL,Negative,1,Post,10,4.12,IMMC,18.26666667,0,Negative,1,60,Died of Disease
+0,75.89,LumA,5,Positive,NEUTRAL,Negative,1,Post,0,2.06,IDC,126.6666667,1,Positive,0,30,Living
+0,68.48,LumB,5,Positive,NEUTRAL,Negative,1,Post,0,4.046,IDC,81.5,0,Positive,0,23,Died of Other Causes
+1,36.81,Her2,5,Negative,GAIN,Positive,1,Pre,2,4.04,IDC,140.3333333,1,Negative,1,20,Living
+0,60.12,Her2,5,Positive,GAIN,Positive,1,Post,0,4.042,IDC,128.1,1,Positive,0,21,Living
+1,63.22,Basal,5,Negative,NEUTRAL,Negative,0,Post,18,6.05,IDC,17.2,0,Negative,1,25,Died of Disease
+1,58.25,Basal,5,Negative,GAIN,Positive,0,Post,14,6.11,IDC,110.8666667,0,Negative,1,55,Died of Other Causes
+0,82,LumB,5,Positive,NEUTRAL,Negative,0,Post,0,3.12,IDC,152.9333333,0,Negative,0,60,Died of Disease
+0,63.2,LumB,5,Positive,NEUTRAL,Negative,0,Post,0,3.044,IMMC,281.5,1,Positive,1,22,Living
+0,57.77,Her2,5,Negative,GAIN,Positive,0,Post,0,3.05,ILC,37.86666667,0,Negative,0,25,Died of Disease
+0,73.42,Her2,5,Positive,NEUTRAL,Negative,0,Post,0,3.044,IDC,85.03333333,0,Negative,0,22,Died of Disease
+1,60.77,Basal,5,Negative,GAIN,Positive,0,Post,7,6.05,IDC,16.7,0,Negative,1,25,Died of Disease
+0,69.28,LumB,4,Positive,GAIN,Negative,1,Post,1,4.022,BREAST,97.4,1,Positive,0,11,Living
+0,72.71,LumA,4,Positive,GAIN,Positive,1,Post,0,3.02,IDC,102.7,1,Negative,1,10,Living
+0,74.52,LumB,4,Positive,LOSS,Negative,1,Post,0,3.032,IDC,57.93333333,1,Positive,0,16,Living
+0,50.44,Normal,4,Positive,NEUTRAL,Negative,1,Post,2,4.054,IDC,91.23333333,0,Positive,0,27,Died of Other Causes
+0,74.2,LumA,4,Positive,NEUTRAL,Negative,1,Post,4,5.06,ILC,50.46666667,1,Negative,1,30,Living
+0,70.84,LumB,4,Positive,NEUTRAL,Negative,1,Post,2,3.052,IDC,45.33333333,1,Negative,1,26,Living
+0,58.8,LumA,4,Positive,NEUTRAL,Negative,1,Post,1,3.038,IDC,109.9333333,1,Positive,1,19,Living
+1,54.44,Basal,4,Negative,GAIN,Negative,0,Post,1,5.034,IDC,58.6,1,Negative,1,17,Living
+0,69.94,claudinlow,4,Negative,NEUTRAL,Negative,0,Post,0,4.048,IDC,50.9,0,Negative,0,24,Died of Other Causes
+1,68.28,Basal,4,Negative,NEUTRAL,Negative,0,Post,2,5.054,IDC,54.76666667,0,Negative,1,27,Died of Disease
+0,70.25,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,2.046,IDC,74.03333333,1,Positive,0,23,Living
+0,68.9,LumB,4,Positive,GAIN,Negative,1,Post,0,4.08,MDLC,70.06666667,0,Positive,1,40,Died of Other Causes
+1,60.96,Basal,4,Negative,NEUTRAL,Negative,0,Post,0,4.04,IDC,19.83333333,0,Negative,1,20,Died of Disease
+0,30.53,LumA,4,Positive,NEUTRAL,Negative,1,Pre,0,2.036,IDC,46.43333333,1,Positive,1,18,Living
+0,67.57,Basal,4,Positive,NEUTRAL,Negative,1,Post,1,5.038,MDLC,68.7,1,Positive,1,19,Living
+0,63.79,LumB,4,Positive,NEUTRAL,Negative,1,Post,0,4.05,IDC,78.16666667,1,Positive,1,25,Living
+1,36.63,claudinlow,4,Negative,NEUTRAL,Negative,0,Pre,1,5.054,MDLC,135.3333333,1,Negative,1,27,Living
+1,72.12,Her2,4,Positive,NEUTRAL,Negative,0,Post,3,4.08,IDC,86.53333333,0,Negative,1,40,Died of Disease
+0,68.44,LumB,4,Positive,NEUTRAL,Negative,1,Post,0,3.042,IDC,80.73333333,0,Positive,0,21,Died of Other Causes
+1,44.47,Her2,4,Negative,GAIN,Positive,0,Pre,2,5.054,IDC,71.63333333,0,Negative,0,27,Died of Disease
+0,70.61,LumB,4,Positive,NEUTRAL,Negative,1,Post,0,3.068,IDC,85.5,1,Positive,0,34,Living
+1,66.66,claudinlow,4,Negative,NEUTRAL,Negative,0,Post,2,5.08,IDC,27.96666667,0,Negative,1,40,Died of Disease
+0,54.92,LumB,4,Positive,NEUTRAL,Negative,1,Post,0,4.036,IDC,70.26666667,1,Negative,0,18,Living
+0,65.22,claudinlow,4,Negative,NEUTRAL,Negative,0,Post,0,4.026,IDC,80.23333333,1,Negative,1,13,Living
+0,35.27,LumB,4,Positive,GAIN,Negative,1,Pre,1,4.052,IDC,111.7,0,Positive,1,26,Died of Other Causes
+1,60.56,Her2,4,Negative,GAIN,Positive,0,Post,12,6.03,IDC,36.96666667,0,Negative,1,15,Died of Disease
+0,65.94,LumB,4,Positive,NEUTRAL,Negative,1,Post,2,4.056,IDC,89.8,1,Negative,1,28,Living
+0,43.45,LumA,4,Positive,LOSS,Negative,1,Pre,0,2.046,IDC,76.86666667,1,Positive,1,23,Living
+0,74.21,Basal,4,Negative,NEUTRAL,Negative,1,Post,1,4.1,BREAST,31.33333333,0,Negative,1,50,Died of Other Causes
+1,60.58,Basal,4,Negative,NEUTRAL,Negative,0,Post,1,5.08,IDC,85.36666667,1,Negative,1,40,Living
+0,79.36,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,2.046,,71.46666667,1,Positive,0,23,Living
+0,78.73,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,3.086,IDC,75.1,1,Positive,0,43,Living
+1,45.3,Her2,4,Negative,GAIN,Positive,0,Pre,13,6.1,IDC,32.06666667,0,Negative,1,50,Died of Disease
+1,54.48,Basal,4,Negative,NEUTRAL,Negative,0,Post,2,5.036,IDC,120.4333333,1,Negative,1,18,Living
+0,68.74,LumA,4,Positive,NEUTRAL,Negative,0,Post,0,2.03,IDC,86.4,1,Positive,1,15,Living
+1,57.62,Basal,4,Negative,NEUTRAL,Negative,0,Post,1,5.044,IDC,81.03333333,1,Negative,1,22,Living
+0,78.19,Basal,4,Negative,NEUTRAL,Negative,1,Post,1,4.124,MDLC,49.2,0,Negative,0,62,Died of Disease
+0,81.32,LumA,4,Positive,NEUTRAL,Negative,1,Post,1,4.044,IDC,71.83333333,1,Negative,0,22,Living
+0,79.48,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,1.05,ILC,101.9666667,0,Positive,0,25,Died of Other Causes
+0,61.72,LumB,4,Positive,NEUTRAL,Negative,1,Post,1,3.052,IDC,88.5,1,Positive,1,26,Living
+0,72.65,claudinlow,4,Positive,NEUTRAL,Negative,1,Post,0,4.036,IDC,91.53333333,1,Positive,1,18,Living
+0,67.24,claudinlow,4,Positive,NEUTRAL,Negative,1,Post,0,3.03,IDC,86.83333333,1,Positive,1,15,Living
+0,61.39,Her2,4,Negative,NEUTRAL,Negative,1,Post,0,3.04,IDC,94.93333333,0,Negative,1,20,Died of Disease
+0,76.02,Her2,4,Positive,GAIN,Positive,1,Post,0,3.046,IDC,146.4,0,Negative,1,23,Died of Other Causes
+0,36.27,Her2,4,Positive,NEUTRAL,Negative,1,Pre,0,3.028,IDC,88.46666667,1,Negative,1,14,Living
+0,48.75,Basal,4,Negative,NEUTRAL,Negative,0,Pre,0,4.036,IDC,102.0333333,1,Negative,1,18,Living
+1,64.99,Her2,4,Positive,GAIN,Positive,1,Post,1,4.045,IDC,65.13333333,0,Positive,1,22.5,Died of Disease
+0,63.44,Her2,4,Positive,NEUTRAL,Negative,1,Post,0,3.04,IDC,85.93333333,0,Negative,1,20,Died of Disease
+0,45.45,claudinlow,4,Negative,NEUTRAL,Negative,0,Pre,0,4.0358,IDC,106.1333333,1,Negative,1,17.9,Living
+0,45.64,LumA,4,Positive,NEUTRAL,Negative,0,Pre,0,4.029,IDC,122.1333333,1,Positive,1,14.5,Living
+1,73.74,claudinlow,4,Negative,NEUTRAL,Negative,1,Post,2,5.0256,ILC,30.43333333,0,Positive,0,12.8,Died of Disease
+0,54.87,Basal,4,Negative,NEUTRAL,Negative,0,Post,0,4.052,IDC,9.133333333,0,Negative,0,26,Died of Disease
+0,71.82,LumA,4,Positive,NEUTRAL,Negative,1,Post,7,5.042,IDC,117,1,Positive,0,21,Living
+1,72.81,Normal,4,Negative,NEUTRAL,Negative,1,Post,2,4.044,IDC,43.83333333,0,Negative,0,22,Died of Disease
+0,45.81,Normal,4,Positive,NEUTRAL,Negative,1,Pre,4,3.054,IDC,122.5,1,Positive,0,27,Living
+1,50.55,Her2,4,Negative,GAIN,Positive,0,Post,23,6.048,,119.3333333,1,Negative,1,24,Living
+0,69.25,LumA,4,Positive,LOSS,Negative,1,Post,6,4.1,ILC,112.6666667,0,Negative,1,50,Died of Other Causes
+0,61.6,Normal,4,Positive,NEUTRAL,Negative,1,Post,0,3.04,IDC,96.76666667,0,Negative,1,20,Died of Other Causes
+0,63.77,LumA,4,Positive,NEUTRAL,Negative,1,Post,1,3.032,IDC,95.86666667,1,Positive,1,16,Living
+0,76.77,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,4.04,IDC,86.6,1,Positive,1,20,Living
+0,45.35,LumB,4,Positive,NEUTRAL,Negative,0,Pre,0,3.038,IDC,107.8666667,1,Positive,1,19,Living
+1,64.24,Her2,4,Negative,GAIN,Negative,0,Post,1,5.037,IDC,89.76666667,1,Negative,1,18.5,Living
+0,69.64,Her2,4,Negative,GAIN,Positive,1,Post,0,3.031,IDC,105,1,Negative,0,15.5,Living
+0,58.95,Her2,4,Positive,GAIN,Positive,1,Post,0,4.052,IDC,98.46666667,1,Negative,1,26,Living
+0,67.6,Her2,4,Negative,GAIN,Positive,1,Post,0,4.043,IDC,114.6,1,Negative,1,21.5,Living
+0,68.76,Her2,4,Positive,GAIN,Negative,1,Post,2,5.004,IDC,108.0666667,1,Positive,0,2,Living
+0,27.56,Her2,4,Positive,NEUTRAL,Negative,0,Pre,0,4.036,ILC,102.0666667,1,Positive,1,18,Living
+0,71.24,LumB,4,Positive,GAIN,Negative,1,Post,14,5.13,MDLC,52.33333333,0,Positive,1,65,Died of Disease
+1,54.69,Basal,4,Negative,GAIN,Positive,0,Post,13,6.04,IDC,137.9333333,0,Negative,0,20,Died of Other Causes
+0,51.36,Normal,4,Positive,NEUTRAL,Negative,1,Post,0,2.036,IDC,108.1666667,1,Negative,0,18,Living
+0,64.4,LumB,4,Positive,GAIN,Negative,1,Post,0,3.032,MDLC,111.6333333,1,Negative,0,16,Living
+0,56.13,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,3.044,IDC,142.6666667,0,Positive,0,22,Died of Other Causes
+0,37.89,LumA,4,Positive,NEUTRAL,Negative,1,Pre,5,5.034,IDC,101.2666667,1,Positive,1,17,Living
+0,74.8,claudinlow,4,Negative,NEUTRAL,Negative,1,Post,0,4.1,IDC,4.166666667,0,Negative,1,50,Died of Disease
+0,70.3,claudinlow,4,Positive,NEUTRAL,Negative,1,Post,1,4.06,IDC,91.06666667,1,Negative,0,30,Living
+0,64.01,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,2.034,IDC,91.23333333,1,Positive,0,17,Living
+0,69.12,claudinlow,4,Negative,NEUTRAL,Negative,1,Post,0,4.056,IDC,140.2333333,1,Negative,1,28,Living
+1,57.07,Her2,4,Negative,GAIN,Positive,0,Post,1,5.04,IDC,98.26666667,1,Negative,1,20,Living
+1,50.42,LumB,4,Positive,NEUTRAL,Negative,1,Post,0,3.052,IDC,105.4666667,1,Positive,1,26,Living
+0,74.07,Basal,4,Negative,GAIN,Positive,1,Post,0,4.12,,116.5333333,1,Negative,0,60,Living
+0,60.5,Normal,4,Positive,NEUTRAL,Negative,1,Post,3,4.06,IDC,110.1,1,Positive,1,30,Living
+0,70.52,LumB,4,Positive,NEUTRAL,Negative,1,Post,2,4.036,MDLC,123.5333333,1,Positive,1,18,Living
+1,66.61,Basal,4,Negative,NEUTRAL,Negative,1,Post,3,5.028,IDC,5.066666667,0,Negative,1,14,Died of Other Causes
+0,72.05,Her2,4,Positive,GAIN,Positive,1,Post,2,5.05,IDC,123.5333333,1,Negative,0,25,Living
+1,47.7,claudinlow,4,Negative,GAIN,Negative,0,Pre,1,5.036,IDC,118.9,1,Negative,1,18,Living
+1,48.52,Basal,4,Negative,NEUTRAL,Negative,0,Pre,3,5.034,IDC,109.7666667,1,Negative,1,17,Living
+0,55.71,LumA,4,Positive,LOSS,Negative,1,Post,4,4.036,IDC,110.2666667,1,Positive,1,18,Living
+0,55.67,Her2,4,Positive,NEUTRAL,Negative,1,Post,0,2.04,MDLC,122.4,1,Positive,1,20,Living
+1,76.25,LumA,4,Positive,NEUTRAL,Negative,1,Post,2,3.0338,IDC,125.8333333,0,Positive,0,16.9,Died of Other Causes
+0,60.75,LumB,4,Positive,NEUTRAL,Negative,1,Post,0,4.0488,IDC,113.3666667,1,Positive,1,24.4,Living
+0,74.64,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,2.05,IDC,115.6333333,1,Negative,1,25,Living
+0,48.27,LumA,4,Positive,NEUTRAL,Negative,1,Pre,1,4.025,IDC,124,1,Positive,1,12.5,Living
+1,60.09,LumB,4,Positive,NEUTRAL,Negative,1,Post,2,2.0806,IDC,65.16666667,0,Negative,0,40.3,Died of Disease
+0,80.31,LumB,4,Positive,NEUTRAL,Negative,1,Post,2,4.076,IDC,163.1666667,0,Positive,1,38,Died of Other Causes
+0,70.56,LumB,4,Positive,NEUTRAL,Negative,1,Post,2,5.056,IDC,156.3333333,0,Positive,1,28,Died of Other Causes
+0,49.16,LumA,4,Positive,NEUTRAL,Negative,1,Pre,0,3.031,ILC,124.2666667,1,Positive,1,15.5,Living
+0,73.16,LumB,4,Positive,NEUTRAL,Negative,1,Post,1,3.04,MDLC,104.1,0,Positive,0,20,Died of Other Causes
+0,59.93,claudinlow,4,Positive,NEUTRAL,Negative,1,Post,2,5.038,IDC,122.8333333,0,Negative,1,19,Died of Other Causes
+0,80.13,LumA,4,Positive,NEUTRAL,Negative,1,Post,18,4.058,IDC,37.5,0,Positive,0,29,Died of Disease
+0,67.85,LumA,4,Positive,NEUTRAL,Negative,1,Post,3,5.06,IDC,56.93333333,0,Negative,0,30,Died of Disease
+0,67.27,LumB,4,Positive,GAIN,Negative,1,Post,16,6.038,IDC,117.5333333,1,Positive,0,19,Living
+0,52.12,Basal,4,Positive,NEUTRAL,Negative,1,Post,5,6.1,IDC,30.16666667,0,Positive,0,50,Died of Disease
+1,40.74,LumB,4,Positive,NEUTRAL,Negative,0,Pre,0,4.08,IDC,64.7,0,Positive,0,40,Died of Disease
+0,66.04,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,2.02,IDC,136.7,0,Positive,0,10,Died of Other Causes
+0,55.57,Basal,4,Negative,NEUTRAL,Negative,1,Post,0,4.032,IDC,123.2666667,1,Negative,1,16,Living
+0,80.56,Her2,4,Positive,GAIN,Positive,1,Post,0,4.14,IDC,141.7333333,0,Negative,1,70,Died of Other Causes
+0,77.17,LumB,4,Positive,NEUTRAL,Negative,1,Post,1,4.08,IDC,33.36666667,0,Negative,0,40,Died of Disease
+0,70.15,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,3.04,IDC,140.5666667,1,Positive,0,20,Living
+1,54.53,Basal,4,Negative,NEUTRAL,Negative,1,Post,2,5.046,IDC,128.3666667,1,Negative,1,23,Living
+1,49.02,claudinlow,4,Negative,NEUTRAL,Negative,1,Pre,4,6.076,IDC,88.83333333,0,Negative,1,38,Died of Other Causes
+0,83.39,Basal,4,Positive,NEUTRAL,Negative,1,Post,1,5.06,IDC,29.9,0,Negative,0,30,Died of Other Causes
+0,56.97,LumA,4,Positive,GAIN,Negative,1,Post,0,2.072,IDC,137.6666667,1,Positive,0,36,Living
+0,71.16,LumA,4,Positive,NEUTRAL,Negative,1,Post,1,4.04,IDC,139.6,1,Positive,0,20,Living
+0,52.43,Normal,4,Positive,NEUTRAL,Negative,1,Post,0,3.038,IDC,135.3333333,1,Positive,1,19,Living
+0,71.05,LumA,4,Positive,GAIN,Positive,1,Post,0,3.042,,60.26666667,0,Positive,0,21,Died of Other Causes
+0,72.28,LumB,4,Positive,GAIN,Negative,1,Post,3,5.062,IDC,102.9666667,0,Negative,1,31,Died of Disease
+0,58.04,LumB,4,Positive,NEUTRAL,Negative,1,Post,1,5.042,IDC,134.7333333,1,Negative,0,21,Living
+0,69.06,LumB,4,Positive,NEUTRAL,Negative,1,Post,0,3.038,IDC,131.6,1,Positive,0,19,Living
+0,71.41,LumB,4,Positive,NEUTRAL,Negative,1,Post,2,5.036,ILC,23.83333333,0,Negative,1,18,Died of Disease
+1,56.93,Her2,4,Negative,GAIN,Positive,1,Post,16,6.052,IDC,26.73333333,0,Negative,1,26,Died of Disease
+0,64.24,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,2.042,IDC,179.8,1,Negative,1,21,Living
+0,68.16,LumB,4,Positive,NEUTRAL,Negative,1,Post,0,4.044,IDC,123,0,Positive,1,22,Died of Other Causes
+0,58.27,LumB,4,Positive,NEUTRAL,Negative,1,Post,5,6.12,IDC,90.8,0,Negative,0,60,Died of Disease
+0,78.16,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,3.0236,IDC,138.5666667,1,Positive,0,11.8,Living
+0,55.52,LumB,4,Positive,NEUTRAL,Negative,1,Post,0,3.026,IDC,175.9,0,Positive,0,13,Died of Other Causes
+0,61.38,Her2,4,Negative,GAIN,Positive,1,Post,0,4.068,IDC,186.3666667,1,Negative,1,34,Living
+0,59.34,LumB,4,Positive,NEUTRAL,Negative,1,Post,0,4.045,IDC,102.6333333,0,Positive,1,22.5,Died of Other Causes
+1,44.42,Basal,4,Negative,NEUTRAL,Negative,0,Pre,2,5.05,IDC,138.3333333,1,Negative,1,25,Living
+0,76.98,LumB,4,Positive,NEUTRAL,Negative,1,Post,0,4.06,MDLC,168.6,0,Positive,0,30,Died of Other Causes
+0,66.52,LumB,4,Positive,NEUTRAL,Negative,1,Post,14,6.1,IDC,44.63333333,0,Negative,1,50,Died of Other Causes
+0,70.88,LumB,4,Positive,NEUTRAL,Negative,0,Post,0,4.074,IDC,128.9666667,1,Negative,0,37,Living
+0,59.06,Basal,4,Negative,NEUTRAL,Negative,1,Post,0,4.042,IDC,144.4333333,1,Negative,0,21,Living
+0,62.13,Her2,4,Positive,GAIN,Negative,1,Post,0,4.036,IDC,195.8,0,Negative,0,18,Died of Other Causes
+0,74.11,Her2,4,Positive,NEUTRAL,Negative,1,Post,0,3.05,IDC,142.8,1,Negative,0,25,Living
+0,77.54,Basal,4,Negative,NEUTRAL,Negative,1,Post,0,4.0652,IDC,108.4666667,0,Negative,0,32.6,Died of Other Causes
+1,41.14,Basal,4,Negative,NEUTRAL,Negative,0,Pre,1,5.0344,IDC,149.7666667,1,Negative,1,17.2,Living
+0,56.86,LumB,4,Positive,NEUTRAL,Negative,1,Post,2,4.038,IDC,219.6333333,1,Positive,1,19,Living
+1,50.73,claudinlow,4,Negative,NEUTRAL,Negative,0,Post,16,6.058,IDC,46.43333333,0,Negative,0,29,Died of Disease
+1,60.45,Basal,4,Negative,NEUTRAL,Negative,1,Post,0,4.068,IDC,21.93333333,0,Negative,1,34,Died of Disease
+0,51.34,Her2,4,Positive,GAIN,Negative,1,Post,0,4.046,IDC,148.0666667,1,Positive,1,23,Living
+0,47.67,LumA,4,Positive,GAIN,Negative,0,Pre,5,5.092,IDC,121.5333333,1,Positive,1,46,Living
+0,59.84,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,2.0276,IDC,140.2,1,Positive,1,13.8,Living
+1,43.81,LumA,4,Positive,NEUTRAL,Negative,1,Pre,15,5.06,IDC,52.63333333,0,Positive,0,30,Died of Disease
+0,49.13,LumA,4,Positive,NEUTRAL,Negative,1,Pre,2,3.0314,IDC,211.4,1,Positive,1,15.7,Living
+1,28.78,Basal,4,Negative,NEUTRAL,Negative,0,Pre,1,5.364,IDC,147.1666667,1,Negative,1,182,Living
+0,43.26,Her2,4,Positive,NEUTRAL,Negative,1,Pre,0,3.17,IDC,141.0333333,1,Positive,1,85,Living
+0,60.33,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,4.05,IDC,150.5,1,Positive,0,25,Living
+0,58.56,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,3.04,IDC,155.4,1,Negative,1,20,Living
+0,71.82,LumB,4,Positive,NEUTRAL,Negative,1,Post,3,5.062,IDC,160.4,0,Positive,1,31,Died of Other Causes
+0,62.7,LumB,4,Positive,NEUTRAL,Negative,1,Post,3,4.0366,IDC,149.3,1,Positive,0,18.3,Living
+0,67.4,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,3.0432,ILC,63.53333333,0,Negative,0,21.6,Died of Other Causes
+0,60.63,LumB,4,Positive,NEUTRAL,Negative,1,Post,0,4.04,IDC,140.7666667,1,Negative,1,20,Living
+0,50.51,LumA,4,Positive,NEUTRAL,Negative,1,Post,1,4.057,IDC,194.4,0,Positive,1,28.5,Died of Other Causes
+0,63.09,LumB,4,Positive,GAIN,Negative,1,Post,1,5.042,IDC,157.5333333,1,Negative,1,21,Living
+1,58.26,Her2,4,Positive,NEUTRAL,Negative,1,Post,0,4.054,IDC,49.46666667,0,Negative,0,27,Died of Disease
+0,70.76,LumA,4,Positive,NEUTRAL,Negative,1,Post,8,5.0324,IDC,125.0333333,0,Positive,1,16.2,Died of Disease
+0,48.92,LumB,4,Positive,NEUTRAL,Negative,0,Pre,6,5.066,IDC,4.866666667,1,Positive,0,33,Living
+1,49.35,Normal,4,Negative,GAIN,Positive,1,Pre,0,3.0046,IDC,146.8333333,0,Negative,1,2.3,Died of Disease
+1,58.75,LumB,4,Positive,LOSS,Negative,1,Post,1,4.042,IDC,143.6,0,Negative,1,21,Died of Disease
+0,76.65,LumB,4,Positive,GAIN,Negative,1,Post,0,4.0304,IDC,87.46666667,0,Positive,0,15.2,Died of Other Causes
+1,63.71,LumB,4,Positive,NEUTRAL,Negative,1,Post,0,3.043,IDC,46.66666667,0,Negative,0,21.5,Died of Disease
+0,72.99,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,3.05,ILC,80.43333333,0,Positive,0,25,Died of Other Causes
+0,67.99,Her2,4,Positive,NEUTRAL,Negative,1,Post,4,6.15,IDC,107.1,0,Positive,1,75,Died of Disease
+0,70.58,LumB,4,Positive,NEUTRAL,Negative,1,Post,1,4.04,IDC,187.8666667,0,Positive,0,20,Died of Other Causes
+0,67.89,Basal,4,Positive,NEUTRAL,Negative,1,Post,0,4.08,IDC,16.73333333,0,Positive,0,40,Died of Disease
+0,81.14,LumB,4,Positive,NEUTRAL,Negative,1,Post,1,4.04,IDC,76,0,Negative,0,20,Died of Other Causes
+0,71.69,LumB,4,Positive,NEUTRAL,Negative,1,Post,0,4.046,IDC,97.6,0,Positive,1,23,Died of Other Causes
+0,62.07,claudinlow,4,Negative,NEUTRAL,Negative,1,Post,0,3.032,IDC,163.4333333,1,Positive,1,16,Living
+1,38.17,Basal,4,Negative,NEUTRAL,Negative,1,Pre,2,5.05,IDC,166.0333333,1,Negative,1,25,Living
+1,43.28,Her2,4,Negative,GAIN,Positive,1,Pre,1,2.06,IDC,55.73333333,0,Negative,1,30,Died of Disease
+1,48.83,Basal,4,Negative,NEUTRAL,Negative,1,Pre,9,6.0622,IDC,45.93333333,0,Negative,1,31.1,Died of Disease
+0,62.26,LumA,4,Positive,GAIN,Negative,1,Post,0,4.0286,ILC,52.5,0,Positive,0,14.3,Died of Other Causes
+0,60.15,claudinlow,4,Positive,NEUTRAL,Negative,1,Post,2,4.031,IDC,208.9666667,0,Negative,1,15.5,Died of Other Causes
+0,79.23,LumB,4,Positive,NEUTRAL,Negative,1,Post,0,3.04,ILC,207.4666667,0,Positive,0,20,Died of Other Causes
+0,62.61,LumA,4,Positive,NEUTRAL,Negative,0,Post,0,1.02,IDC,90.4,0,Positive,1,10,Died of Other Causes
+0,57.87,LumA,4,Positive,NEUTRAL,Negative,1,Post,2,3.0252,ILC,165.4333333,1,Positive,1,12.6,Living
+0,60.07,LumA,4,Positive,NEUTRAL,Negative,1,Post,1,3.025,IDC,165.2,1,Positive,1,12.5,Living
+0,70.97,LumB,4,Positive,NEUTRAL,Negative,1,Post,0,3.0502,IDC,183.2,0,Positive,1,25.1,Died of Other Causes
+1,49.61,Basal,4,Negative,GAIN,Negative,1,Pre,3,5.076,IDC,55,0,Negative,1,38,Died of Disease
+1,67.88,LumB,4,Positive,GAIN,Negative,1,Post,3,5.0352,IDC,53.36666667,0,Negative,0,17.6,Died of Disease
+0,72.66,Normal,4,Positive,NEUTRAL,Negative,1,Post,0,3.034,IDC,63.2,0,Negative,0,17,Died of Other Causes
+0,58.92,Normal,4,Positive,GAIN,Negative,1,Post,6,5.07,IDC,239.1666667,1,Positive,0,35,Living
+0,73.52,LumA,4,Positive,NEUTRAL,Negative,1,Post,1,5.058,MDLC,111.6,0,Positive,0,29,Died of Other Causes
+0,51.45,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,3.03,IDC,182.6,1,Positive,1,15,Living
+0,68.41,LumA,4,Positive,NEUTRAL,Negative,0,Post,0,1.076,IDC,199.0333333,0,Positive,0,38,Died of Other Causes
+0,58.37,LumA,4,Positive,NEUTRAL,Negative,0,Post,0,3.00424,IDC,177.6,1,Positive,0,2.12,Living
+0,74.76,Her2,4,Positive,NEUTRAL,Negative,1,Post,0,3.0426,IDC,222.0333333,0,Positive,0,21.3,Died of Other Causes
+0,63.43,LumB,4,Positive,NEUTRAL,Negative,1,Post,0,4.016,IDC,222.2,1,Negative,1,8,Living
+0,62.45,LumA,4,Positive,GAIN,Negative,1,Post,2,4.04,BREAST,170.8,1,Positive,0,20,Living
+0,51.46,LumB,4,Positive,GAIN,Negative,1,Post,5,5.04464,,201.4666667,0,Positive,1,22.32,Died of Other Causes
+0,77.37,NC,4,Positive,GAIN,Negative,1,Post,8,5.036,IDC,23.93333333,0,Positive,0,18,Died of Disease
+0,71.11,Her2,4,Positive,NEUTRAL,Negative,1,Post,0,4.054,IDC,23.26666667,0,Negative,0,27,Died of Disease
+0,47.85,LumB,4,Positive,NEUTRAL,Negative,0,Pre,1,4.046,IDC,171.1,1,Positive,0,23,Living
+0,78.89,LumA,4,Positive,NEUTRAL,Negative,1,Post,0,2.034,IDC,148.8,0,Negative,0,17,Died of Other Causes
+0,54.81,LumA,4,Positive,NEUTRAL,Negative,0,Post,1,3.024,IDC,184.1666667,1,Positive,1,12,Living
+0,75.13,LumA,4,Positive,GAIN,Negative,1,Post,0,1.042,IDC,58.66666667,0,Positive,1,21,Died of Other Causes
+0,48.45,Her2,4,Negative,GAIN,Positive,0,Pre,0,4.0354,IDC,51,0,Negative,1,17.7,Died of Disease
+0,54.66,Her2,4,Negative,GAIN,Positive,1,Post,5,6.03094,IDC,21.56666667,0,Negative,0,15.47,Died of Disease
+0,74.8,Her2,4,Negative,GAIN,Negative,1,Post,5,6.07,IDC,35.7,0,Negative,0,35,Died of Other Causes
+0,69.72,LumB,4,Positive,NEUTRAL,Negative,1,Post,0,3.05,IDC,59.96666667,0,Negative,0,25,Died of Disease
+0,62.46,LumA,4,Positive,NEUTRAL,Negative,1,Post,2,4.046,IDC,192.2,1,Positive,0,23,Living
+1,50.92,Her2,4,Negative,GAIN,Positive,1,Post,17,5.08,IDC,34.7,0,Negative,1,40,Died of Disease
+1,45.11,Basal,4,Negative,NEUTRAL,Negative,1,Pre,6,6.06,IDC,15.06666667,0,Negative,1,30,Died of Disease
+1,52.41,Her2,4,Positive,GAIN,Positive,0,Post,7,6.0483,IDC,31.16666667,1,Negative,1,24.15,Living
+0,83.8,Her2,4,Positive,NEUTRAL,Negative,1,Post,1,5.08,IDC,104.0333333,0,Negative,0,40,Died of Other Causes
+0,63.89,LumB,4,Positive,GAIN,Negative,1,Post,2,4.06,IDC,164.9666667,0,Positive,1,30,Died of Other Causes
+0,60.57,Normal,4,Positive,NEUTRAL,Negative,1,Post,11,6.07,IDC,42.96666667,0,Negative,1,35,Died of Disease
+0,59.82,LumB,4,Positive,NEUTRAL,Negative,1,Post,1,3.08,IDC,68.16666667,0,Positive,1,40,Died of Disease
+1,28.37,Basal,4,Negative,GAIN,Negative,0,Pre,3,5.041,IDC,195.3666667,0,Negative,1,20.5,Died of Other Causes
+0,34.64,LumA,4,Positive,LOSS,Negative,1,Pre,1,5.1,IDC,227.4666667,1,Positive,1,50,Living
+1,36.6,Basal,4,Negative,GAIN,Negative,1,Pre,2,5.05,IDC,21.16666667,0,Negative,1,25,Died of Disease
+1,50.84,Basal,4,Negative,NEUTRAL,Negative,0,Post,1,5.032,IDC,175.1666667,1,Negative,0,16,Living
+1,47.47,Her2,4,Negative,GAIN,Positive,0,Pre,1,5.04,ILC,208.2,1,Negative,1,20,Living
+1,30.02,Her2,4,Negative,GAIN,Positive,0,Pre,3,5.04,IDC,44.4,0,Positive,0,20,Died of Disease
+0,61.27,LumA,4,Positive,NEUTRAL,Negative,1,Post,4,4.04,IDC,185.3333333,1,Positive,1,20,Living
+0,56.78,LumA,4,Positive,NEUTRAL,Negative,1,Post,3,4.06,IDC,187.0333333,1,Positive,0,30,Living
+0,67.89,LumA,4,Positive,NEUTRAL,Negative,1,Post,1,4.03,IDC,241.3,0,Positive,0,15,Died of Other Causes
+0,86.14,Her2,4,Positive,GAIN,Negative,1,Post,3,4.1,IDC,21.3,0,Positive,0,50,Died of Disease
+0,63.5,LumA,4,Positive,NEUTRAL,Negative,1,Post,6,5.08,IDC,195.5333333,1,Positive,0,40,Living
+1,51.22,Her2,4,Negative,GAIN,Positive,1,Post,3,5.032,IDC,49.53333333,0,Negative,1,16,Died of Disease
+1,54.42,LumB,4,Positive,LOSS,Negative,1,Post,33,5.06,ILC,28.86666667,0,Negative,1,30,Died of Disease
+0,61.23,LumA,4,Positive,NEUTRAL,Negative,1,Post,1,5.03,IDC,203,0,Negative,0,15,Died of Other Causes
+0,53.14,claudinlow,4,Positive,GAIN,Negative,1,Post,3,4.04,IDC,109,0,Positive,1,20,Died of Disease
+0,66.48,LumB,4,Positive,NEUTRAL,Negative,1,Post,3,5.05,IDC,158.6333333,0,Negative,0,25,Died of Other Causes
+0,63.09,LumB,4,Positive,GAIN,Positive,1,Post,10,6.06,IDC,96.96666667,0,Positive,0,30,Died of Disease
+0,55.7,LumB,4,Positive,NEUTRAL,Negative,1,Post,8,5.06,IDC,27.06666667,0,Negative,1,30,Died of Disease
+0,51.87,Normal,4,Positive,GAIN,Negative,1,Post,5,5.13,IDC,126.6666667,0,Positive,0,65,Died of Disease
+0,53.87,claudinlow,4,Negative,GAIN,Positive,1,Post,22,6.1,IDC,6.833333333,0,Negative,0,50,Died of Disease
+0,52.9,LumB,4,Positive,GAIN,Negative,1,Post,1,4.03,IDC,78.46666667,0,Positive,1,15,Died of Disease
+0,56.9,LumA,4,Positive,NEUTRAL,Negative,1,Post,1,5.09,IDC,199.2333333,1,Positive,0,45,Living
+0,59.2,LumB,4,Positive,GAIN,Negative,1,Post,1,4.03,IDC,82.73333333,0,Positive,0,15,Died of Disease
+0,43.1,LumA,4,Positive,NEUTRAL,Negative,1,Pre,1,5.05,ILC,196.8666667,1,Positive,1,25,Living
+0,42.88,LumB,4,Positive,GAIN,Positive,0,Pre,1,5.04,IDC,44.73333333,0,Negative,1,20,Died of Disease
+0,62.9,LumB,4,Positive,NEUTRAL,Negative,1,Post,45,6.05,IDC,175.9666667,0,Positive,1,25,Died of Disease
+0,61.16,LumB,4,Positive,NEUTRAL,Negative,1,Post,12,5.05,IDC,86.23333333,0,Positive,0,25,Died of Other Causes
+0,60.02,LumB,4,Positive,NEUTRAL,Negative,1,Post,1,5.04,IDC,201.9,0,Negative,1,20,Died of Other Causes
